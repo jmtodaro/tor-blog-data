@@ -5,7 +5,7 @@ permalink: national-network-end-domestic-violence-conference-wrap
 date: 2008-08-18 21:19:17
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["anonymity advocacy", "cyberstalking", "domestic abuse", "dv", "ipv", "nnedv"]
 ---
 

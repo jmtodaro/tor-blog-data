@@ -5,7 +5,7 @@ permalink: vidalia-logo-design-contest
 date: 2008-08-15 19:39:06
 author: Anonymous
 category: blog
-status: closed
+comments: closed
 tags: ["contest", "logo", "vidalia"]
 ---
 

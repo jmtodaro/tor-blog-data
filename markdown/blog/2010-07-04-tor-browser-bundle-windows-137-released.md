@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-windows-137-released
 date: 2010-07-04 21:53:13
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "pidgin updates", "tor browser bundle"]
 ---
 

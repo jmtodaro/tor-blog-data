@@ -5,7 +5,7 @@ permalink: diginotar-damage-disclosure
 date: 2011-09-04 11:30:38
 author: ioerror
 category: blog
-status: closed
+comments: closed
 tags: ["ca certificates", "https", "ohdiginotaryoudidnt", "ssl certifications", "tor client safety", "tor network safety", "tor project website"]
 ---
 

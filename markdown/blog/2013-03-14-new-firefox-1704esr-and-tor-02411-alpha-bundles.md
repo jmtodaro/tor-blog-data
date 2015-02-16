@@ -5,7 +5,7 @@ permalink: new-firefox-1704esr-and-tor-02411-alpha-bundles
 date: 2013-03-14 10:18:20
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "firefox", "tbb", "tor browser", "tor browser bundle"]
 ---
 

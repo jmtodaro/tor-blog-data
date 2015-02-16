@@ -5,7 +5,7 @@ permalink: using-tor-good
 date: 2012-01-07 23:35:36
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["arab spring", "controversial content hosting", "globaleaks", "hidden services", "positive uses", "resilience"]
 ---
 

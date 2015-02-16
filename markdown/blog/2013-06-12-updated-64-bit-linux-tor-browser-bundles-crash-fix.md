@@ -5,7 +5,7 @@ permalink: updated-64-bit-linux-tor-browser-bundles-crash-fix
 date: 2013-06-12 17:44:28
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["linux", "tbb", "tor browser"]
 ---
 

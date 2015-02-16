@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-and-alpha-bundles-451
 date: 2012-10-23 05:19:53
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "release candidate", "tbb", "tor browser bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: tor-02221-alpha-out-security-patches
 date: 2011-01-18 23:25:48
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha release", "security fixes", "tbb", "tor", "tor browser bundle", "updated packages"]
 ---
 

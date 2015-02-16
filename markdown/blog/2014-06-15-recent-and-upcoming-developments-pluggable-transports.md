@@ -5,7 +5,7 @@ permalink: recent-and-upcoming-developments-pluggable-transports
 date: 2014-06-15 15:44:03
 author: asn
 category: blog
-status: closed
+comments: closed
 tags: ["circumvention", "pluggable transports", "pt"]
 ---
 

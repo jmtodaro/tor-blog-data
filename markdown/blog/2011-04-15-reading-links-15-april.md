@@ -5,7 +5,7 @@ permalink: reading-links-15-april
 date: 2011-04-15 22:47:50
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "anonymity", "interesting reading", "privacy", "reading links"]
 ---
 

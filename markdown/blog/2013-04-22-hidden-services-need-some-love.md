@@ -5,7 +5,7 @@ permalink: hidden-services-need-some-love
 date: 2013-04-22 20:13:05
 author: asn
 category: blog
-status: closed
+comments: closed
 tags: ["hidden services", "love", "research"]
 ---
 

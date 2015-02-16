@@ -5,7 +5,7 @@ permalink: april-2008-progress-report
 date: 2008-05-14 11:53:24
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["progress report", "release candidate", "torbrowser", "torbutton", "translation"]
 ---
 

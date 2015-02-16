@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-123-and-124-released
 date: 2009-07-12 22:50:41
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "enhancements", "release candidate", "tor browser bundle"]
 ---
 

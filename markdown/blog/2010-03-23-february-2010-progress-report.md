@@ -5,7 +5,7 @@ permalink: february-2010-progress-report
 date: 2010-03-23 20:26:36
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "performance enhancements", "progress report"]
 ---
 

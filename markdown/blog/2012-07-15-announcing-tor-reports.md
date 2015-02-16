@@ -5,7 +5,7 @@ permalink: announcing-tor-reports
 date: 2012-07-15 19:41:54
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["progress report", "report mailing list", "status report"]
 ---
 

@@ -5,7 +5,7 @@ permalink: 2011-stockholm-hackfest-thanks
 date: 2011-05-14 17:22:48
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["hackfest", "stockholm", "stockholm hackfest", "sverige", "sweden"]
 ---
 

@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-20
 date: 2012-07-29 21:37:13
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "firefox update", "tbb", "tor browser", "vidalia releases"]
 ---
 

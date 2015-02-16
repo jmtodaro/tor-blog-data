@@ -5,7 +5,7 @@ permalink: torbutton-141-released
 date: 2011-08-28 21:41:51
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["firefox", "hotmail fixes", "new identity", "safecache", "tor browser", "tor browser bundle", "torbutton"]
 ---
 

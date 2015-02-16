@@ -5,7 +5,7 @@ permalink: lots-new-tor-and-vidalia-packages
 date: 2011-04-12 22:09:44
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha release", "bug fixes", "stable release", "tor", "tor browser bundle", "vidalia"]
 ---
 

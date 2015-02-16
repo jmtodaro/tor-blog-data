@@ -5,7 +5,7 @@ permalink: march-2012-progress-report
 date: 2012-04-10 22:47:21
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "bridge relays", "improved tor", "metrics", "onionbox", "progress report", "torouter"]
 ---
 

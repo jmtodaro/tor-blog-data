@@ -5,7 +5,7 @@ permalink: cimaned-panel-iran-and-new-media
 date: 2009-07-14 07:10:05
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["CIMA/NED", "iran", "panel", "press"]
 ---
 

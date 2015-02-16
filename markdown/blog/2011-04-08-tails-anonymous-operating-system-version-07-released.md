@@ -5,7 +5,7 @@ permalink: tails-anonymous-operating-system-version-07-released
 date: 2011-04-08 21:46:12
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymous operating system", "livecd", "liveusb", "tails", "tor"]
 ---
 

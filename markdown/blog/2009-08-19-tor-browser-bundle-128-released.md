@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-128-released
 date: 2009-08-19 22:43:12
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["openssl fixes", "tor browser bundle", "vidalia release"]
 ---
 

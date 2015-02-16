@@ -5,7 +5,7 @@ permalink: call-papers-free-and-open-communications-internet-foci-workshop
 date: 2012-03-22 01:34:17
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "conference", "internet censorship", "research"]
 ---
 

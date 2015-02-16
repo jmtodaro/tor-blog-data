@@ -5,7 +5,7 @@ permalink: cryptoparty-stockholm
 date: 2013-03-05 12:12:51
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["cryptography", "cryptoparty", "fun times", "kids", "stockholm", "sweden"]
 ---
 

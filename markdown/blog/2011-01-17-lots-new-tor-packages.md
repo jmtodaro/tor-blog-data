@@ -5,7 +5,7 @@ permalink: lots-new-tor-packages
 date: 2011-01-17 12:36:38
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha releases", "apple osx love", "ppc", "security fixes", "security updates", "stable releases", "tbb", "tor", "tor browser bundle", "torbrowser", "updated packages"]
 ---
 

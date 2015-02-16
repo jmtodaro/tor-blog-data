@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-1210-released
 date: 2009-11-20 23:43:26
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "libevent updates", "openssl fixes", "tor browser bundle", "vidalia updates"]
 ---
 

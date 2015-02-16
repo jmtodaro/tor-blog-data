@@ -5,7 +5,7 @@ permalink: february-2009-progress-report
 date: 2009-03-10 10:24:22
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "progress report", "translation"]
 ---
 

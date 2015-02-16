@@ -5,7 +5,7 @@ permalink: deterministic-builds-part-one-cyberwar-and-global-compromise
 date: 2013-08-20 14:40:47
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["cyberpeace", "dangerous toys", "decentralization", "deterministic builds", "gitian", "lack of foresight", "National Insecurity Agency", "security"]
 ---
 

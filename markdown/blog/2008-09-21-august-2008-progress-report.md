@@ -5,7 +5,7 @@ permalink: august-2008-progress-report
 date: 2008-09-21 18:05:39
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "incognito", "progress report", "releases", "stable release", "tor weather", "translations", "updates"]
 ---
 

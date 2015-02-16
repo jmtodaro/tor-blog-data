@@ -5,7 +5,7 @@ permalink: new-pythondjango-based-torstatus
 date: 2011-08-29 03:02:33
 author: karsten
 category: blog
-status: closed
+comments: closed
 tags: ["django", "get involved", "python", "relay information", "tor network", "tor status", "wesleyan hfoss"]
 ---
 

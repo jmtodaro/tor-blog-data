@@ -5,7 +5,7 @@ permalink: introducing-tor-translation-glossary
 date: 2012-04-30 05:12:43
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["glossary", "tor", "translation"]
 ---
 

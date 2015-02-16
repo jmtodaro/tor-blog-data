@@ -5,7 +5,7 @@ permalink: join-us-tor-project-boston-hack-day-event-march-20-2013-hosted-boston
 date: 2013-03-06 18:01:53
 author: kelley
 category: blog
-status: closed
+comments: closed
 tags: ["boston hackfest", "hackfest", "tor"]
 ---
 

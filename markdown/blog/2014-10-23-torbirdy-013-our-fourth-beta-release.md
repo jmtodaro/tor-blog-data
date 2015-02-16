@@ -5,7 +5,7 @@ permalink: torbirdy-013-our-fourth-beta-release
 date: 2014-10-23 10:16:28
 author: sukhbir
 category: blog
-status: closed
+comments: closed
 tags: ["email", "icedove", "Thunderbird", "TorBirdy"]
 ---
 

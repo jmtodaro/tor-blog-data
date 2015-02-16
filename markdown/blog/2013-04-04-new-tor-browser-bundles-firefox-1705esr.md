@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-firefox-1705esr
 date: 2013-04-04 23:52:27
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tor browser bundle", "torbrowser"]
 ---
 

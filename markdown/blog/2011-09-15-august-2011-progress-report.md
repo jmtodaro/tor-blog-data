@@ -5,7 +5,7 @@ permalink: august-2011-progress-report
 date: 2011-09-15 08:50:28
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity research", "bug fixes", "feature enhancements", "obfsproxy", "progress report", "stable release", "tor browser bundles"]
 ---
 

@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-129-released
 date: 2009-09-11 20:55:03
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["firefox update", "pidgin update", "security fixes", "tor browser bundle", "vidalia release"]
 ---
 

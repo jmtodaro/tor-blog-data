@@ -5,7 +5,7 @@ permalink: research-problems-ten-ways-discover-tor-bridges
 date: 2011-10-31 14:28:14
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["bridge relays", "internet censorship", "research"]
 ---
 

@@ -5,7 +5,7 @@ permalink: new-feature-tor-interpreter
 date: 2014-05-25 23:11:45
 author: atagar
 category: blog
-status: closed
+comments: closed
 tags: ["stem"]
 ---
 

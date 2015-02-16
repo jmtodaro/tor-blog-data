@@ -5,7 +5,7 @@ permalink: activists-iran-and-syria-targeted-malicious-computer-software
 date: 2012-03-15 06:26:42
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["iran", "malware", "privacy", "security", "syria"]
 ---
 

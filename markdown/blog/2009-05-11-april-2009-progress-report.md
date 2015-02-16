@@ -5,7 +5,7 @@ permalink: april-2009-progress-report
 date: 2009-05-11 21:27:48
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bugfixes", "progress report", "tor browser bundle"]
 ---
 

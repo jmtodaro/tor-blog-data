@@ -5,7 +5,7 @@ permalink: february-2011-progress-report
 date: 2011-03-15 12:11:15
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "censosrhip circumvention", "downloads", "improvements", "incentives", "progress report", "research"]
 ---
 

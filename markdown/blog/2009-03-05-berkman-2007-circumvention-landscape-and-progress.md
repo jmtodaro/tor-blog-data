@@ -5,7 +5,7 @@ permalink: berkman-2007-circumvention-landscape-and-progress
 date: 2009-03-05 01:18:51
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["Berkman Center for Internet and Society", "research report", "tool comparison"]
 ---
 

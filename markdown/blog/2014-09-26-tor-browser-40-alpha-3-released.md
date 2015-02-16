@@ -5,7 +5,7 @@ permalink: tor-browser-40-alpha-3-released
 date: 2014-09-26 03:12:14
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tbb-4.0", "tor browser", "tor browser bundle"]
 ---
 

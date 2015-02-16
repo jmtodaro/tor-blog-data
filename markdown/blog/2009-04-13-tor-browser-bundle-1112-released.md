@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-1112-released
 date: 2009-04-13 17:31:24
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["tor browser bundle", "tor IM browser bundle"]
 ---
 

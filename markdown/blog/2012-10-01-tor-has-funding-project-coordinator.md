@@ -5,7 +5,7 @@ permalink: tor-has-funding-project-coordinator
 date: 2012-10-01 10:22:32
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["jobs", "project coordinator"]
 ---
 

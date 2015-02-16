@@ -5,7 +5,7 @@ permalink: polipo-changes-maintainer
 date: 2009-12-11 16:02:36
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["Google Summer of Code", "maintainer", "new features", "performance", "polipo", "volunteer"]
 ---
 

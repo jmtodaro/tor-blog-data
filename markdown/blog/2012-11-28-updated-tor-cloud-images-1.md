@@ -5,7 +5,7 @@ permalink: updated-tor-cloud-images-1
 date: 2012-11-28 16:00:29
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "obfsproxy", "relays", "tor", "tor cloud"]
 ---
 

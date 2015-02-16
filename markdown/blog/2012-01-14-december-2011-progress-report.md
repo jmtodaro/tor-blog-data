@@ -5,7 +5,7 @@ permalink: december-2011-progress-report
 date: 2012-01-14 22:34:57
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "hidden services", "openssl fixes", "progress report", "stable release", "tor releases"]
 ---
 

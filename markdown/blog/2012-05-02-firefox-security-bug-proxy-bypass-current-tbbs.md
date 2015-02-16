@@ -5,7 +5,7 @@ permalink: firefox-security-bug-proxy-bypass-current-tbbs
 date: 2012-05-02 16:47:41
 author: rransom
 category: blog
-status: closed
+comments: closed
 tags: ["dns bypass", "firefox", "security advisory", "tor browser bundle", "websockets"]
 ---
 

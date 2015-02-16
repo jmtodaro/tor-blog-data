@@ -5,7 +5,7 @@ permalink: refreshed-tor-cloud-images
 date: 2012-02-27 15:56:24
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["bridge relays", "cloud", "tor", "tor cloud"]
 ---
 

@@ -5,7 +5,7 @@ permalink: net-freedom-secretary-clinton-and-tor
 date: 2010-01-23 00:04:34
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["internet freedom", "secretary clinton"]
 ---
 

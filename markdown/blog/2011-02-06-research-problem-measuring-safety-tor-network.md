@@ -5,7 +5,7 @@ permalink: research-problem-measuring-safety-tor-network
 date: 2011-02-06 00:18:00
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["research", "research progress", "thesis idea"]
 ---
 

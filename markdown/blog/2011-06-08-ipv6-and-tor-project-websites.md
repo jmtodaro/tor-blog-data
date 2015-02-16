@@ -5,7 +5,7 @@ permalink: ipv6-and-tor-project-websites
 date: 2011-06-08 06:48:13
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["ipv6", "torproject websites", "world ipv6 day"]
 ---
 

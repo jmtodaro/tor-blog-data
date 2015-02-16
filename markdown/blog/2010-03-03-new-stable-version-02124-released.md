@@ -5,7 +5,7 @@ permalink: new-stable-version-02124-released
 date: 2010-03-03 15:14:34
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["apple osx love", "bug fixes", "enhancements", "performance enhancements", "stable release", "tor update"]
 ---
 

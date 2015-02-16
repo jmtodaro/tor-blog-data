@@ -5,7 +5,7 @@ permalink: tor-partially-blocked-china
 date: 2009-09-27 19:15:55
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "china", "great firewall of china", "great firewall of iran", "October 1", "tor blocked"]
 ---
 

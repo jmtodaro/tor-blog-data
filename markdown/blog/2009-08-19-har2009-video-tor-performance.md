@@ -5,7 +5,7 @@ permalink: har2009-video-tor-performance
 date: 2009-08-19 15:30:38
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["performance", "talks", "videos"]
 ---
 

@@ -5,7 +5,7 @@ permalink: visitor-or-script-tell-you-how-many-your-users-are-probably-tor-users
 date: 2010-10-04 02:10:54
 author: karsten
 category: blog
-status: closed
+comments: closed
 tags: ["metrics apache"]
 ---
 

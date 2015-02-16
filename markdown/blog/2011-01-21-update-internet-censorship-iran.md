@@ -5,7 +5,7 @@ permalink: update-internet-censorship-iran
 date: 2011-01-21 02:11:28
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["great potato wall", "internet censorship", "iran", "ssl man-in-the-middle"]
 ---
 

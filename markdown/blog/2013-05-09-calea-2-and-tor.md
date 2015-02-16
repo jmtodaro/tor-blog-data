@@ -5,7 +5,7 @@ permalink: calea-2-and-tor
 date: 2013-05-09 16:31:16
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "data retention", "law enforcement"]
 ---
 

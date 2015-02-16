@@ -5,7 +5,7 @@ permalink: tor-02116rc-release-candidate-now-available
 date: 2009-06-24 09:32:45
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "hidden service fixes", "release candidate", "security fixes"]
 ---
 

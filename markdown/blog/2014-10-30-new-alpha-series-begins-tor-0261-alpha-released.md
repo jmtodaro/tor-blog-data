@@ -5,7 +5,7 @@ permalink: new-alpha-series-begins-tor-0261-alpha-released
 date: 2014-10-30 12:52:11
 author: nickm
 category: blog
-status: open
+comments: open
 tags: ["026", "0261", "alpha", "release", "tor"]
 ---
 

@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-windows
 date: 2012-05-25 07:00:16
 author: Sebastian
 category: blog
-status: closed
+comments: closed
 tags: ["path leak", "tbb", "tor browser", "tor browser bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: november-2008-progress-report
 date: 2008-12-24 23:29:44
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "bug fixes", "hidden services", "progress report", "translations"]
 ---
 

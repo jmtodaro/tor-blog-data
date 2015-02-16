@@ -5,7 +5,7 @@ permalink: www-archive-ns-and-rsync-1
 date: 2012-09-11 08:34:46
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["archive", "debian", "infrastructure", "listera", "mirror", "nameserver", "rsync", "server", "www"]
 ---
 

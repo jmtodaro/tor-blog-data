@@ -5,7 +5,7 @@ permalink: boston-tor-hackers-join-us-sunday-september-19th
 date: 2010-09-15 12:11:43
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["code", "developers", "hackfest", "theories", "tor"]
 ---
 

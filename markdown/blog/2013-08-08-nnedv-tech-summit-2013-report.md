@@ -5,7 +5,7 @@ permalink: nnedv-tech-summit-2013-report
 date: 2013-08-08 10:06:43
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["domestic violence", "helping", "ipv", "nnedv", "techsummit"]
 ---
 

@@ -5,7 +5,7 @@ permalink: announcing-tor-store
 date: 2010-03-29 11:39:27
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["ecommerce", "mugs", "printfection", "shopping", "tor logo", "tor store", "tshirts"]
 ---
 

@@ -5,7 +5,7 @@ permalink: tor-incentives-research-roundup-goldstar-par-braids-lira-tears-and-to
 date: 2014-07-14 14:37:34
 author: robgjansen
 category: blog
-status: closed
+comments: closed
 tags: ["bitcoin", "incentives", "performance", "research"]
 ---
 

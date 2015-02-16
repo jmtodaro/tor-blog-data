@@ -5,7 +5,7 @@ permalink: tor-02113alpha-released
 date: 2009-03-13 00:32:59
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha release", "bug fixes", "security fixes"]
 ---
 

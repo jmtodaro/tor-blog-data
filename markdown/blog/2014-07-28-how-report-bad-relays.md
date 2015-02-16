@@ -5,7 +5,7 @@ permalink: how-report-bad-relays
 date: 2014-07-28 18:07:14
 author: phw
 category: blog
-status: closed
+comments: closed
 tags: ["badexit", "exit relay", "mitm"]
 ---
 

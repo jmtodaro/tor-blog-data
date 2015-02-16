@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-30rc1-released
 date: 2013-11-21 21:52:00
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tbb-3.0", "tor browser", "tor browser bundle", "tor-browser-bundle"]
 ---
 

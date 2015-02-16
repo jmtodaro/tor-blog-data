@@ -5,7 +5,7 @@ permalink: tor-summer-2014-dev-meeting-hosted-mozilla
 date: 2014-04-29 07:58:32
 author: kelley
 category: blog
-status: closed
+comments: closed
 tags: ["dev meeting", "paris"]
 ---
 

@@ -5,7 +5,7 @@ permalink: london-internet-security-privacy-workshop
 date: 2011-03-05 09:01:31
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["internet privacy", "internet security", "london"]
 ---
 

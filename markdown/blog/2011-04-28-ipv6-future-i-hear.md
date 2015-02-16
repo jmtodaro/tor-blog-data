@@ -5,7 +5,7 @@ permalink: ipv6-future-i-hear
 date: 2011-04-28 10:50:56
 author: nickm
 category: blog
-status: closed
+comments: closed
 tags: ["development", "ipv6"]
 ---
 

@@ -5,7 +5,7 @@ permalink: communications-data-bill-committee-publishes-report
 date: 2012-12-10 18:58:24
 author: sjmurdoch
 category: blog
-status: closed
+comments: closed
 tags: [""]
 ---
 

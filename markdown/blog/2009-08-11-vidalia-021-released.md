@@ -5,7 +5,7 @@ permalink: vidalia-021-released
 date: 2009-08-11 22:48:59
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["usability enhancements", "vidalia release"]
 ---
 

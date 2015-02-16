@@ -5,7 +5,7 @@ permalink: protecting-your-internet-traffic-volatile-times
 date: 2011-02-02 15:18:23
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["egypt", "low bandwidth clients", "tor camouflage", "tor on satellite", "volatile internet"]
 ---
 

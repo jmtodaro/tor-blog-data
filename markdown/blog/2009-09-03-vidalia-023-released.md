@@ -5,7 +5,7 @@ permalink: vidalia-023-released
 date: 2009-09-03 08:48:53
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["drag and drop OS X install", "msi installer", "updated packages", "vidalia bundle"]
 ---
 

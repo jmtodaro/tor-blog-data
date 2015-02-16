@@ -5,7 +5,7 @@ permalink: we-are-hiring-support-assistants-and-translators
 date: 2012-11-28 16:04:48
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["jobs", "support", "support assistants", "translators"]
 ---
 

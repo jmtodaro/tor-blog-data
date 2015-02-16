@@ -5,7 +5,7 @@ permalink: ahmia-search-after-gsoc-development
 date: 2014-09-07 22:35:23
 author: juha
 category: blog
-status: closed
+comments: closed
 tags: ["ahmia", "ahmia.fi", "crawling", "GSoC 2014", "hidden services", "onion", "search engine"]
 ---
 

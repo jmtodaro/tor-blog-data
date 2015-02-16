@@ -5,7 +5,7 @@ permalink: obfsproxy-next-step-censorship-arms-race
 date: 2012-02-16 04:17:33
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "censorship circumvention", "internet censorship", "iran", "obfsproxy"]
 ---
 

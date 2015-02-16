@@ -5,7 +5,7 @@ permalink: ethiopia-introduces-deep-packet-inspection
 date: 2012-05-31 03:29:42
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["censorship circumvention", "deep packet inspection", "dpi", "ethiopia", "internet censorship", "tor blocked"]
 ---
 

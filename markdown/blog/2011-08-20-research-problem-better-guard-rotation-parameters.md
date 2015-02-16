@@ -5,7 +5,7 @@ permalink: research-problem-better-guard-rotation-parameters
 date: 2011-08-20 13:22:07
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity", "anonymity features", "attackers", "entry guards", "guard relays", "performance", "protecting users", "research"]
 ---
 

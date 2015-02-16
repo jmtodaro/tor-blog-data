@@ -5,7 +5,7 @@ permalink: march-2009-progress-report
 date: 2009-04-13 07:56:43
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "bug fixes", "progress report"]
 ---
 

@@ -5,7 +5,7 @@ permalink: stockholm-may-2014-trip-report
 date: 2014-05-30 15:40:49
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["burkina faso", "egypt", "gender equality", "jordan", "kenya", "panel talks", "stockholm", "stockholm internet forum", "sweden", "uganda"]
 ---
 

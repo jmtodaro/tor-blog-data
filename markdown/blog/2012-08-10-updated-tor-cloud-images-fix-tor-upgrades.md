@@ -5,7 +5,7 @@ permalink: updated-tor-cloud-images-fix-tor-upgrades
 date: 2012-08-10 06:48:34
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "relays", "tor", "tor cloud"]
 ---
 

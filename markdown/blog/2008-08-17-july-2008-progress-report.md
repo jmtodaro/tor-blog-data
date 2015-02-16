@@ -5,7 +5,7 @@ permalink: july-2008-progress-report
 date: 2008-08-17 22:11:31
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["bridges", "progress report", "proposals", "research", "tor", "torbrowser", "torbutton", "translation", "vidalia"]
 ---
 

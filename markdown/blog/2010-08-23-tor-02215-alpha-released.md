@@ -5,7 +5,7 @@ permalink: tor-02215-alpha-released
 date: 2010-08-23 03:44:28
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha releases", "hidden services", "memory leaks", "performance improvements", "tor"]
 ---
 

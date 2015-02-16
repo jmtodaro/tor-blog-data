@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-mac-osx-and-1058
 date: 2012-04-01 08:11:51
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["backward compatibility", "osx", "tor browser bundle"]
 ---
 

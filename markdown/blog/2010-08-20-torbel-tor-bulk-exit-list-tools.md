@@ -5,7 +5,7 @@ permalink: torbel-tor-bulk-exit-list-tools
 date: 2010-08-20 08:33:50
 author: hbock
 category: blog
-status: closed
+comments: closed
 tags: ["gsoc2010", "torbel"]
 ---
 

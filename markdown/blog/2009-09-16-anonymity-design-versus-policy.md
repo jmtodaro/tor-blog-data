@@ -5,7 +5,7 @@ permalink: anonymity-design-versus-policy
 date: 2009-09-16 22:44:30
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "blogging", "commenting", "courts", "free speech", "news stories", "online anonymity"]
 ---
 

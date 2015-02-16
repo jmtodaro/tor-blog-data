@@ -5,7 +5,7 @@ permalink: tor-02510-released-and-tor-023x-deprecated
 date: 2014-10-27 08:25:36
 author: nickm
 category: blog
-status: open
+comments: open
 tags: ["deprecation", "release", "tor", "tor-025"]
 ---
 

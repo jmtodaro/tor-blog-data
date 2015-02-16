@@ -5,7 +5,7 @@ permalink: tor-browser-36-beta-1-released
 date: 2014-03-18 13:26:53
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tbb-3.6", "tor browser", "tor browser bundle"]
 ---
 

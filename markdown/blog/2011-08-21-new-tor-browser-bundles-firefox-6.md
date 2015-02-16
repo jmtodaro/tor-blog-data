@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-firefox-6
 date: 2011-08-21 04:44:09
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["firefox 6", "firefox updates", "package updates", "security fixes", "tor browser", "tor browser bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: transparency-openness-and-our-2013-financials
 date: 2014-07-26 15:09:41
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["donations", "financial statements", "Form 990", "Form PC", "freedom", "growing", "privacy", "success"]
 ---
 

@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-10
 date: 2011-11-24 11:07:17
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox", "tbb", "tor browser"]
 ---
 

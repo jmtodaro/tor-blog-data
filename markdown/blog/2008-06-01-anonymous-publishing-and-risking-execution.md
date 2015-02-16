@@ -5,7 +5,7 @@ permalink: anonymous-publishing-and-risking-execution
 date: 2008-06-01 08:01:52
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "anonymous publishing", "London Review of Books", "risking execution", "Terry Eagleton"]
 ---
 

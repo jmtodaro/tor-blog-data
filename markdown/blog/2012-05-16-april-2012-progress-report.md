@@ -5,7 +5,7 @@ permalink: april-2012-progress-report
 date: 2012-05-16 14:49:51
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["advocacy", "bridgedb", "obfsproxy", "press", "progress report", "shadow", "tails releases", "tor alpha release", "tor simulator", "volunteer support"]
 ---
 

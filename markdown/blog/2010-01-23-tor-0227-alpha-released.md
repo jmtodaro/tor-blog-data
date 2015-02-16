@@ -5,7 +5,7 @@ permalink: tor-0227-alpha-released
 date: 2010-01-23 07:48:28
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "deprecated features", "feature enhancements", "performance enhancements", "security critical", "security fixes"]
 ---
 

@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-121-release-candidate
 date: 2009-06-17 22:53:08
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "release candidate", "tor browser bundle"]
 ---
 

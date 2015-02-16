@@ -5,7 +5,7 @@ permalink: may-2008-progress-report
 date: 2008-06-24 22:39:17
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "browser bundle", "progress report", "tor", "torbutton", "vidalia"]
 ---
 

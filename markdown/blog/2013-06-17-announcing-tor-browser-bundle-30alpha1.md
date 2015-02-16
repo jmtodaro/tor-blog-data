@@ -5,7 +5,7 @@ permalink: announcing-tor-browser-bundle-30alpha1
 date: 2013-06-17 15:18:16
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["gitian", "security", "tbb", "tbb-3.0", "tor browser", "tor browser bundle", "tor-browser-bundle", "usability"]
 ---
 

@@ -5,7 +5,7 @@ permalink: towards-tor-censorship-analysis-tool
 date: 2013-02-06 17:07:11
 author: phw
 category: blog
-status: closed
+comments: closed
 tags: ["censorship", "measurement"]
 ---
 

@@ -5,7 +5,7 @@ permalink: weather-change
 date: 2011-01-29 08:58:00
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["feature enhancements", "relay tracking", "weather"]
 ---
 

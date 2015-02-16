@@ -5,7 +5,7 @@ permalink: moving-tor-datagram-transport
 date: 2011-11-07 15:10:00
 author: sjmurdoch
 category: blog
-status: closed
+comments: closed
 tags: ["datagram", "performance improvements", "tls"]
 ---
 

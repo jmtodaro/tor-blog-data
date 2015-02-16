@@ -5,7 +5,7 @@ permalink: politically-motivated-censorship-bethlehem-palestine
 date: 2012-04-23 16:34:57
 author: art
 category: blog
-status: closed
+comments: closed
 tags: ["censorship", "ooni", "ooniprobe", "Palestine"]
 ---
 

@@ -5,7 +5,7 @@ permalink: sha-1-files-popular-request
 date: 2008-12-19 00:07:47
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["downloads", "file verification", "hashes", "sha-1"]
 ---
 

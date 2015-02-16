@@ -5,7 +5,7 @@ permalink: measuring-tor-network-public-directory-information
 date: 2009-06-16 13:25:31
 author: karsten
 category: blog
-status: closed
+comments: closed
 tags: ["censorship circumvention", "performance", "research"]
 ---
 

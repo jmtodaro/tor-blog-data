@@ -5,7 +5,7 @@ permalink: new-name-obfsproxy-tor-browser-bundles
 date: 2013-03-22 17:55:14
 author: asn
 category: blog
-status: closed
+comments: closed
 tags: ["bundles", "pluggable transports"]
 ---
 

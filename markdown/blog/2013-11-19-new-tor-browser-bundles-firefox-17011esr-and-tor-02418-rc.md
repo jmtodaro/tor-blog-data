@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-firefox-17011esr-and-tor-02418-rc
 date: 2013-11-19 13:28:36
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["release candidate", "tbb", "tor", "tor browser", "tor browser bundle", "tor releases"]
 ---
 

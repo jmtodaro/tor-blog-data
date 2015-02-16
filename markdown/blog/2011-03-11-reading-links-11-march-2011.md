@@ -5,7 +5,7 @@ permalink: reading-links-11-march-2011
 date: 2011-03-11 14:46:04
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["interesting topics", "reading links", "thoughts", "what we&#039;re reading"]
 ---
 

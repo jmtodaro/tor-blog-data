@@ -5,7 +5,7 @@ permalink: seminar-salzburg-global
 date: 2009-10-08 03:27:01
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["analog elders", "censorship circumvention", "digital natives", "new media", "old media", "salzburg global", "strengthening independent media"]
 ---
 

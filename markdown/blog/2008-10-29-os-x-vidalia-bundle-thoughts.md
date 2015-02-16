@@ -5,7 +5,7 @@ permalink: os-x-vidalia-bundle-thoughts
 date: 2008-10-29 21:43:41
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["apple os x", "installation", "vidalia bundle"]
 ---
 

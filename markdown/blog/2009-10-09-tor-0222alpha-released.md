@@ -5,7 +5,7 @@ permalink: tor-0222alpha-released
 date: 2009-10-09 22:49:19
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "bug fixes", "performance improvements"]
 ---
 

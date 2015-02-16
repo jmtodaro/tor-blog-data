@@ -5,7 +5,7 @@ permalink: tor-projects-position-draft-communications-data-bill
 date: 2012-11-29 06:13:16
 author: sjmurdoch
 category: blog
-status: closed
+comments: closed
 tags: [""]
 ---
 

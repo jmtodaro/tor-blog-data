@@ -5,7 +5,7 @@ permalink: tor-android
 date: 2010-03-04 08:18:26
 author: ioerror
 category: blog
-status: closed
+comments: closed
 tags: ["android mobile phone linux"]
 ---
 

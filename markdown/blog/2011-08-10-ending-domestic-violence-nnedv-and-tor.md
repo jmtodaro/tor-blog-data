@@ -5,7 +5,7 @@ permalink: ending-domestic-violence-nnedv-and-tor
 date: 2011-08-10 15:01:55
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["abuse victims", "dv", "ending domestic violence", "ipv", "nnedv", "online anonymity", "online privacy", "survivors"]
 ---
 

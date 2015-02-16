@@ -5,7 +5,7 @@ permalink: different-ways-use-bridge
 date: 2011-11-29 07:13:18
 author: Sebastian
 category: blog
-status: closed
+comments: closed
 tags: ["Bridge", "bridge users", "bridges", "circumvention"]
 ---
 

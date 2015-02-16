@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-269
 date: 2011-03-09 22:42:12
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha releases", "stable releases", "tbb", "tor browser bundle", "torbrowser", "updated packages"]
 ---
 

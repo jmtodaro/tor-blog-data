@@ -5,7 +5,7 @@ permalink: measuring-tunisian-tor-usage
 date: 2011-01-06 21:28:34
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["circumvention", "internet censorship", "metrics", "tunisia"]
 ---
 

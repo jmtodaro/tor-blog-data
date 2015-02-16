@@ -5,7 +5,7 @@ permalink: update-tor-usage-tunisia
 date: 2011-01-13 21:54:20
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["cautious optimism", "internet censorship", "tunisia", "users"]
 ---
 

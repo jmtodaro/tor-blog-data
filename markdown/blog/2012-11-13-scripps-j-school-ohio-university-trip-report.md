@@ -5,7 +5,7 @@ permalink: scripps-j-school-ohio-university-trip-report
 date: 2012-11-13 12:01:23
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["andy alexander", "athens ohio", "committee to protect journalists", "cpj", "east africa", "ew scripps", "journalism school", "ohio university"]
 ---
 

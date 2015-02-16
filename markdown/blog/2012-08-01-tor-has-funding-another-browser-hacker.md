@@ -5,7 +5,7 @@ permalink: tor-has-funding-another-browser-hacker
 date: 2012-08-01 18:41:01
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["jobs", "tbb", "tor browser"]
 ---
 

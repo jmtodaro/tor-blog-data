@@ -5,7 +5,7 @@ permalink: employers-against-domestic-violence-and-technology-panel
 date: 2012-11-19 16:39:30
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["abuse", "cyberstalking", "domestic violence", "EADV", "helping survivors", "helping victims", "stalking", "technology for good"]
 ---
 

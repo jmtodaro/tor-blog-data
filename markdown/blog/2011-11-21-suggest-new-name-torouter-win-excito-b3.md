@@ -5,7 +5,7 @@ permalink: suggest-new-name-torouter-win-excito-b3
 date: 2011-11-21 07:54:13
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["contest", "excito b3", "tor", "torouter"]
 ---
 

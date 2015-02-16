@@ -5,7 +5,7 @@ permalink: kazakhstan-upgrades-censorship-deep-packet-inspection
 date: 2012-02-16 10:05:15
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["censorship circumvention", "deep packet inspection", "dpi", "internet censorship", "kazakhstan", "obfsproxy", "tor blocked"]
 ---
 

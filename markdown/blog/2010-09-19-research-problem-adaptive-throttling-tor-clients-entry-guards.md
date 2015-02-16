@@ -5,7 +5,7 @@ permalink: research-problem-adaptive-throttling-tor-clients-entry-guards
 date: 2010-09-19 17:02:14
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["bandwidth throttling", "research", "research progress", "thesis idea", "torperf"]
 ---
 

@@ -5,7 +5,7 @@ permalink: shadow-v161-released-adds-multi-threading-support
 date: 2012-12-24 16:50:26
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["metrics", "performance", "shadow"]
 ---
 

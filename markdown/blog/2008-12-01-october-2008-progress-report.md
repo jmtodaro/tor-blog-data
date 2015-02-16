@@ -5,7 +5,7 @@ permalink: october-2008-progress-report
 date: 2008-12-01 19:43:12
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["auto-updater", "censorship circumvention", "china", "crashes", "farsi", "torbutton", "translations", "vidalia"]
 ---
 

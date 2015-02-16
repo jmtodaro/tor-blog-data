@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-6
 date: 2011-09-10 11:28:05
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "tbb", "torbrowser"]
 ---
 

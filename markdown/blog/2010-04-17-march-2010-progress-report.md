@@ -5,7 +5,7 @@ permalink: march-2010-progress-report
 date: 2010-04-17 19:28:01
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "progress report", "proposals", "releases", "scalability", "translations"]
 ---
 

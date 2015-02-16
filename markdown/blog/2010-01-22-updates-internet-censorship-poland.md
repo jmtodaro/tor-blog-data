@@ -5,7 +5,7 @@ permalink: updates-internet-censorship-poland
 date: 2010-01-22 11:01:01
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["internet censorship", "poland"]
 ---
 

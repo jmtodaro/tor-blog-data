@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-125-and-126-released
 date: 2009-08-06 01:51:22
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["tor browser bundle", "tor releases"]
 ---
 

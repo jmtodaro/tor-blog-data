@@ -5,7 +5,7 @@ permalink: tor-02035stable-bundles-updated
 date: 2009-07-12 20:35:00
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["stable release", "vidalia release"]
 ---
 

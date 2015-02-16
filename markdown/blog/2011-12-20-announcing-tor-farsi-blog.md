@@ -5,7 +5,7 @@ permalink: announcing-tor-farsi-blog
 date: 2011-12-20 15:48:59
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["blog", "farsi", "tor"]
 ---
 

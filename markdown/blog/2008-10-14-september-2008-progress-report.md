@@ -5,7 +5,7 @@ permalink: september-2008-progress-report
 date: 2008-10-14 19:07:12
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha", "bug fixes", "facebook", "lectures", "media articles", "progress report", "rpm", "stable", "tor browser bundle", "vidalia"]
 ---
 

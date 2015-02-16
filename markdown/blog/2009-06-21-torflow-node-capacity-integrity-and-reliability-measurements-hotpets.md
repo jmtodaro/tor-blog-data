@@ -5,7 +5,7 @@ permalink: torflow-node-capacity-integrity-and-reliability-measurements-hotpets
 date: 2009-06-21 04:32:49
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["performance", "research"]
 ---
 

@@ -5,7 +5,7 @@ permalink: tors-response-prism-surveillance-program
 date: 2013-06-10 20:02:36
 author: kelley
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity", "anonymity advocacy", "nsa", "prism", "tor"]
 ---
 

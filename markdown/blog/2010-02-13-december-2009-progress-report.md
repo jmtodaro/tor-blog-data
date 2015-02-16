@@ -5,7 +5,7 @@ permalink: december-2009-progress-report
 date: 2010-02-13 10:35:12
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["bug fixes", "enhancements", "metrics", "progress report", "releases", "translations"]
 ---
 

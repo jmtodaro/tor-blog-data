@@ -5,7 +5,7 @@ permalink: weekend-new-england-give-camp
 date: 2013-04-29 15:43:34
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["anonymity", "cambridge", "cctv", "domestic violence", "dv", "intimate partner violence", "ipv", "microsoft", "new england give camp", "tor"]
 ---
 

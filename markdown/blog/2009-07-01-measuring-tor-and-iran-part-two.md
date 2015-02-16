@@ -5,7 +5,7 @@ permalink: measuring-tor-and-iran-part-two
 date: 2009-07-01 13:25:51
 author: karsten
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "iran", "metrics"]
 ---
 

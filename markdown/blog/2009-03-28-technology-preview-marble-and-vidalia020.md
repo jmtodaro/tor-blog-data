@@ -5,7 +5,7 @@ permalink: technology-preview-marble-and-vidalia020
 date: 2009-03-28 20:21:39
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["drag and drop OS X install", "experimental", "kde marble", "msi installer", "Qt updates", "technology preview", "vidalia"]
 ---
 

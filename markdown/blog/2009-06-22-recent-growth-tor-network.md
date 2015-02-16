@@ -5,7 +5,7 @@ permalink: recent-growth-tor-network
 date: 2009-06-22 20:07:03
 author: karsten
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "metrics", "performance"]
 ---
 

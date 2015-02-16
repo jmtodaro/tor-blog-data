@@ -5,7 +5,7 @@ permalink: new-ppc-packages-available
 date: 2011-01-10 13:14:14
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha releases", "apple osx love", "ppc", "stable releases", "tor", "updated packages"]
 ---
 

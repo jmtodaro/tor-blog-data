@@ -5,7 +5,7 @@ permalink: tor-browser-365-and-40-alpha-2-are-released
 date: 2014-09-03 16:50:48
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tbb-3.6", "tbb-4.0", "tor browser", "tor browser bundle"]
 ---
 

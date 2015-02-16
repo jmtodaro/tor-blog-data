@@ -5,7 +5,7 @@ permalink: black-t-shirts-user-request
 date: 2009-02-17 14:36:01
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "black t-shirts", "user request"]
 ---
 

@@ -5,7 +5,7 @@ permalink: vidalia-0212-released
 date: 2011-04-12 21:13:44
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["bug fixes", "improvements", "vidalia", "vidalia release"]
 ---
 

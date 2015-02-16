@@ -5,7 +5,7 @@ permalink: tor-02030-released-stable
 date: 2008-08-25 21:48:37
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["dns proxy", "rate limiting", "stable release", "tor"]
 ---
 

@@ -5,7 +5,7 @@ permalink: april-2011-progress-report
 date: 2011-05-07 20:23:24
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity fixes", "arm", "bugfixes", "censorship circumvention", "enhancements", "libevent", "new features", "progress report", "tor releases", "vidalia releases"]
 ---
 

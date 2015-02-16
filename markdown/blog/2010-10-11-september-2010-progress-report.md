@@ -5,7 +5,7 @@ permalink: september-2010-progress-report
 date: 2010-10-11 10:19:43
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["new hires", "progress report", "releases", "translation"]
 ---
 

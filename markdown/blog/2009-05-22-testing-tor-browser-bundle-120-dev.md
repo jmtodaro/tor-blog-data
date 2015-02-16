@@ -5,7 +5,7 @@ permalink: testing-tor-browser-bundle-120-dev
 date: 2009-05-22 21:50:06
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["geoip", "libevent", "tor browser bundle"]
 ---
 

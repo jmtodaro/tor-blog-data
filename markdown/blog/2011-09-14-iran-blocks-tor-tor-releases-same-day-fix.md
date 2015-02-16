@@ -5,7 +5,7 @@ permalink: iran-blocks-tor-tor-releases-same-day-fix
 date: 2011-09-14 15:23:26
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["internet censorship", "iran"]
 ---
 

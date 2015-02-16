@@ -5,7 +5,7 @@ permalink: lifecycle-of-a-new-relay
 date: 2013-09-11 04:03:31
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity", "entry guards", "research"]
 ---
 

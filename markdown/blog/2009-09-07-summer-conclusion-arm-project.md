@@ -5,7 +5,7 @@ permalink: summer-conclusion-arm-project
 date: 2009-09-07 14:46:06
 author: atagar
 category: blog
-status: closed
+comments: closed
 tags: ["arm", "atagar", "gsoc"]
 ---
 

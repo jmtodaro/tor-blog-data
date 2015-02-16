@@ -5,7 +5,7 @@ permalink: new-bundles
 date: 2013-02-08 08:24:59
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "bundle upgrades", "openssl", "tbb", "tor browser bundle"]
 ---
 

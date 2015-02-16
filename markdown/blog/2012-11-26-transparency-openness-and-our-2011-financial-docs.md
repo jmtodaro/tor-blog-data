@@ -5,7 +5,7 @@ permalink: transparency-openness-and-our-2011-financial-docs
 date: 2012-11-26 11:34:23
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity", "Form 990", "Form PC", "free software", "freedom", "IRS", "openness", "privacy", "transparency"]
 ---
 

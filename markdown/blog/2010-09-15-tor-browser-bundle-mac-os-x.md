@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-mac-os-x
 date: 2010-09-15 09:13:33
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["alpha releases", "portable bundles", "tbb", "torbrowser"]
 ---
 

@@ -5,7 +5,7 @@ permalink: torbutton-release-125-google-captchas-and-addonsmozillaorg
 date: 2010-04-10 05:48:05
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["captchas", "data retention", "firefox", "google", "logging", "mozilla", "torbutton"]
 ---
 

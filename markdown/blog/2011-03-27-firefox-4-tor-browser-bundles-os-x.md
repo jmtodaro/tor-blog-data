@@ -5,7 +5,7 @@ permalink: firefox-4-tor-browser-bundles-os-x
 date: 2011-03-27 18:07:00
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["apple osx love", "bug fixes", "tbb", "tor browser bundle", "torbrowser", "updated packages"]
 ---
 

@@ -5,7 +5,7 @@ permalink: archivetorprojectorg-now-live
 date: 2009-07-29 12:32:51
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["directory authority archives", "package archives", "releases"]
 ---
 

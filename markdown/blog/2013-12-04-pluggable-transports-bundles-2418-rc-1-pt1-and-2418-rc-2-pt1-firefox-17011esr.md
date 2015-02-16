@@ -5,7 +5,7 @@ permalink: pluggable-transports-bundles-2418-rc-1-pt1-and-2418-rc-2-pt1-firefox-
 date: 2013-12-04 22:24:42
 author: dcf
 category: blog
-status: closed
+comments: closed
 tags: ["flashproxy", "obfsproxy", "pluggable transports"]
 ---
 

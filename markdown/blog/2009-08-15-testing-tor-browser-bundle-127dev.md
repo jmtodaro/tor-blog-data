@@ -5,7 +5,7 @@ permalink: testing-tor-browser-bundle-127dev
 date: 2009-08-15 22:33:34
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["openssl fixes", "tor browser bundle", "usability enhancements", "vidalia releases"]
 ---
 

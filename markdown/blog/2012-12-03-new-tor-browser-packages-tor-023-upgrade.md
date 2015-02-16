@@ -5,7 +5,7 @@ permalink: new-tor-browser-packages-tor-023-upgrade
 date: 2012-12-03 17:03:18
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "tbb", "tor", "tor browser", "tor browser bundle", "tor stable"]
 ---
 

@@ -5,7 +5,7 @@ permalink: october-2011-progress-report
 date: 2011-11-09 22:47:36
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "progress report", "rejoice in your anonymity", "tails", "tor releases"]
 ---
 

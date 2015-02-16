@@ -5,7 +5,7 @@ permalink: help-create-qa-site-tor
 date: 2013-09-16 20:16:05
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: [""]
 ---
 

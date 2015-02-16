@@ -5,7 +5,7 @@ permalink: end-life-tor-020x-branch
 date: 2010-03-30 20:17:51
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["end of life", "old-stable", "tor 0.2.0"]
 ---
 

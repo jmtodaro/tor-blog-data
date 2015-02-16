@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-windows-139-released
 date: 2010-07-30 19:58:14
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["instant messenger", "microsoft windows", "mozilla firefox", "pidgin", "tor browser bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: diginotar-debacle-and-what-you-should-do-about-it
 date: 2011-08-31 21:11:32
 author: ioerror
 category: blog
-status: closed
+comments: closed
 tags: ["ca certificates", "https", "ohdiginotaryoudidnt", "ssl certifications", "tor client safety", "tor network safety", "tor project website"]
 ---
 

@@ -5,7 +5,7 @@ permalink: website-translation-support-translationtorprojectorg
 date: 2009-09-20 11:45:56
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["gsoc", "translation", "website"]
 ---
 

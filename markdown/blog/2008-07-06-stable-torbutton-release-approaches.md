@@ -5,7 +5,7 @@ permalink: stable-torbutton-release-approaches
 date: 2008-07-06 20:45:08
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["torbutton", "uglyrumors"]
 ---
 

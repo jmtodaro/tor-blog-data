@@ -5,7 +5,7 @@ permalink: tor-looking-browser-hacker-and-extension-developer
 date: 2013-11-22 02:23:20
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["jobs", "tbb", "tor-browser"]
 ---
 

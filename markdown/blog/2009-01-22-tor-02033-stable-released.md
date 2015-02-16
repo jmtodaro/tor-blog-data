@@ -5,7 +5,7 @@ permalink: tor-02033-stable-released
 date: 2009-01-22 14:25:00
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "security fixes", "stable release"]
 ---
 

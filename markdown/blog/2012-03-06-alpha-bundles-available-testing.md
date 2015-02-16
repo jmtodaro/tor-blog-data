@@ -5,7 +5,7 @@ permalink: alpha-bundles-available-testing
 date: 2012-03-06 10:08:45
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["alpha releases", "tor browser bundle", "vidalia"]
 ---
 

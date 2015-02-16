@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-15
 date: 2012-02-19 14:25:01
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "security updates", "tbb", "tor browser"]
 ---
 

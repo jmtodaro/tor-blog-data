@@ -5,7 +5,7 @@ permalink: advisory-remote-dos-when-using-tor-recent-openssl-versions-built-no-s
 date: 2014-10-20 22:01:47
 author: phoul
 category: blog
-status: closed
+comments: disabled
 tags: ["little-t-tor", "poodle", "ssl", "sslv3", "tls", "tor"]
 ---
 

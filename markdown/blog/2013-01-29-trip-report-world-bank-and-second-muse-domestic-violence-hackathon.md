@@ -5,7 +5,7 @@ permalink: trip-report-world-bank-and-second-muse-domestic-violence-hackathon
 date: 2013-01-29 18:44:07
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["domestic violence", "fuerza", "hackathon", "second muse", "world bank"]
 ---
 

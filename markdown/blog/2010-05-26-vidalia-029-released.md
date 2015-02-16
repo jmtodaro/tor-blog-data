@@ -5,7 +5,7 @@ permalink: vidalia-029-released
 date: 2010-05-26 22:05:19
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "stable release", "vidalia release"]
 ---
 

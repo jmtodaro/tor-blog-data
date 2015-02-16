@@ -5,7 +5,7 @@ permalink: thoughts-on-user-generated-t-shirts
 date: 2009-10-11 22:01:45
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["activists", "new designs", "t-shirts", "user generated"]
 ---
 

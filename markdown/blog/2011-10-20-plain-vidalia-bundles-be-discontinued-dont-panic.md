@@ -5,7 +5,7 @@ permalink: plain-vidalia-bundles-be-discontinued-dont-panic
 date: 2011-10-20 11:32:13
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["package updates", "tbb", "tor browser bundle", "vidalia bundle"]
 ---
 

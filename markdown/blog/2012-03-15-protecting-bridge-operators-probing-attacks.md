@@ -5,7 +5,7 @@ permalink: protecting-bridge-operators-probing-attacks
 date: 2012-03-15 09:43:25
 author: sjmurdoch
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity", "blocking resistance", "bridges", "research", "torouter"]
 ---
 

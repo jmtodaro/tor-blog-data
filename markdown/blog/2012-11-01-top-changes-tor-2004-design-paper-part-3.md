@@ -5,7 +5,7 @@ permalink: top-changes-tor-2004-design-paper-part-3
 date: 2012-11-01 09:09:54
 author: sjmurdoch
 category: blog
-status: closed
+comments: closed
 tags: [""]
 ---
 

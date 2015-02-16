@@ -5,7 +5,7 @@ permalink: tor-02126-stable-released
 date: 2010-06-09 22:18:21
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["connection overload", "stable release", "test suite fixes", "v3 directories"]
 ---
 

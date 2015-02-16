@@ -5,7 +5,7 @@ permalink: new-tor-cloud-images-obfs3
 date: 2013-04-13 18:14:32
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "tor", "tor cloud"]
 ---
 

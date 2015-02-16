@@ -5,7 +5,7 @@ permalink: deterministic-builds-part-two-technical-details
 date: 2013-10-04 13:30:25
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["cyberpeace", "decentralization", "deterministic builds", "gitian", "National Insecurity Agency", "security"]
 ---
 

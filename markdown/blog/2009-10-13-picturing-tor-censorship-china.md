@@ -5,7 +5,7 @@ permalink: picturing-tor-censorship-china
 date: 2009-10-13 21:56:10
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "censorship", "censorship circumvention", "china", "directory requests", "graphs", "great firewall of china"]
 ---
 

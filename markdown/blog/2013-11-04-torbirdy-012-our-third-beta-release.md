@@ -5,7 +5,7 @@ permalink: torbirdy-012-our-third-beta-release
 date: 2013-11-04 06:27:31
 author: ioerror
 category: blog
-status: closed
+comments: closed
 tags: ["Thunderbird", "TorBirdy"]
 ---
 

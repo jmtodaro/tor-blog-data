@@ -5,7 +5,7 @@ permalink: new-tor-02416-rc-packages-and-updated-stable-tor-browser-bundles
 date: 2013-08-13 03:51:59
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["release candidate", "tbb", "tor", "tor browser bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: google-summer-code-2008-review
 date: 2009-03-09 06:48:11
 author: Sebastian
 category: blog
-status: closed
+comments: closed
 tags: ["Google Summer of Code", "gsoc", "gsoc 2008"]
 ---
 

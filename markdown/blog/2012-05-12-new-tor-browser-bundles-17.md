@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-17
 date: 2012-05-12 19:09:48
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["openssl", "tbb", "tor browser", "tor browser bundle"]
 ---
 

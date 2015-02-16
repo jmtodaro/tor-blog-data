@@ -5,7 +5,7 @@ permalink: tor-browser-354-released
 date: 2014-04-08 16:06:54
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tbb-3.5", "tor-browser", "tor-browser-bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: tor-security-advisory-relay-early-traffic-confirmation-attack
 date: 2014-07-30 08:00:00
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["entry guards", "hidden services", "research", "security advisory"]
 ---
 

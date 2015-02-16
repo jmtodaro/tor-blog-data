@@ -5,7 +5,7 @@ permalink: hackfest-thanks
 date: 2011-02-20 23:29:07
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "february 2011", "hackfest", "mit", "pizza"]
 ---
 

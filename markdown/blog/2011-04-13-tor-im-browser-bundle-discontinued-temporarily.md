@@ -5,7 +5,7 @@ permalink: tor-im-browser-bundle-discontinued-temporarily
 date: 2011-04-13 05:17:42
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["pidgin", "security", "tor IM browser bundle"]
 ---
 

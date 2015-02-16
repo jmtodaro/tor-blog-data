@@ -5,7 +5,7 @@ permalink: tor-open-hackfest-february-19-2011
 date: 2011-01-25 13:19:07
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["advocacy", "coding", "community", "hacking", "involvement", "tor"]
 ---
 

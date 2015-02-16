@@ -5,7 +5,7 @@ permalink: prism-vs-tor
 date: 2013-06-08 18:59:22
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["decentralization", "hidden-services", "National Insecurity Agency", "nsa", "surveillance", "ya-basta"]
 ---
 

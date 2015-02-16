@@ -5,7 +5,7 @@ permalink: polipo-portability-enhancements-summary
 date: 2009-09-11 18:25:21
 author: chrisd
 category: blog
-status: closed
+comments: disabled
 tags: ["gsoc 2009", "libevent", "polipo"]
 ---
 

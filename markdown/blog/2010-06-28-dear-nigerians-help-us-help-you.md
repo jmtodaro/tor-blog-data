@@ -5,7 +5,7 @@ permalink: dear-nigerians-help-us-help-you
 date: 2010-06-28 23:39:01
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["data gathering", "herdict", "nigeria", "support", "tor blocked", "websites blocked"]
 ---
 

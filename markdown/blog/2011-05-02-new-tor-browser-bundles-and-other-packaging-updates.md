@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-and-other-packaging-updates
 date: 2011-05-02 23:08:50
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "firefox", "releases", "tbb", "tor", "tor browser", "tor browser bundle", "torbutton"]
 ---
 

@@ -5,7 +5,7 @@ permalink: visit-iceland
 date: 2011-05-22 06:31:08
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["1984", "advocacy", "hackfest", "Hakkavélin", "iceland", "immi", "law enforcement", "pagekite", "tor fans", "volcanoes"]
 ---
 

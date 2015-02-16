@@ -5,7 +5,7 @@ permalink: october-2010-progress-report
 date: 2010-11-09 15:24:09
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["arm", "bug fixes", "https everywhere", "metrics", "progress report", "tor browser bundle", "translations"]
 ---
 

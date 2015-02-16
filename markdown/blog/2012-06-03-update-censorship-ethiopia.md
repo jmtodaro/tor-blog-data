@@ -5,7 +5,7 @@ permalink: update-censorship-ethiopia
 date: 2012-06-03 10:12:58
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["censorship circumvention", "deep packet inspection", "dpi", "ethiopia", "internet censorship", "tor blocked"]
 ---
 

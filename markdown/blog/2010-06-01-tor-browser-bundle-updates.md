@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-updates
 date: 2010-06-01 14:11:31
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "tor browser bundle", "vidalia upgrades", "zero install bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: vidalia-022-released
 date: 2009-08-15 09:01:14
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "openssl fixes", "usability enhancements", "vidalia releases"]
 ---
 

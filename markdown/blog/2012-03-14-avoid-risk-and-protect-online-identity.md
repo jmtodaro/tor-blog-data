@@ -5,7 +5,7 @@ permalink: avoid-risk-and-protect-online-identity
 date: 2012-03-14 14:27:52
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: [""]
 ---
 

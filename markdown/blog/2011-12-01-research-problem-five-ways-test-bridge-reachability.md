@@ -5,7 +5,7 @@ permalink: research-problem-five-ways-test-bridge-reachability
 date: 2011-12-01 06:14:13
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["bridge relays", "internet censorship", "research"]
 ---
 

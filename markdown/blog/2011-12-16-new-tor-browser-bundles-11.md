@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-11
 date: 2011-12-16 14:04:53
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["security critical", "security fixes", "tbb", "tor browser"]
 ---
 

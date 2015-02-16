@@ -5,7 +5,7 @@ permalink: gsoc-2011-metadata-anonymisation-toolkit
 date: 2011-08-30 10:49:25
 author: jvoisin
 category: blog
-status: closed
+comments: closed
 tags: ["gsoc", "metadata", "privacy", "python"]
 ---
 

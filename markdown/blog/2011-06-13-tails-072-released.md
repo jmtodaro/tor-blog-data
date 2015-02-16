@@ -5,7 +5,7 @@ permalink: tails-072-released
 date: 2011-06-13 19:23:07
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymous operating system", "i2p", "rejoice in your anonymity", "tails", "tor"]
 ---
 

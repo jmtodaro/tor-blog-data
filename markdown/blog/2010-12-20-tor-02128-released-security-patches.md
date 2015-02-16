@@ -5,7 +5,7 @@ permalink: tor-02128-released-security-patches
 date: 2010-12-20 11:05:03
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["bug fixes", "enhancements", "security advisory"]
 ---
 

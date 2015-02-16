@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-1010-gnulinux-released
 date: 2010-08-23 03:05:55
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["alpha releases", "firefox updates", "tor browser bundle", "torbrowser"]
 ---
 

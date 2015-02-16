@@ -5,7 +5,7 @@ permalink: january-2008-progress-report
 date: 2008-02-18 19:09:33
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "incognito", "progress report", "tor", "torbrowser", "torbutton"]
 ---
 

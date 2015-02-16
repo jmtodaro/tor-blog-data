@@ -5,7 +5,7 @@ permalink: tor-0226-alpha-released
 date: 2009-12-03 00:29:12
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "android", "enhancements", "new features", "openssl"]
 ---
 

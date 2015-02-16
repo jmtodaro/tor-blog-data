@@ -5,7 +5,7 @@ permalink: real-name-internet-versus-reality
 date: 2011-07-31 11:17:22
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity online", "facebook", "gigaom", "google", "ipv", "jillian york", "karina rigby", "pseudonymity", "real name policies"]
 ---
 

@@ -5,7 +5,7 @@ permalink: tor-help-desk-expands-four-more-languages
 date: 2013-04-11 09:47:48
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["support", "tor"]
 ---
 

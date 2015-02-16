@@ -5,7 +5,7 @@ permalink: mac-os-x-packages-fixed
 date: 2011-01-18 13:59:20
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["apple osx love", "updated packages"]
 ---
 

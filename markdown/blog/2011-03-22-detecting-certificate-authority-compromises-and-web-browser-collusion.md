@@ -5,7 +5,7 @@ permalink: detecting-certificate-authority-compromises-and-web-browser-collusion
 date: 2011-03-22 19:16:10
 author: ioerror
 category: blog
-status: closed
+comments: closed
 tags: ["ssl tls ca tor certificates torbrowser"]
 ---
 

@@ -5,7 +5,7 @@ permalink: knock-knock-knockin-bridges-doors
 date: 2012-01-07 16:44:51
 author: twilde
 category: blog
-status: closed
+comments: closed
 tags: ["censorship", "censorship circumvention", "GFW", "research", "research results"]
 ---
 

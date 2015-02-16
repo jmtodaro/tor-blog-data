@@ -5,7 +5,7 @@ permalink: florence-hackfest-thanks
 date: 2012-07-10 15:34:27
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["florence", "hackfest", "italy", "thanks"]
 ---
 

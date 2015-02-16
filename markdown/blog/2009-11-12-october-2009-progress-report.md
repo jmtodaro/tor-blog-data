@@ -5,7 +5,7 @@ permalink: october-2009-progress-report
 date: 2009-11-12 10:14:19
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "enhancements", "progress report", "tor releases", "vidalia releases"]
 ---
 

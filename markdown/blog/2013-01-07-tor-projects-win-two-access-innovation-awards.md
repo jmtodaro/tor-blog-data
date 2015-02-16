@@ -5,7 +5,7 @@ permalink: tor-projects-win-two-access-innovation-awards
 date: 2013-01-07 23:19:40
 author: arma
 category: blog
-status: closed
+comments: disabled
 tags: ["internet censorship", "trip report"]
 ---
 

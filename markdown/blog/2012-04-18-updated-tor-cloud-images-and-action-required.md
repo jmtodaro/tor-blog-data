@@ -5,7 +5,7 @@ permalink: updated-tor-cloud-images-and-action-required
 date: 2012-04-18 04:11:29
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["bridge relays", "cloud", "tor", "tor cloud"]
 ---
 

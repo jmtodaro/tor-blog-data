@@ -5,7 +5,7 @@ permalink: experimental-defense-website-traffic-fingerprinting
 date: 2011-09-04 22:50:43
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity", "anonymity features", "attacks", "protecting users", "research", "surveillance", "traffic analysis"]
 ---
 

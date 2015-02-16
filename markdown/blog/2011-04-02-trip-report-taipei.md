@@ -5,7 +5,7 @@ permalink: trip-report-taipei
 date: 2011-04-02 03:00:01
 author: arma
 category: blog
-status: closed
+comments: disabled
 tags: [""]
 ---
 

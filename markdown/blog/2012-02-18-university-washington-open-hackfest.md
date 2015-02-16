@@ -5,7 +5,7 @@ permalink: university-washington-open-hackfest
 date: 2012-02-18 18:55:40
 author: ioerror
 category: blog
-status: closed
+comments: closed
 tags: ["hackfest", "seattle", "uw"]
 ---
 

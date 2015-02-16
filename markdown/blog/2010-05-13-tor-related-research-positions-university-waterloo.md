@@ -5,7 +5,7 @@ permalink: tor-related-research-positions-university-waterloo
 date: 2010-05-13 14:25:58
 author: ian
 category: blog
-status: closed
+comments: closed
 tags: [""]
 ---
 

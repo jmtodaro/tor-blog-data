@@ -5,7 +5,7 @@ permalink: tor-project-infrastructure-updates
 date: 2010-01-22 10:51:45
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "security updates", "stable release", "tor"]
 ---
 

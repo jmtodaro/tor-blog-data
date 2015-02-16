@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-1111-released
 date: 2009-03-31 14:19:52
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "portable tor", "tor browser bundle", "torbutton", "vidalia"]
 ---
 

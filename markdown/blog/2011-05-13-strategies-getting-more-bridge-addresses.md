@@ -5,7 +5,7 @@ permalink: strategies-getting-more-bridge-addresses
 date: 2011-05-13 22:06:07
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "bridge distribution", "bridge relays", "bridge strategies", "circumvention", "research"]
 ---
 

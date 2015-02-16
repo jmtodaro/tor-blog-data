@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-122-released
 date: 2009-06-24 09:23:47
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["pidgin updates", "tor browser bundle", "yahoo fixes"]
 ---
 

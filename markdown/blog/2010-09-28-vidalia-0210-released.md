@@ -5,7 +5,7 @@ permalink: vidalia-0210-released
 date: 2010-09-28 10:31:45
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bugfixes", "geoip fixes", "osx fixes", "vidalia"]
 ---
 

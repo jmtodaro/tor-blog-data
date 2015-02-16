@@ -5,7 +5,7 @@ permalink: apple-broke-openssl-which-breaks-tor-os-x
 date: 2010-01-27 13:14:35
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["apple os x", "new packages", "no love from apple", "openssl", "static compilation"]
 ---
 

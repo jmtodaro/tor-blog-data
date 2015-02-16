@@ -5,7 +5,7 @@ permalink: run-tor-bridge-amazon-cloud
 date: 2011-11-21 06:09:46
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["bridge relays", "cloud", "tor", "tor cloud"]
 ---
 

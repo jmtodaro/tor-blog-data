@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-130-released
 date: 2010-01-03 21:25:20
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "pidgin updates", "tor browser bundle", "torbutton"]
 ---
 

@@ -5,7 +5,7 @@ permalink: fun-build-machines
 date: 2008-08-05 21:50:21
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["centos4", "osx 10.4", "osx tiger", "packages"]
 ---
 

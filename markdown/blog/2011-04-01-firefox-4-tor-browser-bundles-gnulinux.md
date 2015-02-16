@@ -5,7 +5,7 @@ permalink: firefox-4-tor-browser-bundles-gnulinux
 date: 2011-04-01 11:40:40
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tor browser bundle", "torbrowser", "updated packages"]
 ---
 

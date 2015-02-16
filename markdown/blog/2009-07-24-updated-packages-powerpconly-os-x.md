@@ -5,7 +5,7 @@ permalink: updated-packages-powerpconly-os-x
 date: 2009-07-24 00:44:29
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["10.3.9", "anonymous donor", "apple os x", "panther", "updated packages"]
 ---
 

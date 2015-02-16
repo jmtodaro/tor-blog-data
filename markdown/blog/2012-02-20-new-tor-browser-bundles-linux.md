@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-linux
 date: 2012-02-20 08:30:20
 author: Sebastian
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "security updates", "tbb", "tor browser"]
 ---
 

@@ -5,7 +5,7 @@ permalink: rumors-tors-compromise-are-greatly-exaggerated
 date: 2011-10-24 22:36:33
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity research", "attacks on tor", "facts", "freedom hosting", "hidden services", "research", "tor compromise", "winning the attention economy"]
 ---
 

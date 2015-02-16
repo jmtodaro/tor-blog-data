@@ -5,7 +5,7 @@ permalink: trip-report-nsf-data-workshop
 date: 2010-08-30 15:59:01
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: [""]
 ---
 

@@ -5,7 +5,7 @@ permalink: plaintext-over-tor-still-plaintext
 date: 2010-06-01 21:36:41
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["exit relays", "plaintext communications", "tor", "wikileaks"]
 ---
 

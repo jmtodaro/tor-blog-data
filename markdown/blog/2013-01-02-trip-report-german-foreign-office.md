@@ -5,7 +5,7 @@ permalink: trip-report-german-foreign-office
 date: 2013-01-02 07:26:38
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["conference", "internet censorship", "trip report"]
 ---
 

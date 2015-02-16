@@ -5,7 +5,7 @@ permalink: set-bridge-or-relay-and-join-tor-network-today
 date: 2012-03-12 09:06:09
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["bridge relays", "bridges", "cloud", "relays", "tor", "tor cloud", "video"]
 ---
 

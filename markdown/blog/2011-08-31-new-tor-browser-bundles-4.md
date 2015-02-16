@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-4
 date: 2011-08-31 21:55:03
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["ohdiginotaryoudidnt", "package updates", "security fixes", "tbb torbrowser"]
 ---
 

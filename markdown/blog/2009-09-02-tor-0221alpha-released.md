@@ -5,7 +5,7 @@ permalink: tor-0221alpha-released
 date: 2009-09-02 14:32:58
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha release", "anonymity fixes", "bug fixes", "improvements", "os x", "packages", "safe statistic collection", "security fixes", "vidalia bundle"]
 ---
 

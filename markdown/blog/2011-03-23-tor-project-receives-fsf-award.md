@@ -5,7 +5,7 @@ permalink: tor-project-receives-fsf-award
 date: 2011-03-23 06:28:11
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["award", "free society", "free software", "free software foundation", "social benefit"]
 ---
 

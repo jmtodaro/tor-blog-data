@@ -5,7 +5,7 @@ permalink: tor-02214-alpha-released
 date: 2010-07-19 04:30:14
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "directory authority", "geoip", "performance improvements"]
 ---
 

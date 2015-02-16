@@ -5,7 +5,7 @@ permalink: tor-browser-364-and-40-alpha-1-are-released
 date: 2014-08-12 16:48:07
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tbb-3.6", "tbb-4.0", "tor browser", "tor browser bundle"]
 ---
 

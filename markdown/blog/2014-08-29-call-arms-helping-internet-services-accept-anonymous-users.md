@@ -5,7 +5,7 @@ permalink: call-arms-helping-internet-services-accept-anonymous-users
 date: 2014-08-29 16:26:51
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "research"]
 ---
 

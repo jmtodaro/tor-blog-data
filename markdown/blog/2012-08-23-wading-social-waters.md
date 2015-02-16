@@ -5,7 +5,7 @@ permalink: wading-social-waters
 date: 2012-08-23 13:07:42
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "social media", "tor project"]
 ---
 

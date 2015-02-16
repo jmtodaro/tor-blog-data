@@ -5,7 +5,7 @@ permalink: improving-tors-anonymity-changing-guard-parameters
 date: 2013-10-16 16:30:55
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity", "entry guards", "hidden services", "research"]
 ---
 

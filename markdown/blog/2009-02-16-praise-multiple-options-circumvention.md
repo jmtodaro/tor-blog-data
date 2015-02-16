@@ -5,7 +5,7 @@ permalink: praise-multiple-options-circumvention
 date: 2009-02-16 19:31:16
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "circumvention", "education"]
 ---
 

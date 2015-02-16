@@ -5,7 +5,7 @@ permalink: new-pluggable-transports-bundles-02411-alpha-flashproxy-obfsproxy
 date: 2013-03-19 13:37:22
 author: asn
 category: blog
-status: closed
+comments: closed
 tags: ["flashproxy", "obfsbundle", "obfsproxy", "pluggable transports"]
 ---
 

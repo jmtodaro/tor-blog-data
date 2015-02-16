@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-0
 date: 2011-03-24 06:07:41
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["firefox updates", "tbb", "tor browser bundle", "torbrowser", "updated packages"]
 ---
 

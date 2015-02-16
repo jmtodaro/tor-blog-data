@@ -5,7 +5,7 @@ permalink: measuring-tor-and-iran
 date: 2009-06-19 03:35:08
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["directory services", "iran", "tor"]
 ---
 

@@ -5,7 +5,7 @@ permalink: installing-and-using-tor
 date: 2009-11-19 21:31:30
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "documentation", "freedom house", "installing and using tor", "instructions", "internet freedom", "tinyvid", "tor", "tor browser bundle", "videos", "youtube"]
 ---
 

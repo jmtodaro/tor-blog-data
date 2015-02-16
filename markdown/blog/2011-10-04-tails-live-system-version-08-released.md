@@ -5,7 +5,7 @@ permalink: tails-live-system-version-08-released
 date: 2011-10-04 08:52:43
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymous operating system", "debian", "livecd", "liveusb", "tails", "tor"]
 ---
 

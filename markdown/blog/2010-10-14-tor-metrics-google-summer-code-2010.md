@@ -5,7 +5,7 @@ permalink: tor-metrics-google-summer-code-2010
 date: 2010-10-14 00:04:22
 author: kjbbb
 category: blog
-status: closed
+comments: closed
 tags: ["gsoc", "gsoc2010", "metrics"]
 ---
 

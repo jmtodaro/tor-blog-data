@@ -5,7 +5,7 @@ permalink: new-blocking-activity-iran
 date: 2011-01-09 22:58:30
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["censorship", "deep packet inspection", "great persian firewall", "internet censorship", "iran"]
 ---
 

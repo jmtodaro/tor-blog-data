@@ -5,7 +5,7 @@ permalink: vidalia-025-released
 date: 2009-10-17 07:21:56
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "usability enhancements", "vidalia release"]
 ---
 

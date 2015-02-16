@@ -5,7 +5,7 @@ permalink: isec-partners-conducts-tor-browser-hardening-study
 date: 2014-08-18 18:13:16
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["security", "tbb", "tor browser"]
 ---
 

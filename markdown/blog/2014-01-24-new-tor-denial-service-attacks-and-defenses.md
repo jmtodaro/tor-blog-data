@@ -5,7 +5,7 @@ permalink: new-tor-denial-service-attacks-and-defenses
 date: 2014-01-24 19:54:50
 author: robgjansen
 category: blog
-status: closed
+comments: closed
 tags: ["denial of service", "dos", "hidden services", "research"]
 ---
 

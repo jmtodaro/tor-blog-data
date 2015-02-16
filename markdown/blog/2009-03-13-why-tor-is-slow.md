@@ -5,7 +5,7 @@ permalink: why-tor-is-slow
 date: 2009-03-13 05:33:01
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["development roadmap", "funding", "performance"]
 ---
 

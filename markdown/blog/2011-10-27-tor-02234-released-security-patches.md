@@ -5,7 +5,7 @@ permalink: tor-02234-released-security-patches
 date: 2011-10-27 19:24:40
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["security advisory", "security fixes", "tor", "tor stable"]
 ---
 

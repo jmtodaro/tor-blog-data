@@ -5,7 +5,7 @@ permalink: carnival-data-retention-expands
 date: 2008-11-07 18:13:27
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["black boxes", "data retention", "logging", "UK"]
 ---
 

@@ -5,7 +5,7 @@ permalink: obfsproxy-bridges-amazon-cloud
 date: 2012-09-26 07:42:52
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "obfsproxy", "relays", "tor", "tor cloud"]
 ---
 

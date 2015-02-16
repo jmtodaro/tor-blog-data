@@ -5,7 +5,7 @@ permalink: december-2008-progress-report
 date: 2009-02-02 14:28:39
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha releases", "anonymity advocacy", "bug fixes", "progress report", "security fixes"]
 ---
 

@@ -5,7 +5,7 @@ permalink: firefox-private-browsing-mode-torbutton-and-fingerprinting
 date: 2010-06-30 02:51:07
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["EFF", "firefox", "panopticlick", "privacy", "private browsing", "threat models", "torbutton"]
 ---
 

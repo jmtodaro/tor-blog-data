@@ -5,7 +5,7 @@ permalink: technology-preview-bridge-default-microsoft-windows-clients
 date: 2010-06-06 16:25:38
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bridge by default", "bridges", "everyone as a bridge", "microsoft windows"]
 ---
 

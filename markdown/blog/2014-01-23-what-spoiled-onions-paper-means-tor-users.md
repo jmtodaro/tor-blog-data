@@ -5,7 +5,7 @@ permalink: what-spoiled-onions-paper-means-tor-users
 date: 2014-01-23 20:00:10
 author: phw
 category: blog
-status: closed
+comments: closed
 tags: ["exit relays", "https", "mitm", "research", "ssl", "torbrowser"]
 ---
 

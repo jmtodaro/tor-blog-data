@@ -5,7 +5,7 @@ permalink: training-journalists-istanbul
 date: 2013-02-04 10:12:56
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["training", "trip report"]
 ---
 

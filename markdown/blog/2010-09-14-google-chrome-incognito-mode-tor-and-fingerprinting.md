@@ -5,7 +5,7 @@ permalink: google-chrome-incognito-mode-tor-and-fingerprinting
 date: 2010-09-14 09:08:02
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["chrome", "EFF", "firefox", "google", "panopticlick", "privacy", "private browsing", "threat models", "torbutton"]
 ---
 

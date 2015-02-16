@@ -5,7 +5,7 @@ permalink: new-stable-released-tor-02121
 date: 2009-12-30 09:21:46
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "exit relays", "openssl fixes", "stable release"]
 ---
 

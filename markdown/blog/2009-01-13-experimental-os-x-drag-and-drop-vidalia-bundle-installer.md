@@ -5,7 +5,7 @@ permalink: experimental-os-x-drag-and-drop-vidalia-bundle-installer
 date: 2009-01-13 11:26:22
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "apple os x", "experimental", "polipo", "vidalia bundle"]
 ---
 

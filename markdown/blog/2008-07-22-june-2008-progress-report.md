@@ -5,7 +5,7 @@ permalink: june-2008-progress-report
 date: 2008-07-22 22:25:34
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "openssl", "progress report", "tor", "tor browser bundle", "translations", "vidalia"]
 ---
 

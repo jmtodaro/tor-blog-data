@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-35-released
 date: 2013-12-18 20:05:42
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tbb-3.0", "tbb-3.5", "tor browser", "tor browser bundle", "tor-browser-bundle"]
 ---
 

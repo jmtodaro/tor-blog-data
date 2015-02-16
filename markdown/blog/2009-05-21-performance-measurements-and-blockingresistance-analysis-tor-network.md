@@ -5,7 +5,7 @@ permalink: performance-measurements-and-blockingresistance-analysis-tor-network
 date: 2009-05-21 15:19:22
 author: karsten
 category: blog
-status: closed
+comments: closed
 tags: ["censorship circumvention", "performance", "research"]
 ---
 

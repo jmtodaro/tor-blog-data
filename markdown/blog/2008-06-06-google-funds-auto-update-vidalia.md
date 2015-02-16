@@ -5,7 +5,7 @@ permalink: google-funds-auto-update-vidalia
 date: 2008-06-06 21:13:30
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["auto-update", "funding", "google", "tor", "tor software", "vidalia"]
 ---
 

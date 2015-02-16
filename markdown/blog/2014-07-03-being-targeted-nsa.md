@@ -5,7 +5,7 @@ permalink: being-targeted-nsa
 date: 2014-07-03 18:44:16
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["nsa", "target america", "tor", "xkeyscore"]
 ---
 

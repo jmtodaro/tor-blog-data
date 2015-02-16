@@ -5,7 +5,7 @@ permalink: august-2010-progress-report
 date: 2010-09-13 15:23:27
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha releases", "progress report", "scalability", "translations"]
 ---
 

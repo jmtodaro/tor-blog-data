@@ -5,7 +5,7 @@ permalink: time-directory-authority-outside-useu
 date: 2009-07-10 22:03:51
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["argentina", "directory authority", "isp", "japan", "malaysia", "panama", "singapore", "south africa"]
 ---
 

@@ -5,7 +5,7 @@ permalink: facebook-and-tor
 date: 2013-06-18 10:10:50
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["facebook", "tor"]
 ---
 

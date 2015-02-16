@@ -5,7 +5,7 @@ permalink: updated-guide-blogging-anonymously
 date: 2009-03-12 19:58:05
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "anonymous publishing", "global voices"]
 ---
 

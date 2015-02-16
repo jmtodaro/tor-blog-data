@@ -5,7 +5,7 @@ permalink: join-us-tor-project-developers-meeting-reykjavik-iceland-february-17-
 date: 2014-02-12 09:20:02
 author: kelley
 category: blog
-status: closed
+comments: closed
 tags: ["developers", "iceland", "meeting"]
 ---
 

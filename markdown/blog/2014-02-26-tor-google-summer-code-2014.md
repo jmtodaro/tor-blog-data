@@ -5,7 +5,7 @@ permalink: tor-google-summer-code-2014
 date: 2014-02-26 11:22:19
 author: atagar
 category: blog
-status: closed
+comments: closed
 tags: ["gsoc"]
 ---
 

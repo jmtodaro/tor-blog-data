@@ -5,7 +5,7 @@ permalink: recent-events-egypt
 date: 2011-01-29 17:54:45
 author: ioerror
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "censorship", "egypt", "internet access", "relays"]
 ---
 

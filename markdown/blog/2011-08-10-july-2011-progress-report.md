@@ -5,7 +5,7 @@ permalink: july-2011-progress-report
 date: 2011-08-10 14:58:59
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "censorship circumvention", "progress report", "scalability", "translations"]
 ---
 

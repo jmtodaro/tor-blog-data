@@ -5,7 +5,7 @@ permalink: vidalia-get-involved
 date: 2011-04-12 10:27:53
 author: chiiph
 category: blog
-status: closed
+comments: closed
 tags: ["builds", "free software", "gentoo", "new developers", "open hatch", "open source software", "vidalia"]
 ---
 

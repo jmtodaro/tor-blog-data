@@ -5,7 +5,7 @@ permalink: volunteer-qa-price-freedom-eternal-vigilance
 date: 2012-05-23 13:27:19
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["qa", "security", "tbb"]
 ---
 

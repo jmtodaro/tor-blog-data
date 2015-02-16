@@ -5,7 +5,7 @@ permalink: circumvention-and-anonymity
 date: 2009-01-12 13:08:54
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["censorship circumvention", "distributed trust", "open architecture", "open philosophy"]
 ---
 

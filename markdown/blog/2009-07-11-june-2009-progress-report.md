@@ -5,7 +5,7 @@ permalink: june-2009-progress-report
 date: 2009-07-11 21:06:32
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "bugfixes", "censorship circumvention", "progress report", "releases"]
 ---
 

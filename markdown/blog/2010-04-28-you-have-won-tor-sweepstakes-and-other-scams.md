@@ -5,7 +5,7 @@ permalink: you-have-won-tor-sweepstakes-and-other-scams
 date: 2010-04-28 09:58:10
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["28th", "account address", "anonymity", "archives", "ca cashed checks", "claim", "days", "digit dreams", "letters", "life lucky", "mail money", "post prize", "scams"]
 ---
 

@@ -5,7 +5,7 @@ permalink: eff-and-tor-google-summer-code-2009
 date: 2009-03-20 21:30:25
 author: karsten
 category: blog
-status: closed
+comments: closed
 tags: ["Google Summer of Code", "gsoc", "gsoc 2009"]
 ---
 

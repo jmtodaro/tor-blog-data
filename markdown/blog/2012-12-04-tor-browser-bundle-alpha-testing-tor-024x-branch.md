@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-alpha-testing-tor-024x-branch
 date: 2012-12-04 14:26:44
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tbb-alpha", "tor browser", "tor-0.2.4-alpha", "tor-alpha"]
 ---
 

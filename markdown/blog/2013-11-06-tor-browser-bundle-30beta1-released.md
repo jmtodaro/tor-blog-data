@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-30beta1-released
 date: 2013-11-06 15:39:25
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["deterministic builds", "gitian", "security", "tbb", "tbb-3.0", "tor browser", "tor browser bundle", "tor-browser-bundle"]
 ---
 

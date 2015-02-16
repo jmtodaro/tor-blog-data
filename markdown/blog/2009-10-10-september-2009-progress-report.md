@@ -5,7 +5,7 @@ permalink: september-2009-progress-report
 date: 2009-10-10 07:16:46
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "bug fixes", "censorship circumvention", "china", "doj", "fbi", "iran", "performance improvements", "senators"]
 ---
 

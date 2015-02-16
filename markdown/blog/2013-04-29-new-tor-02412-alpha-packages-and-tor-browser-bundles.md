@@ -5,7 +5,7 @@ permalink: new-tor-02412-alpha-packages-and-tor-browser-bundles
 date: 2013-04-29 21:40:10
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tor alpha", "tor browser bundle", "tor release"]
 ---
 

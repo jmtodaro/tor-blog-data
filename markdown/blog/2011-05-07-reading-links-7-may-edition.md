@@ -5,7 +5,7 @@ permalink: reading-links-7-may-edition
 date: 2011-05-07 07:51:29
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["arab spring", "chinese internet", "facebook", "mafiaafire", "reading links", "syria", "what we&#039;re reading"]
 ---
 

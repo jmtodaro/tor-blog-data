@@ -5,7 +5,7 @@ permalink: november-2009-progress-report
 date: 2009-12-14 23:33:37
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "censorship circumvention", "performance", "progress report", "tor in java", "translation"]
 ---
 

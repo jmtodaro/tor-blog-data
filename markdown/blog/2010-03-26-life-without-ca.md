@@ -5,7 +5,7 @@ permalink: life-without-ca
 date: 2010-03-26 14:43:01
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["certificate authority", "certificate fingerprints", "distributed trust", "firefox", "ssl errors"]
 ---
 

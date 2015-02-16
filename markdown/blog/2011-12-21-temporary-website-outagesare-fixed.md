@@ -5,7 +5,7 @@ permalink: temporary-website-outagesare-fixed
 date: 2011-12-21 13:36:54
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["check", "gitweb", "godzilla wins", "hosting provider attacked", "no love for us today", "svn", "trac", "websites down", "www"]
 ---
 

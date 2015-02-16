@@ -5,7 +5,7 @@ permalink: february-2012-progress-report
 date: 2012-03-27 12:37:56
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "iran", "kazakhstan", "outreach", "progress report"]
 ---
 

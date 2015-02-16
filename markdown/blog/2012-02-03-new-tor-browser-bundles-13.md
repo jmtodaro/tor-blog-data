@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-13
 date: 2012-02-03 00:26:23
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "openssl", "tbb", "tor browser bundle"]
 ---
 

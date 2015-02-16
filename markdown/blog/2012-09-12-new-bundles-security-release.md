@@ -5,7 +5,7 @@ permalink: new-bundles-security-release
 date: 2012-09-12 11:58:24
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["release candidate", "security fixes", "stable release", "tbb", "tor", "tor browser bundle"]
 ---
 

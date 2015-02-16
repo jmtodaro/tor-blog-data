@@ -5,7 +5,7 @@ permalink: new-linux-packaging-tor-and-vidalia-now-available
 date: 2010-02-13 11:02:57
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["deb", "packaging", "respositories", "rpm", "tor", "vidalia"]
 ---
 

@@ -5,7 +5,7 @@ permalink: iran-partially-blocks-encrypted-network-traffic
 date: 2012-02-10 09:58:29
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["deep packet inspection", "dpi", "iranian censorship", "keyword filtering", "positive futures", "ssl blocking"]
 ---
 

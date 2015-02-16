@@ -5,7 +5,7 @@ permalink: nlnet-foundation-funds-two-projects
 date: 2008-06-06 21:04:10
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["directory services", "funding", "hidden services", "low bandwidth clients", "nlnet", "tor protocol"]
 ---
 

@@ -5,7 +5,7 @@ permalink: web-developers-and-firefox-hackers-help-us-firefox-4
 date: 2011-03-25 18:36:47
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["firefox", "tor", "torbutton"]
 ---
 

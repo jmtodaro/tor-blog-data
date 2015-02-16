@@ -5,7 +5,7 @@ permalink: tor-02118-and-02119-released-stable
 date: 2009-08-06 01:44:33
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity fixes", "bug fixes", "deprecated features", "feature enhancements", "stable release"]
 ---
 

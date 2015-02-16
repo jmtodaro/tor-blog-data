@@ -5,7 +5,7 @@ permalink: uw-hackfest-thanks
 date: 2012-02-27 16:49:16
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["hackfest", "thanks", "u of washington"]
 ---
 

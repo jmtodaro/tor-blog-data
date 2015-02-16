@@ -5,7 +5,7 @@ permalink: jacob-and-matt-join-tor-project
 date: 2008-05-29 15:36:47
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["auto-update", "exitlist", "tor", "tor check", "translation", "upnp", "vidalia", "vidalia bundle"]
 ---
 

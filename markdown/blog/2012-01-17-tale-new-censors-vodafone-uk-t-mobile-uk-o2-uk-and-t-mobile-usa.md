@@ -5,7 +5,7 @@ permalink: tale-new-censors-vodafone-uk-t-mobile-uk-o2-uk-and-t-mobile-usa
 date: 2012-01-17 19:20:50
 author: ioerror
 category: blog
-status: closed
+comments: closed
 tags: ["filtering censorship website tmobile vodafone o2"]
 ---
 

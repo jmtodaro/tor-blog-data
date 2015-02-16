@@ -5,7 +5,7 @@ permalink: testing-tor-browser-bundle-121dev
 date: 2009-05-31 11:51:53
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["bug fixes", "plugin scanning", "testing", "tor browser bundle"]
 ---
 

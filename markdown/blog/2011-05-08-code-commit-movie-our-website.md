@@ -5,7 +5,7 @@ permalink: code-commit-movie-our-website
 date: 2011-05-08 08:11:06
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["art", "codeswarm", "svn", "tor website", "visualization"]
 ---
 

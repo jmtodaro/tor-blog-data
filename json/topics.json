@@ -5,7 +5,7 @@
     "title": "Welcome",
     "date": "2007-12-05 20:59:32",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "blog",
       "first post",
@@ -19,7 +19,7 @@
     "title": "24C3 talk",
     "date": "2008-01-08 07:23:04",
     "author": "arma",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "24c3",
       "ccc",
@@ -33,7 +33,7 @@
     "title": "Vidalia bundle, OSX and Qt bugs",
     "date": "2008-01-20 13:50:53",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bugs",
       "crashes",
@@ -50,7 +50,7 @@
     "title": "Tor meetup in San Francisco, 7pm this Thursday",
     "date": "2008-01-24 00:02:18",
     "author": "nickm",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "meetup"
     ],
@@ -58,11 +58,11 @@
   },
   "5": {
     "id": 5,
-    "permalink": "blog/media-coverage-%26quot;covert-channel-vulnerabilities-anonymity-systems%26quot;",
+    "permalink": "blog/media-coverage-"covert-channel-vulnerabilities-anonymity-systems"",
     "title": "Media coverage of \"Covert channel vulnerabilities in anonymity systems\"",
     "date": "2008-02-03 18:07:14",
     "author": "sjmurdoch",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "attacks",
       "covert channels",
@@ -77,7 +77,7 @@
     "title": "January 2008 Progress Report",
     "date": "2008-02-18 19:09:33",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "incognito",
@@ -94,7 +94,7 @@
     "title": "Isaac Mao elected as one of our new directors",
     "date": "2008-02-21 18:01:05",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "china",
       "directors"
@@ -107,7 +107,7 @@
     "title": "February 2008 Progress Report",
     "date": "2008-03-11 19:47:23",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "progress report",
       "release candidate",
@@ -123,7 +123,7 @@
     "title": "The Tor Project is in Google Summer of Code 2008!",
     "date": "2008-03-18 11:42:29",
     "author": "nickm",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gsoc"
     ],
@@ -135,7 +135,7 @@
     "title": "Talking to German police in Stuttgart",
     "date": "2008-03-26 02:39:46",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "data retention",
       "germany",
@@ -150,7 +150,7 @@
     "title": "March 2008 Progress Report",
     "date": "2008-04-11 21:02:18",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "progress report",
       "release candidate",
@@ -165,7 +165,7 @@
     "title": "TorBrowser 1.0.1!",
     "date": "2008-04-11 21:03:50",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "torbrowser"
     ],
@@ -177,7 +177,7 @@
     "title": "TorCheck rewritten and relaunched!",
     "date": "2008-05-01 04:26:30",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "i18n",
       "l10n",
@@ -191,7 +191,7 @@
     "title": "Congrats 2008 Google Summer of Code Students!",
     "date": "2008-05-06 23:47:15",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "gsoc"
     ],
@@ -203,7 +203,7 @@
     "title": "Tor Browser Bundle 1.0.2 released.",
     "date": "2008-05-07 00:14:15",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "torbrowser"
     ],
@@ -215,7 +215,7 @@
     "title": "Security critical Tor-0.2.0.26-rc released",
     "date": "2008-05-13 11:38:48",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "debian",
       "openssl",
@@ -231,7 +231,7 @@
     "title": "The Debian OpenSSL flaw: what does it mean for Tor clients?",
     "date": "2008-05-13 20:22:24",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "openssl",
       "security advisory"
@@ -244,7 +244,7 @@
     "title": "April 2008 Progress Report",
     "date": "2008-05-14 11:53:24",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "progress report",
       "release candidate",
@@ -260,7 +260,7 @@
     "title": "Jacob and Matt join the Tor Project",
     "date": "2008-05-29 15:36:47",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "auto-update",
       "exitlist",
@@ -279,7 +279,7 @@
     "title": "Anonymous Publishing and Risking Execution",
     "date": "2008-06-01 08:01:52",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "anonymous publishing",
@@ -295,7 +295,7 @@
     "title": "The NLnet Foundation funds two projects",
     "date": "2008-06-06 21:04:10",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "directory services",
       "funding",
@@ -312,7 +312,7 @@
     "title": "Google funds an auto-update for Vidalia",
     "date": "2008-06-06 21:13:30",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "auto-update",
       "funding",
@@ -329,7 +329,7 @@
     "title": "Torproject.org Blocked by GFW in China: Sooner or Later?",
     "date": "2008-06-21 09:26:38",
     "author": "Anonymous",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "china",
       "GFW",
@@ -343,7 +343,7 @@
     "title": "May 2008 Progress Report",
     "date": "2008-06-24 22:39:17",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "browser bundle",
@@ -360,7 +360,7 @@
     "title": "Incognito and The Tor Project sign a licensing agreement",
     "date": "2008-06-27 16:42:44",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "incognito",
       "tor",
@@ -374,7 +374,7 @@
     "title": "Stable Torbutton Release Approaches",
     "date": "2008-07-06 20:45:08",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "torbutton",
       "uglyrumors"
@@ -387,7 +387,7 @@
     "title": "June 2008 Progress Report",
     "date": "2008-07-22 22:25:34",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "openssl",
@@ -405,7 +405,7 @@
     "title": "Fun with build machines",
     "date": "2008-08-05 21:50:21",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "centos4",
       "osx 10.4",
@@ -420,7 +420,7 @@
     "title": "False Positives in 0.2.0.30:  RISING found Trojan.PSW.Win32.Undef.adp",
     "date": "2008-08-05 22:09:46",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "false positives",
       "privoxy",
@@ -437,7 +437,7 @@
     "title": "Vidalia Logo Design Contest",
     "date": "2008-08-15 19:39:06",
     "author": "Anonymous",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "contest",
       "logo",
@@ -451,7 +451,7 @@
     "title": "July 2008 Progress Report",
     "date": "2008-08-17 22:11:31",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "bridges",
       "progress report",
@@ -471,7 +471,7 @@
     "title": "National Network to End Domestic Violence Conference Wrap-up",
     "date": "2008-08-18 21:19:17",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymity advocacy",
       "cyberstalking",
@@ -488,7 +488,7 @@
     "title": "Tor 0.2.0.30 is released as stable",
     "date": "2008-08-25 21:48:37",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "dns proxy",
       "rate limiting",
@@ -503,7 +503,7 @@
     "title": "Tor 0.2.0.31 Released",
     "date": "2008-09-08 23:34:15",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "stable release"
@@ -516,7 +516,7 @@
     "title": "August 2008 Progress Report",
     "date": "2008-09-21 18:05:39",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "incognito",
@@ -535,7 +535,7 @@
     "title": "September 2008 Progress Report",
     "date": "2008-10-14 19:07:12",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha",
       "bug fixes",
@@ -556,7 +556,7 @@
     "title": "Tor 0.2.1.6-alpha Released",
     "date": "2008-10-14 19:25:11",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha",
       "bug fixes"
@@ -569,7 +569,7 @@
     "title": "Online Anonymity Debate in South Korea",
     "date": "2008-10-16 21:06:17",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "cyber defamation",
       "democracy",
@@ -585,7 +585,7 @@
     "title": "Tor, Germany, and Data Retention",
     "date": "2008-10-16 22:09:57",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -597,7 +597,7 @@
     "title": "OS X Vidalia Bundle Thoughts",
     "date": "2008-10-29 21:43:41",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "apple os x",
       "installation",
@@ -611,7 +611,7 @@
     "title": "Anonymity on the Internet is not going away.",
     "date": "2008-11-07 18:00:53",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -623,7 +623,7 @@
     "title": "The carnival of data retention expands",
     "date": "2008-11-07 18:13:27",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "black boxes",
       "data retention",
@@ -638,7 +638,7 @@
     "title": "Five Years as an Exit Node Operator",
     "date": "2008-11-11 00:50:57",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "exit node",
       "exit relay",
@@ -654,7 +654,7 @@
     "title": "Tor 0.2.1.7-alpha released",
     "date": "2008-11-20 19:09:13",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bugfix",
@@ -668,7 +668,7 @@
     "title": "Knight Pulse, Jillian, and Tor",
     "date": "2008-11-24 23:46:32",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "blogging",
@@ -684,7 +684,7 @@
     "title": "October 2008 Progress Report",
     "date": "2008-12-01 19:43:12",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "auto-updater",
       "censorship circumvention",
@@ -703,7 +703,7 @@
     "title": "Tor 0.2.0.32 Released",
     "date": "2008-12-04 21:42:03",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "hidden services",
       "security fixes",
@@ -717,7 +717,7 @@
     "title": "Updates on Tor 0.2.0.32 for OS X Users",
     "date": "2008-12-04 21:48:00",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "apple os x",
       "packaging errors",
@@ -731,7 +731,7 @@
     "title": "How to Circumvent an Internet Proxy - Howcast",
     "date": "2008-12-06 00:34:24",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "howcast",
@@ -745,7 +745,7 @@
     "title": "Tor 0.2.1.8-alpha is now available",
     "date": "2008-12-10 07:53:21",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bugfixes"
@@ -758,7 +758,7 @@
     "title": "Quick thoughts on tor2web",
     "date": "2008-12-15 23:20:51",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "hidden services",
       "onion addresses",
@@ -772,7 +772,7 @@
     "title": "SHA-1 files by popular request",
     "date": "2008-12-19 00:07:47",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "downloads",
       "file verification",
@@ -787,7 +787,7 @@
     "title": "Our three-year development roadmap is published",
     "date": "2008-12-19 08:11:53",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "development roadmap",
@@ -802,7 +802,7 @@
     "title": "November 2008 Progress Report",
     "date": "2008-12-24 23:29:44",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -818,7 +818,7 @@
     "title": "The MD5 certificate collision attack, and what it means for Tor",
     "date": "2008-12-30 11:53:04",
     "author": "nickm",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "attack",
       "md5",
@@ -835,7 +835,7 @@
     "title": "Tor 0.2.1.9-alpha released",
     "date": "2009-01-04 21:55:25",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -850,7 +850,7 @@
     "title": "Tor 0.2.1.10-alpha released",
     "date": "2009-01-10 14:07:09",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -865,7 +865,7 @@
     "title": "Down to 0 issues on Coverity Scan.",
     "date": "2009-01-11 14:23:53",
     "author": "nickm",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -877,7 +877,7 @@
     "title": "Circumvention and Anonymity",
     "date": "2009-01-12 13:08:54",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "distributed trust",
@@ -892,7 +892,7 @@
     "title": "Experimental OS X Drag and Drop Vidalia Bundle Installer",
     "date": "2009-01-13 11:26:22",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "apple os x",
@@ -908,7 +908,7 @@
     "title": "Improvements on Hidden Service Performance -- or not?",
     "date": "2009-01-15 15:32:56",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "hidden services",
       "performance"
@@ -921,7 +921,7 @@
     "title": "Two incentive designs for Tor",
     "date": "2009-01-17 15:42:56",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "incentives",
       "performance",
@@ -935,7 +935,7 @@
     "title": "Tor 0.2.1.11-alpha released",
     "date": "2009-01-22 14:08:54",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bugfixes",
@@ -949,7 +949,7 @@
     "title": "Tor 0.2.0.33-stable released",
     "date": "2009-01-22 14:25:00",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "security fixes",
@@ -963,7 +963,7 @@
     "title": "December 2008 Progress Report",
     "date": "2009-02-02 14:28:39",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "anonymity advocacy",
@@ -979,7 +979,7 @@
     "title": "Tor 0.2.0.34-stable released",
     "date": "2009-02-09 18:21:20",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "security fixes",
@@ -993,7 +993,7 @@
     "title": "Tor 0.2.1.12-alpha is released",
     "date": "2009-02-09 18:29:18",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -1008,7 +1008,7 @@
     "title": "Overhead from directory info: past, present, future",
     "date": "2009-02-16 02:05:16",
     "author": "arma",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "directory",
       "performance",
@@ -1022,7 +1022,7 @@
     "title": "In praise of multiple options for circumvention",
     "date": "2009-02-16 19:31:16",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "circumvention",
@@ -1036,7 +1036,7 @@
     "title": "Black t-shirts by user request",
     "date": "2009-02-17 14:36:01",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "black t-shirts",
@@ -1050,7 +1050,7 @@
     "title": "Tor Browser Bundle 1.1.9 Released",
     "date": "2009-02-19 00:21:58",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "tor browser",
@@ -1064,7 +1064,7 @@
     "title": "\"One cell is enough to break Tor&#039;s anonymity\"",
     "date": "2009-02-19 01:51:21",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "attacks",
       "research",
@@ -1078,7 +1078,7 @@
     "title": "January 2009 Progress Report",
     "date": "2009-02-22 20:23:37",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "progress report",
@@ -1094,7 +1094,7 @@
     "title": "Some notes on progress with IOCP and Libevent",
     "date": "2009-03-01 17:37:33",
     "author": "nickm",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "developerment",
       "hacking",
@@ -1109,7 +1109,7 @@
     "title": "Berkman 2007 Circumvention Landscape and Progress",
     "date": "2009-03-05 01:18:51",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "Berkman Center for Internet and Society",
       "research report",
@@ -1123,7 +1123,7 @@
     "title": "Google Summer of Code 2008 review",
     "date": "2009-03-09 06:48:11",
     "author": "Sebastian",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "Google Summer of Code",
       "gsoc",
@@ -1137,7 +1137,7 @@
     "title": "February 2009 Progress Report",
     "date": "2009-03-10 10:24:22",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "progress report",
@@ -1151,7 +1151,7 @@
     "title": "Updated guide to blogging anonymously",
     "date": "2009-03-12 19:58:05",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "anonymous publishing",
@@ -1165,7 +1165,7 @@
     "title": "Tor 0.2.1.13-alpha released",
     "date": "2009-03-13 00:32:59",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -1179,7 +1179,7 @@
     "title": "Why Tor is slow and what we&#039;re going to do about it",
     "date": "2009-03-13 05:33:01",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "development roadmap",
       "funding",
@@ -1193,7 +1193,7 @@
     "title": "EFF and Tor in Google Summer of Code 2009",
     "date": "2009-03-20 21:30:25",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "Google Summer of Code",
       "gsoc",
@@ -1207,7 +1207,7 @@
     "title": "Technology Preview:  Marble and Vidalia-0.2.0",
     "date": "2009-03-28 20:21:39",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "drag and drop OS X install",
       "experimental",
@@ -1225,7 +1225,7 @@
     "title": "Tor Browser Bundle 1.1.11 Released",
     "date": "2009-03-31 14:19:52",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "portable tor",
@@ -1241,7 +1241,7 @@
     "title": "AntiVir, Tor Browser Bundle, and trojan Dropper.Gen false positive",
     "date": "2009-04-07 09:53:30",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anti-virus",
       "false positive",
@@ -1255,7 +1255,7 @@
     "title": "March 2009 Progress Report",
     "date": "2009-04-13 07:56:43",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -1269,7 +1269,7 @@
     "title": "Tor 0.2.1.14-rc released",
     "date": "2009-04-13 17:25:39",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "improvements",
@@ -1283,7 +1283,7 @@
     "title": "Tor Browser Bundle 1.1.12 released",
     "date": "2009-04-13 17:31:24",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tor browser bundle",
       "tor IM browser bundle"
@@ -1296,7 +1296,7 @@
     "title": "April 2009 Progress Report",
     "date": "2009-05-11 21:27:48",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bugfixes",
       "progress report",
@@ -1310,7 +1310,7 @@
     "title": "Performance measurements and blocking-resistance analysis in the Tor network",
     "date": "2009-05-21 15:19:22",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "performance",
@@ -1324,7 +1324,7 @@
     "title": "Testing Tor Browser Bundle 1.2.0-dev",
     "date": "2009-05-22 21:50:06",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "geoip",
       "libevent",
@@ -1338,7 +1338,7 @@
     "title": "Testing Tor Browser Bundle 1.2.1-dev",
     "date": "2009-05-31 11:51:53",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "bug fixes",
       "plugin scanning",
@@ -1353,7 +1353,7 @@
     "title": "Tor 0.2.1.15-rc released",
     "date": "2009-05-31 20:04:49",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "malloc fixes",
@@ -1367,7 +1367,7 @@
     "title": "Testing Red Flag Linux rpms",
     "date": "2009-06-08 10:10:16",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "redflag linux",
       "rpm",
@@ -1381,7 +1381,7 @@
     "title": "May 2009 Progress Report",
     "date": "2009-06-10 13:41:55",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "metrics",
@@ -1397,7 +1397,7 @@
     "title": "Measuring the Tor Network from Public Directory Information",
     "date": "2009-06-16 13:25:31",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "performance",
@@ -1411,7 +1411,7 @@
     "title": "Tor Browser Bundle 1.2.1 release candidate",
     "date": "2009-06-17 22:53:08",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "release candidate",
@@ -1425,7 +1425,7 @@
     "title": "Measuring Tor and Iran",
     "date": "2009-06-19 03:35:08",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "directory services",
       "iran",
@@ -1439,7 +1439,7 @@
     "title": "TorFlow Node Capacity, Integrity and Reliability Measurements at HotPETS",
     "date": "2009-06-21 04:32:49",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "performance",
       "research"
@@ -1452,7 +1452,7 @@
     "title": "Tor Browser Bundle 1.2.1 Released",
     "date": "2009-06-21 07:44:26",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "firefox updates",
@@ -1467,7 +1467,7 @@
     "title": "On the Recent Growth of the Tor Network",
     "date": "2009-06-22 20:07:03",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "metrics",
@@ -1481,7 +1481,7 @@
     "title": "Tor Browser Bundle 1.2.2 Released",
     "date": "2009-06-24 09:23:47",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "pidgin updates",
       "tor browser bundle",
@@ -1495,7 +1495,7 @@
     "title": "Tor 0.2.1.16-rc Release Candidate now available",
     "date": "2009-06-24 09:32:45",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "hidden service fixes",
@@ -1510,7 +1510,7 @@
     "title": "Tor 0.2.0.35-stable released",
     "date": "2009-06-25 19:34:49",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "hidden service fixes",
@@ -1524,7 +1524,7 @@
     "title": "Measuring Tor and Iran (Part two)",
     "date": "2009-07-01 13:25:51",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "iran",
@@ -1538,7 +1538,7 @@
     "title": "Time for a Directory Authority outside US/EU",
     "date": "2009-07-10 22:03:51",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "argentina",
       "directory authority",
@@ -1557,7 +1557,7 @@
     "title": "June 2009 Progress Report",
     "date": "2009-07-11 21:06:32",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "bugfixes",
@@ -1573,7 +1573,7 @@
     "title": "Vidalia 0.1.15 Released",
     "date": "2009-07-12 20:32:54",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bugfixes",
       "vidalia releases"
@@ -1586,7 +1586,7 @@
     "title": "Tor 0.2.0.35-stable bundles updated",
     "date": "2009-07-12 20:35:00",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "stable release",
       "vidalia release"
@@ -1599,7 +1599,7 @@
     "title": "Tor 0.2.1.17-rc released",
     "date": "2009-07-12 22:47:06",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "release candidate",
@@ -1613,7 +1613,7 @@
     "title": "Tor Browser Bundle 1.2.3 and 1.2.4 Released",
     "date": "2009-07-12 22:50:41",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "enhancements",
@@ -1628,7 +1628,7 @@
     "title": "CIMA/NED Panel on Iran and New Media",
     "date": "2009-07-14 07:10:05",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "CIMA/NED",
       "iran",
@@ -1643,7 +1643,7 @@
     "title": "A visit to NCFTA",
     "date": "2009-07-14 19:50:12",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "cybercrime",
       "ncfta",
@@ -1659,7 +1659,7 @@
     "title": "Updated packages for PowerPC-only OS X",
     "date": "2009-07-24 00:44:29",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "10.3.9",
       "anonymous donor",
@@ -1675,7 +1675,7 @@
     "title": "archive.torproject.org is now live",
     "date": "2009-07-29 12:32:51",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "directory authority archives",
       "package archives",
@@ -1689,7 +1689,7 @@
     "title": "Tor 0.2.1.18 and 0.2.1.19 released as stable",
     "date": "2009-08-06 01:44:33",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity fixes",
       "bug fixes",
@@ -1705,7 +1705,7 @@
     "title": "Tor Browser Bundle 1.2.5 and 1.2.6 released",
     "date": "2009-08-06 01:51:22",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tor browser bundle",
       "tor releases"
@@ -1718,7 +1718,7 @@
     "title": "Tor Browser Bundle 1.2.7 Released",
     "date": "2009-08-06 10:12:42",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "libevent updates",
@@ -1732,7 +1732,7 @@
     "title": "July 2009 Progress Report",
     "date": "2009-08-10 03:07:57",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "anonymity fixes",
@@ -1750,7 +1750,7 @@
     "title": "Vidalia 0.2.1 released",
     "date": "2009-08-11 22:48:59",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "usability enhancements",
       "vidalia release"
@@ -1763,7 +1763,7 @@
     "title": "Vidalia 0.2.2 Released",
     "date": "2009-08-15 09:01:14",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "openssl fixes",
@@ -1778,7 +1778,7 @@
     "title": "Testing Tor Browser Bundle 1.2.7-dev",
     "date": "2009-08-15 22:33:34",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "openssl fixes",
       "tor browser bundle",
@@ -1793,7 +1793,7 @@
     "title": "Roger&#039;s HAR2009 talk on Tor performance",
     "date": "2009-08-19 15:30:38",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "performance",
       "talks",
@@ -1807,7 +1807,7 @@
     "title": "Investigating http proxy performance with Tor",
     "date": "2009-08-19 16:57:17",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "caching",
       "faster firefox",
@@ -1828,7 +1828,7 @@
     "title": "Tor Browser Bundle 1.2.8 released",
     "date": "2009-08-19 22:43:12",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "openssl fixes",
       "tor browser bundle",
@@ -1842,7 +1842,7 @@
     "title": "Tor 0.2.2.1-alpha released",
     "date": "2009-09-02 14:32:58",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha release",
       "anonymity fixes",
@@ -1862,7 +1862,7 @@
     "title": "Major changes to OS X Vidalia Bundle with 0.2.2.1-alpha",
     "date": "2009-09-02 20:15:42",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "drag and drop OS X install",
       "updated packages",
@@ -1876,7 +1876,7 @@
     "title": "Vidalia 0.2.3 released",
     "date": "2009-09-03 08:48:53",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "drag and drop OS X install",
       "msi installer",
@@ -1891,7 +1891,7 @@
     "title": "Summer Conclusion (ARM Project)",
     "date": "2009-09-07 14:46:06",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "arm",
       "atagar",
@@ -1905,7 +1905,7 @@
     "title": "Vidalia 0.2.4 Released",
     "date": "2009-09-07 15:13:01",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "drag and drop OS X install",
       "msi installer",
@@ -1921,7 +1921,7 @@
     "title": "KAIST freshmen working on bridge distribution strategies",
     "date": "2009-09-08 19:15:58",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -1933,7 +1933,7 @@
     "title": "BitTorrent support for Thandy",
     "date": "2009-09-10 14:16:03",
     "author": "Sebastian",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "BitTorrent",
       "google",
@@ -1949,7 +1949,7 @@
     "title": "Polipo Portability Enhancements Summary",
     "date": "2009-09-11 18:25:21",
     "author": "chrisd",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "gsoc 2009",
       "libevent",
@@ -1963,7 +1963,7 @@
     "title": "Tor Browser Bundle 1.2.9 Released",
     "date": "2009-09-11 20:55:03",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox update",
       "pidgin update",
@@ -1979,7 +1979,7 @@
     "title": "Summer of Torbutton",
     "date": "2009-09-15 23:32:47",
     "author": "koryk",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gsoc torbutton"
     ],
@@ -1991,7 +1991,7 @@
     "title": "Anonymity by Design versus by Policy",
     "date": "2009-09-16 22:44:30",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "blogging",
@@ -2009,7 +2009,7 @@
     "title": "Website translation support for translation.torproject.org",
     "date": "2009-09-20 11:45:56",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gsoc",
       "translation",
@@ -2023,7 +2023,7 @@
     "title": "August 2009 Progress Report",
     "date": "2009-09-21 09:19:26",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "bug fixes",
@@ -2038,7 +2038,7 @@
     "title": "Tor partially blocked in China",
     "date": "2009-09-27 19:15:55",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "china",
@@ -2055,7 +2055,7 @@
     "title": "A seminar at Salzburg Global",
     "date": "2009-10-08 03:27:01",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "analog elders",
       "censorship circumvention",
@@ -2073,7 +2073,7 @@
     "title": "Tor 0.2.2.2-alpha released",
     "date": "2009-10-09 22:49:19",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -2087,7 +2087,7 @@
     "title": "Tor 0.2.2.3-alpha released",
     "date": "2009-10-09 22:52:34",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha release",
       "bug fixes"
@@ -2100,7 +2100,7 @@
     "title": "September 2009 Progress Report",
     "date": "2009-10-10 07:16:46",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "bug fixes",
@@ -2120,7 +2120,7 @@
     "title": "Thoughts on user generated t-shirts?",
     "date": "2009-10-11 22:01:45",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "activists",
       "new designs",
@@ -2135,7 +2135,7 @@
     "title": "Tor 0.2.2.4-alpha released",
     "date": "2009-10-12 09:56:02",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -2153,7 +2153,7 @@
     "title": "Tor 0.2.2.5-alpha released",
     "date": "2009-10-12 10:04:49",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -2168,7 +2168,7 @@
     "title": "Picturing Tor censorship in China",
     "date": "2009-10-13 21:56:10",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "censorship",
@@ -2186,7 +2186,7 @@
     "title": "Vidalia 0.2.5 Released",
     "date": "2009-10-17 07:21:56",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "usability enhancements",
@@ -2200,7 +2200,7 @@
     "title": "Google Summer of Code 2009 Wrap-up",
     "date": "2009-10-26 20:13:06",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gsoc",
       "gsoc 2009"
@@ -2213,7 +2213,7 @@
     "title": "Vidalia 0.2.6 Released",
     "date": "2009-11-12 09:06:56",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "vidalia release"
@@ -2226,7 +2226,7 @@
     "title": "Blogfest Asia 2009",
     "date": "2009-11-12 09:11:18",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "asia",
       "blogfest asia",
@@ -2245,7 +2245,7 @@
     "title": "October 2009 Progress Report",
     "date": "2009-11-12 10:14:19",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "enhancements",
@@ -2261,7 +2261,7 @@
     "title": "Tor 0.2.1.20 Released",
     "date": "2009-11-12 20:35:58",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bugfixes",
       "bundle upgrades",
@@ -2276,7 +2276,7 @@
     "title": "Installing and using Tor",
     "date": "2009-11-19 21:31:30",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "documentation",
@@ -2298,7 +2298,7 @@
     "title": "Tor Browser Bundle 1.2.10 Released",
     "date": "2009-11-20 23:43:26",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "libevent updates",
@@ -2314,7 +2314,7 @@
     "title": "Thanks to Shinjiru",
     "date": "2009-11-29 09:01:43",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "directory authority",
       "donated services",
@@ -2329,7 +2329,7 @@
     "title": "Tor 0.2.2.6-alpha released",
     "date": "2009-12-03 00:29:12",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "android",
@@ -2345,7 +2345,7 @@
     "title": "Conversation with a European Donor",
     "date": "2009-12-03 09:39:44",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymous donor",
       "data retention",
@@ -2361,7 +2361,7 @@
     "title": "Polipo changes maintainer",
     "date": "2009-12-11 16:02:36",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "Google Summer of Code",
       "maintainer",
@@ -2378,7 +2378,7 @@
     "title": "November 2009 Progress Report",
     "date": "2009-12-14 23:33:37",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "censorship circumvention",
@@ -2395,7 +2395,7 @@
     "title": "On the risks of serving whenever you surf",
     "date": "2009-12-23 17:27:12",
     "author": "sjmurdoch",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity",
       "bridges",
@@ -2410,7 +2410,7 @@
     "title": "New Stable released, Tor 0.2.1.21",
     "date": "2009-12-30 09:21:46",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "exit relays",
@@ -2425,7 +2425,7 @@
     "title": "Tor Browser Bundle 1.3.0 Released",
     "date": "2010-01-03 21:25:20",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "pidgin updates",
@@ -2440,7 +2440,7 @@
     "title": "Tor and Censorship:  lessons learned",
     "date": "2010-01-07 20:45:13",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "26c3",
       "ccc",
@@ -2457,7 +2457,7 @@
     "title": "Poland, Internet Censorship, and Tor",
     "date": "2010-01-11 20:45:47",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity",
       "global voices",
@@ -2475,7 +2475,7 @@
     "title": "Start of a Tor Legal Support Directory",
     "date": "2010-01-11 22:50:24",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "australia",
       "austria",
@@ -2497,7 +2497,7 @@
     "title": "Tor Project infrastructure updates",
     "date": "2010-01-22 10:51:45",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "security updates",
@@ -2512,7 +2512,7 @@
     "title": "Updates on Internet Censorship in Poland",
     "date": "2010-01-22 11:01:01",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "internet censorship",
       "poland"
@@ -2525,7 +2525,7 @@
     "title": "Net Freedom, Secretary Clinton, and Tor",
     "date": "2010-01-23 00:04:34",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "internet freedom",
       "secretary clinton"
@@ -2538,7 +2538,7 @@
     "title": "Tor 0.2.1.22 Released",
     "date": "2010-01-23 07:46:20",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "performance enhancements",
@@ -2554,7 +2554,7 @@
     "title": "Tor 0.2.2.7-alpha released",
     "date": "2010-01-23 07:48:28",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "deprecated features",
@@ -2571,7 +2571,7 @@
     "title": "Tor Browser Bundle 1.3.1 Released",
     "date": "2010-01-23 07:53:13",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "pidgin updates",
@@ -2586,7 +2586,7 @@
     "title": "Apple broke OpenSSL which breaks Tor on OS X",
     "date": "2010-01-27 13:14:35",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "apple os x",
       "new packages",
@@ -2602,7 +2602,7 @@
     "title": "EFF&#039;s Panopticlick and Torbutton",
     "date": "2010-01-29 12:43:06",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "EFF",
       "online anonymity",
@@ -2619,7 +2619,7 @@
     "title": "Apple workaround for openssl issues on OS X 10.5 and 10.6",
     "date": "2010-01-31 22:10:14",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "10.3",
       "10.4",
@@ -2639,7 +2639,7 @@
     "title": "December 2009 Progress Report",
     "date": "2010-02-13 10:35:12",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "bug fixes",
       "enhancements",
@@ -2656,7 +2656,7 @@
     "title": "January 2010 Progress Report",
     "date": "2010-02-13 11:00:04",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "bug fixes",
@@ -2674,7 +2674,7 @@
     "title": "New Linux packaging of Tor and Vidalia now available",
     "date": "2010-02-13 11:02:57",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "deb",
       "packaging",
@@ -2691,7 +2691,7 @@
     "title": "Tor on the Nokia N900 (Maemo) GSM telephone",
     "date": "2010-02-18 19:25:41",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "mobile nokia n900 phone linux"
     ],
@@ -2703,7 +2703,7 @@
     "title": "New Stable Version 0.2.1.24 released",
     "date": "2010-03-03 15:14:34",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "apple osx love",
       "bug fixes",
@@ -2720,7 +2720,7 @@
     "title": "Tor on Android",
     "date": "2010-03-04 08:18:26",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "android mobile phone linux"
     ],
@@ -2732,7 +2732,7 @@
     "title": "China blocking Tor:  Round Two",
     "date": "2010-03-11 20:49:18",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge blocking",
       "censorship",
@@ -2748,7 +2748,7 @@
     "title": "Blog problems",
     "date": "2010-03-14 08:54:00",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "blog overload",
       "comment apocalypse",
@@ -2762,7 +2762,7 @@
     "title": "Tor in Google Summer of Code 2010",
     "date": "2010-03-23 13:23:32",
     "author": "karsten",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "gsoc",
       "gsoc2010"
@@ -2775,7 +2775,7 @@
     "title": "February 2010 Progress Report",
     "date": "2010-03-23 20:26:36",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "performance enhancements",
@@ -2789,7 +2789,7 @@
     "title": "Life without a CA",
     "date": "2010-03-26 14:43:01",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "certificate authority",
       "certificate fingerprints",
@@ -2805,7 +2805,7 @@
     "title": "Tor Browser Bundle for GNU/Linux",
     "date": "2010-03-26 22:28:49",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "installing and using tor",
       "tbb",
@@ -2819,7 +2819,7 @@
     "title": "Announcing the Tor Store",
     "date": "2010-03-29 11:39:27",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "ecommerce",
       "mugs",
@@ -2837,7 +2837,7 @@
     "title": "End of Life for Tor 0.2.0.x branch",
     "date": "2010-03-30 20:17:51",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "end of life",
       "old-stable",
@@ -2851,7 +2851,7 @@
     "title": "Torbutton Release 1.2.5, Google Captchas, and addons.mozilla.org",
     "date": "2010-04-10 05:48:05",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "captchas",
       "data retention",
@@ -2869,7 +2869,7 @@
     "title": "March 2010 Progress Report",
     "date": "2010-04-17 19:28:01",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "progress report",
@@ -2886,7 +2886,7 @@
     "title": "Tor 0.2.2.11-alpha and 0.2.2.12-alpha are out",
     "date": "2010-04-23 22:26:03",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "bug fixes",
@@ -2900,7 +2900,7 @@
     "title": "You have won the Tor sweepstakes and other scams",
     "date": "2010-04-28 09:58:10",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "28th",
       "account address",
@@ -2924,7 +2924,7 @@
     "title": "Bittorrent over Tor isn&#039;t a good idea",
     "date": "2010-04-30 01:06:37",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity applications attack",
       "BitTorrent",
@@ -2942,7 +2942,7 @@
     "title": "April 2010 Progress Report",
     "date": "2010-05-10 15:22:32",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "bug fixes",
@@ -2959,7 +2959,7 @@
     "title": "Tor-related research positions at the University of Waterloo",
     "date": "2010-05-13 14:25:58",
     "author": "ian",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -2971,7 +2971,7 @@
     "title": "Vidalia 0.2.9 Released",
     "date": "2010-05-26 22:05:19",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "stable release",
@@ -2985,7 +2985,7 @@
     "title": "Tor Browser Bundle Updates",
     "date": "2010-06-01 14:11:31",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "tor browser bundle",
@@ -3000,7 +3000,7 @@
     "title": "Plaintext over Tor is still plaintext",
     "date": "2010-06-01 21:36:41",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "exit relays",
       "plaintext communications",
@@ -3015,7 +3015,7 @@
     "title": "Technology Preview:  Bridge by default for Microsoft Windows clients",
     "date": "2010-06-06 16:25:38",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge by default",
       "bridges",
@@ -3030,7 +3030,7 @@
     "title": "Tor 0.2.1.26-stable released",
     "date": "2010-06-09 22:18:21",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "connection overload",
       "stable release",
@@ -3045,7 +3045,7 @@
     "title": "May 2010 Progress Report",
     "date": "2010-06-16 12:55:48",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "conferences",
@@ -3061,7 +3061,7 @@
     "title": "HTTPS Everywhere Firefox addon helps you encrypt web traffic",
     "date": "2010-06-17 19:55:30",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "plaintext communications",
       "privacy",
@@ -3075,7 +3075,7 @@
     "title": "Dear Nigerians, help us help you.",
     "date": "2010-06-28 23:39:01",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "data gathering",
       "herdict",
@@ -3092,7 +3092,7 @@
     "title": "Firefox Private Browsing Mode, Torbutton, and Fingerprinting",
     "date": "2010-06-30 02:51:07",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "EFF",
       "firefox",
@@ -3110,7 +3110,7 @@
     "title": "Tips for Running an Exit Node with Minimal Harassment",
     "date": "2010-06-30 19:08:08",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "distributed trust",
@@ -3125,7 +3125,7 @@
     "title": "Tor Browser Bundle for Windows 1.3.7 Released",
     "date": "2010-07-04 21:53:13",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "pidgin updates",
@@ -3139,7 +3139,7 @@
     "title": "June 2010 Progress Report",
     "date": "2010-07-13 08:38:13",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "measures of the tor network",
@@ -3157,7 +3157,7 @@
     "title": "Tor 0.2.2.14-alpha released",
     "date": "2010-07-19 04:30:14",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "directory authority",
@@ -3172,7 +3172,7 @@
     "title": "Tor Browser Bundle for Windows 1.3.9 Released",
     "date": "2010-07-30 19:58:14",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "instant messenger",
       "microsoft windows",
@@ -3188,7 +3188,7 @@
     "title": "July 2010 Progress Report",
     "date": "2010-08-12 09:25:08",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "bug fixes",
@@ -3212,7 +3212,7 @@
     "title": "TorBEL: The Tor Bulk Exit List Tools",
     "date": "2010-08-20 08:33:50",
     "author": "hbock",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gsoc2010",
       "torbel"
@@ -3225,7 +3225,7 @@
     "title": "Tor Browser Bundle 1.0.10 for GNU/Linux released",
     "date": "2010-08-23 03:05:55",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "firefox updates",
@@ -3240,7 +3240,7 @@
     "title": "Tor 0.2.2.15-alpha released",
     "date": "2010-08-23 03:44:28",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "hidden services",
@@ -3256,7 +3256,7 @@
     "title": "Trip report, UCSD",
     "date": "2010-08-28 01:11:08",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -3268,7 +3268,7 @@
     "title": "Trip report, NSF data workshop",
     "date": "2010-08-30 15:59:01",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -3280,7 +3280,7 @@
     "title": "August 2010 Progress Report",
     "date": "2010-09-13 15:23:27",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "progress report",
@@ -3295,7 +3295,7 @@
     "title": "Google Chrome Incognito Mode, Tor, and Fingerprinting",
     "date": "2010-09-14 09:08:02",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "chrome",
       "EFF",
@@ -3315,7 +3315,7 @@
     "title": "Tor Browser Bundle for Mac OS X",
     "date": "2010-09-15 09:13:33",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "portable bundles",
@@ -3330,7 +3330,7 @@
     "title": "Boston Tor Hackers:  Join us Sunday September 19th",
     "date": "2010-09-15 12:11:43",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "code",
       "developers",
@@ -3346,7 +3346,7 @@
     "title": "Ten Things to Look for in a Circumvention Tool",
     "date": "2010-09-17 08:41:30",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "article",
       "censorship circumvention",
@@ -3361,7 +3361,7 @@
     "title": "Research problem: adaptive throttling of Tor clients by entry guards",
     "date": "2010-09-19 17:02:14",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bandwidth throttling",
       "research",
@@ -3377,7 +3377,7 @@
     "title": "Tor 0.2.2.16-alpha released",
     "date": "2010-09-21 19:08:41",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "enhancements"
@@ -3390,7 +3390,7 @@
     "title": "Vidalia 0.2.10 Released",
     "date": "2010-09-28 10:31:45",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bugfixes",
       "geoip fixes",
@@ -3405,7 +3405,7 @@
     "title": "Shutting down the Vidalia GeoIP mapping server",
     "date": "2010-09-30 19:32:52",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "city mapping",
       "geoip",
@@ -3421,7 +3421,7 @@
     "title": "VisiTor - or: a script to tell you how many of your users are probably Tor users",
     "date": "2010-10-04 02:10:54",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "metrics apache"
     ],
@@ -3433,7 +3433,7 @@
     "title": "Tor 0.2.2.17-alpha is out",
     "date": "2010-10-04 12:21:08",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bandwidth fixes",
@@ -3449,7 +3449,7 @@
     "title": "September 2010 Progress Report",
     "date": "2010-10-11 10:19:43",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "new hires",
       "progress report",
@@ -3464,7 +3464,7 @@
     "title": "Tor Metrics - Google Summer of Code 2010",
     "date": "2010-10-14 00:04:22",
     "author": "kjbbb",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gsoc",
       "gsoc2010",
@@ -3478,7 +3478,7 @@
     "title": "New Tor Browser Bundles released",
     "date": "2010-10-28 01:23:06",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "microsoft windows",
       "osx",
@@ -3495,7 +3495,7 @@
     "title": "Mac OS X Vidalia Bundle with 0.2.2.17-alpha out",
     "date": "2010-10-28 03:12:37",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "geoip",
       "geoip fixes",
@@ -3513,7 +3513,7 @@
     "title": "New Tor Browser Bundles released (take two)",
     "date": "2010-10-29 05:22:01",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "microsoft windows",
       "osx",
@@ -3531,7 +3531,7 @@
     "title": "October 2010 Progress Report",
     "date": "2010-11-09 15:24:09",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "arm",
       "bug fixes",
@@ -3549,7 +3549,7 @@
     "title": "New OpenSSL vulnerability; Tor not affected",
     "date": "2010-11-16 10:12:00",
     "author": "nickm",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "analysis",
       "bugs",
@@ -3564,7 +3564,7 @@
     "title": "2009 Annual Report",
     "date": "2010-11-16 12:40:10",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "annual report",
       "data release",
@@ -3579,7 +3579,7 @@
     "title": "Tor 0.2.2.18-alpha available",
     "date": "2010-11-17 17:30:21",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -3593,7 +3593,7 @@
     "title": "Tor 0.2.1.27 is released.",
     "date": "2010-11-26 08:45:31",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "bug fixes",
       "directory authorities",
@@ -3609,7 +3609,7 @@
     "title": "Tor 0.2.2.19-alpha is out",
     "date": "2010-11-26 10:14:45",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -3625,7 +3625,7 @@
     "title": "New Tor Browser Bundle packages",
     "date": "2010-11-26 10:23:57",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "bug fixes",
@@ -3641,7 +3641,7 @@
     "title": "Arm Release 1.4.0",
     "date": "2010-12-01 00:21:06",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "arm"
     ],
@@ -3653,7 +3653,7 @@
     "title": "New Tor Browser Bundle packages",
     "date": "2010-12-15 00:10:54",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "bug fixes",
       "firefox updates",
@@ -3670,7 +3670,7 @@
     "title": "November 2010 Progress Report",
     "date": "2010-12-16 17:16:17",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "enhancements",
       "fixes",
@@ -3685,7 +3685,7 @@
     "title": "Tor 0.2.1.28 is released (security patches)",
     "date": "2010-12-20 11:05:03",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "bug fixes",
       "enhancements",
@@ -3699,7 +3699,7 @@
     "title": "Tor 0.2.2.20-alpha is out (security patches)",
     "date": "2010-12-20 11:10:39",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "bug fixes",
       "enhancements",
@@ -3713,7 +3713,7 @@
     "title": "Torbutton-alpha 1.3.1 released for testing",
     "date": "2011-01-04 18:05:46",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha release",
       "firefox",
@@ -3727,7 +3727,7 @@
     "title": "Boston Tor Hackers, join us Saturday, January 15th",
     "date": "2011-01-04 18:11:39",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "boston hackfest",
       "center for future civic media"
@@ -3740,7 +3740,7 @@
     "title": "Measuring Tunisian Tor Usage",
     "date": "2011-01-06 21:28:34",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "circumvention",
       "internet censorship",
@@ -3755,7 +3755,7 @@
     "title": "Arm Release 1.4.1",
     "date": "2011-01-08 01:58:06",
     "author": "atagar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "arm"
     ],
@@ -3767,7 +3767,7 @@
     "title": "New Blocking Activity from Iran",
     "date": "2011-01-09 22:58:30",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "censorship",
       "deep packet inspection",
@@ -3783,7 +3783,7 @@
     "title": "New Tor Browser Bundle packages",
     "date": "2011-01-10 13:14:02",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "security fixes",
       "security updates",
@@ -3800,7 +3800,7 @@
     "title": "New PPC packages available",
     "date": "2011-01-10 13:14:14",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "apple osx love",
@@ -3817,7 +3817,7 @@
     "title": "December 2010 Progress Report",
     "date": "2011-01-11 12:14:17",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "new packages",
       "new releases",
@@ -3832,7 +3832,7 @@
     "title": "Update on Tor usage in Tunisia",
     "date": "2011-01-13 21:54:20",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "cautious optimism",
       "internet censorship",
@@ -3847,7 +3847,7 @@
     "title": "Tor 0.2.1.29 is released (security patches)",
     "date": "2011-01-17 11:21:36",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "security fixes",
       "stable releases",
@@ -3861,7 +3861,7 @@
     "title": "Lots of new Tor packages",
     "date": "2011-01-17 12:36:38",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "apple osx love",
@@ -3883,7 +3883,7 @@
     "title": "Mac OS X packages fixed",
     "date": "2011-01-18 13:59:20",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "apple osx love",
       "updated packages"
@@ -3896,7 +3896,7 @@
     "title": "Tor 0.2.2.21-alpha is out (security patches)",
     "date": "2011-01-18 23:25:48",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha release",
       "security fixes",
@@ -3913,7 +3913,7 @@
     "title": "Update on Internet censorship in Iran",
     "date": "2011-01-21 02:11:28",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "great potato wall",
       "internet censorship",
@@ -3928,7 +3928,7 @@
     "title": "Tor Open Hackfest: February 19, 2011",
     "date": "2011-01-25 13:19:07",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "advocacy",
       "coding",
@@ -3945,7 +3945,7 @@
     "title": "Tor 0.2.2.22-alpha is out",
     "date": "2011-01-27 10:12:17",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha release",
       "bridge blocking",
@@ -3960,7 +3960,7 @@
     "title": "Weather Change",
     "date": "2011-01-29 08:58:00",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "feature enhancements",
       "relay tracking",
@@ -3974,7 +3974,7 @@
     "title": "Recent events in Egypt",
     "date": "2011-01-29 17:54:45",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "censorship",
@@ -3990,7 +3990,7 @@
     "title": "Protecting your Internet traffic in volatile times",
     "date": "2011-02-02 15:18:23",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "egypt",
       "low bandwidth clients",
@@ -4006,7 +4006,7 @@
     "title": "Research problem: measuring the safety of the Tor network",
     "date": "2011-02-06 00:18:00",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "research",
       "research progress",
@@ -4020,7 +4020,7 @@
     "title": "January 2011 Progress Report",
     "date": "2011-02-08 11:20:11",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity features",
       "feature enhancements",
@@ -4037,7 +4037,7 @@
     "title": "five minutes to speak",
     "date": "2011-02-13 09:52:43",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "cyberutopian",
@@ -4054,7 +4054,7 @@
     "title": "Hackfest Thanks",
     "date": "2011-02-20 23:29:07",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "february 2011",
@@ -4070,7 +4070,7 @@
     "title": "London Internet Security & Privacy Workshop",
     "date": "2011-03-05 09:01:31",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "internet privacy",
       "internet security",
@@ -4084,7 +4084,7 @@
     "title": "Tor 0.2.1.30 is released",
     "date": "2011-03-05 16:42:14",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "stable releases",
       "tor"
@@ -4097,7 +4097,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-03-09 22:42:12",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "stable releases",
@@ -4114,7 +4114,7 @@
     "title": "Tor 0.2.2.23-alpha is out",
     "date": "2011-03-10 06:41:17",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "bug fixes",
@@ -4129,7 +4129,7 @@
     "title": "Reading links for 11 March 2011",
     "date": "2011-03-11 14:46:04",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "interesting topics",
       "reading links",
@@ -4144,7 +4144,7 @@
     "title": "February 2011 Progress Report",
     "date": "2011-03-15 12:11:15",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "censosrhip circumvention",
@@ -4162,7 +4162,7 @@
     "title": "Reading links, 21 March 2011 edition",
     "date": "2011-03-21 21:45:03",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "china",
       "edrigram",
@@ -4182,7 +4182,7 @@
     "title": "Detecting Certificate Authority compromises and web browser collusion",
     "date": "2011-03-22 19:16:10",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "ssl tls ca tor certificates torbrowser"
     ],
@@ -4194,7 +4194,7 @@
     "title": "The Tor Project receives FSF Award",
     "date": "2011-03-23 06:28:11",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "award",
       "free society",
@@ -4210,7 +4210,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-03-24 06:07:41",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "firefox updates",
       "tbb",
@@ -4226,7 +4226,7 @@
     "title": "Web Developers and Firefox Hackers: Help us with Firefox 4",
     "date": "2011-03-25 18:36:47",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "tor",
@@ -4240,7 +4240,7 @@
     "title": "Firefox 4 Tor Browser Bundles for OS X",
     "date": "2011-03-27 18:07:00",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "apple osx love",
       "bug fixes",
@@ -4257,7 +4257,7 @@
     "title": "Windows Bridge-by-Default Bundle",
     "date": "2011-03-31 20:17:16",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge by default",
       "bridges",
@@ -4272,7 +4272,7 @@
     "title": "Firefox 4 Tor Browser Bundles for GNU/Linux",
     "date": "2011-04-01 11:40:40",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tor browser bundle",
@@ -4287,7 +4287,7 @@
     "title": "Trip report: Taipei",
     "date": "2011-04-02 03:00:01",
     "author": "arma",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       ""
     ],
@@ -4299,7 +4299,7 @@
     "title": "Arm Release 1.4.2",
     "date": "2011-04-04 11:14:48",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "arm"
     ],
@@ -4311,7 +4311,7 @@
     "title": "tails anonymous operating system, version 0.7 released",
     "date": "2011-04-08 21:46:12",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymous operating system",
       "livecd",
@@ -4327,7 +4327,7 @@
     "title": "Vidalia: get involved!",
     "date": "2011-04-12 10:27:53",
     "author": "chiiph",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "builds",
       "free software",
@@ -4345,7 +4345,7 @@
     "title": "March 2011 Progress Report",
     "date": "2011-04-12 13:10:49",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "new features",
@@ -4362,7 +4362,7 @@
     "title": "Vidalia 0.2.12 is released",
     "date": "2011-04-12 21:13:44",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "bug fixes",
       "improvements",
@@ -4377,7 +4377,7 @@
     "title": "Tor 0.2.2.24-alpha is out",
     "date": "2011-04-12 21:25:49",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "bug fixes",
@@ -4391,7 +4391,7 @@
     "title": "Lots of new Tor and Vidalia packages",
     "date": "2011-04-12 22:09:44",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha release",
       "bug fixes",
@@ -4408,7 +4408,7 @@
     "title": "Tor IM Browser Bundle discontinued temporarily",
     "date": "2011-04-13 05:17:42",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "pidgin",
       "security",
@@ -4422,7 +4422,7 @@
     "title": "Stockholm Hackfest, May 14th",
     "date": "2011-04-15 15:33:58",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "code",
@@ -4439,7 +4439,7 @@
     "title": "Reading links, 15 April",
     "date": "2011-04-15 22:47:50",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "anonymity",
@@ -4455,7 +4455,7 @@
     "title": "Firefox 4 Tor Browser Bundle for Windows",
     "date": "2011-04-24 16:50:15",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "tor browser bundle",
@@ -4469,7 +4469,7 @@
     "title": "IPv6 is the future, I hear",
     "date": "2011-04-28 10:50:56",
     "author": "nickm",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "development",
       "ipv6"
@@ -4482,7 +4482,7 @@
     "title": "To Toggle, or not to Toggle: The End of Torbutton",
     "date": "2011-05-02 04:52:04",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "tor browser",
@@ -4498,7 +4498,7 @@
     "title": "Tor 0.2.2.25-alpha is out",
     "date": "2011-05-02 22:55:47",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "bugfixes",
@@ -4515,7 +4515,7 @@
     "title": "New Tor Browser Bundles (and other packaging updates)",
     "date": "2011-05-02 23:08:50",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "firefox",
@@ -4534,7 +4534,7 @@
     "title": "GSoC 2011 Projects",
     "date": "2011-05-03 09:52:36",
     "author": "atagar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymity",
       "arm",
@@ -4553,7 +4553,7 @@
     "title": "Reading links, 7 May edition",
     "date": "2011-05-07 07:51:29",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "arab spring",
       "chinese internet",
@@ -4571,7 +4571,7 @@
     "title": "April 2011 Progress Report",
     "date": "2011-05-07 20:23:24",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity fixes",
       "arm",
@@ -4592,7 +4592,7 @@
     "title": "Code Commit Movie of our Website",
     "date": "2011-05-08 08:11:06",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "art",
       "codeswarm",
@@ -4608,7 +4608,7 @@
     "title": "Strategies for getting more bridge addresses",
     "date": "2011-05-13 22:06:07",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "bridge distribution",
@@ -4625,7 +4625,7 @@
     "title": "2011 Stockholm Hackfest Thanks",
     "date": "2011-05-14 17:22:48",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "hackfest",
       "stockholm",
@@ -4641,7 +4641,7 @@
     "title": "A visit to Iceland",
     "date": "2011-05-22 06:31:08",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "1984",
       "advocacy",
@@ -4662,7 +4662,7 @@
     "title": "Tor 0.2.2.26-beta and 0.2.2.27-beta are out",
     "date": "2011-05-23 22:39:47",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "tor"
@@ -4675,7 +4675,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-05-23 23:13:54",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "tor browser bundle"
@@ -4688,7 +4688,7 @@
     "title": "IPv6 and Tor Project Websites",
     "date": "2011-06-08 06:48:13",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "ipv6",
       "torproject websites",
@@ -4702,7 +4702,7 @@
     "title": "May 2011 Progress Report",
     "date": "2011-06-10 09:20:57",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "bugfixes",
@@ -4717,7 +4717,7 @@
     "title": "Improving Private Browsing Modes: \"Do-Not-Track\" vs Real Privacy by Design",
     "date": "2011-06-13 16:37:00",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "chrome",
       "dnt",
@@ -4737,7 +4737,7 @@
     "title": "Tails 0.7.2 Released",
     "date": "2011-06-13 19:23:07",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymous operating system",
       "i2p",
@@ -4753,7 +4753,7 @@
     "title": "Tor 0.2.2.28-beta and 0.2.2.29-beta are out",
     "date": "2011-06-24 14:22:28",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "bug fixes",
@@ -4767,7 +4767,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-06-25 17:07:59",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "alpha releases",
       "tbb",
@@ -4781,7 +4781,7 @@
     "title": "Torbutton 1.4.0 Released",
     "date": "2011-07-09 17:39:06",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity",
       "firefox extensions",
@@ -4797,7 +4797,7 @@
     "title": "June 2011 Progress Report",
     "date": "2011-07-13 13:50:54",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "anonymity advocacy",
@@ -4813,7 +4813,7 @@
     "title": "Tor 0.2.2.30-rc is out",
     "date": "2011-07-14 05:59:09",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "release candidate",
       "tor"
@@ -4826,7 +4826,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-07-14 07:26:44",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "firefox updates",
       "release candidate",
@@ -4840,7 +4840,7 @@
     "title": "Arm Release 1.4.3",
     "date": "2011-07-17 01:54:53",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "arm"
     ],
@@ -4852,7 +4852,7 @@
     "title": "Real Name Internet versus Reality",
     "date": "2011-07-31 11:17:22",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity online",
       "facebook",
@@ -4872,7 +4872,7 @@
     "title": "July 2011 Progress Report",
     "date": "2011-08-10 14:58:59",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "censorship circumvention",
@@ -4888,7 +4888,7 @@
     "title": "Ending domestic violence, NNEDV, and Tor",
     "date": "2011-08-10 15:01:55",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "abuse victims",
       "dv",
@@ -4907,7 +4907,7 @@
     "title": "We need your good Tor stories",
     "date": "2011-08-17 14:53:00",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "media coverage",
@@ -4921,7 +4921,7 @@
     "title": "Research problem: better guard rotation parameters",
     "date": "2011-08-20 13:22:07",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity",
       "anonymity features",
@@ -4940,7 +4940,7 @@
     "title": "New Firefox 3.6 Tor Browser Bundles",
     "date": "2011-08-20 21:12:02",
     "author": "rransom",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "firefox updates",
       "package updates",
@@ -4956,7 +4956,7 @@
     "title": "New Tor Browser Bundles with Firefox 6",
     "date": "2011-08-21 04:44:09",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "firefox 6",
       "firefox updates",
@@ -4973,7 +4973,7 @@
     "title": "Vidalia 0.2.14 is out!",
     "date": "2011-08-28 12:10:07",
     "author": "chiiph",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "autoport",
       "bug fixes",
@@ -4991,7 +4991,7 @@
     "title": "Torbutton 1.4.1 Released",
     "date": "2011-08-28 21:41:51",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "hotmail fixes",
@@ -5009,7 +5009,7 @@
     "title": "New Python/Django-based TorStatus",
     "date": "2011-08-29 03:02:33",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "django",
       "get involved",
@@ -5027,7 +5027,7 @@
     "title": "Tor 0.2.2.32 is released",
     "date": "2011-08-29 22:01:24",
     "author": "erinn",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "android",
       "anonymity enhancements",
@@ -5050,7 +5050,7 @@
     "title": "GSoC 2011: Metadata Anonymisation Toolkit",
     "date": "2011-08-30 10:49:25",
     "author": "jvoisin",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gsoc",
       "metadata",
@@ -5065,7 +5065,7 @@
     "title": "The DigiNotar Debacle, and what you should do about it",
     "date": "2011-08-31 21:11:32",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "ca certificates",
       "https",
@@ -5083,7 +5083,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-08-31 21:55:03",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "ohdiginotaryoudidnt",
       "package updates",
@@ -5098,7 +5098,7 @@
     "title": "DigiNotar Damage Disclosure",
     "date": "2011-09-04 11:30:38",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "ca certificates",
       "https",
@@ -5116,7 +5116,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-09-04 22:42:57",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox privacy",
       "firefox updates",
@@ -5132,7 +5132,7 @@
     "title": "Experimental Defense for Website Traffic Fingerprinting",
     "date": "2011-09-04 22:50:43",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity",
       "anonymity features",
@@ -5150,7 +5150,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-09-10 11:28:05",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "tbb",
@@ -5164,7 +5164,7 @@
     "title": "Iran blocks Tor; Tor releases same-day fix",
     "date": "2011-09-14 15:23:26",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "internet censorship",
       "iran"
@@ -5177,7 +5177,7 @@
     "title": "August 2011 Progress Report",
     "date": "2011-09-15 08:50:28",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity research",
       "bug fixes",
@@ -5195,7 +5195,7 @@
     "title": "GSoC 2011: tails-greeter - boot menu for TAILS",
     "date": "2011-09-16 06:09:42",
     "author": "max-gsoc",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymous operating systems",
       "gsoc 2011",
@@ -5209,7 +5209,7 @@
     "title": "Tor and the BEAST SSL attack",
     "date": "2011-09-23 19:14:02",
     "author": "nickm",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "internals",
       "security",
@@ -5223,7 +5223,7 @@
     "title": "Academic (Postdoc, PhD, and Master&#039;s) positions available for Tor-related research",
     "date": "2011-09-24 16:02:29",
     "author": "ian",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "academia",
       "research"
@@ -5236,7 +5236,7 @@
     "title": "Arm Release 1.4.4",
     "date": "2011-09-25 22:01:32",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "arm"
     ],
@@ -5248,7 +5248,7 @@
     "title": "Whither website translations",
     "date": "2011-09-28 08:34:25",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bugs",
       "polyglot internet",
@@ -5263,7 +5263,7 @@
     "title": "Tor 0.2.3.5-alpha is out",
     "date": "2011-09-30 21:51:14",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "bug fixes",
@@ -5278,7 +5278,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-09-30 21:58:44",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "tbb",
@@ -5293,7 +5293,7 @@
     "title": "Tails Live System version 0.8 released",
     "date": "2011-10-04 08:52:43",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymous operating system",
       "debian",
@@ -5310,7 +5310,7 @@
     "title": "September 2011 Progress Report",
     "date": "2011-10-09 13:55:06",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "iran",
       "progress report",
@@ -5324,7 +5324,7 @@
     "title": "Support the Tor Network: Donate to Exit Node Providers",
     "date": "2011-10-10 05:32:06",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "distributed trust",
@@ -5340,7 +5340,7 @@
     "title": "Vidalia 0.2.15 is out!",
     "date": "2011-10-11 18:24:15",
     "author": "chiiph",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bug fixes",
       "vidalia",
@@ -5354,7 +5354,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-10-12 10:56:32",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tor browser bundle",
@@ -5369,7 +5369,7 @@
     "title": "Trip report, Arab Bloggers Meeting, Oct 3-7",
     "date": "2011-10-16 16:51:18",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "arab spring",
       "internet censorship",
@@ -5385,7 +5385,7 @@
     "title": "Plain Vidalia Bundles to be Discontinued (Don&#039;t Panic!)",
     "date": "2011-10-20 11:32:13",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "package updates",
       "tbb",
@@ -5400,7 +5400,7 @@
     "title": "Rumors of Tor&#039;s compromise are greatly exaggerated",
     "date": "2011-10-24 22:36:33",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity research",
       "attacks on tor",
@@ -5419,7 +5419,7 @@
     "title": "Tor 0.2.2.34 is released (security patches)",
     "date": "2011-10-27 19:24:40",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "security advisory",
       "security fixes",
@@ -5434,7 +5434,7 @@
     "title": "Torsocks 1.2 Released",
     "date": "2011-10-29 11:13:53",
     "author": "mwenge",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "torsocks"
     ],
@@ -5446,7 +5446,7 @@
     "title": "Tor 0.2.3.7-alpha is out",
     "date": "2011-10-30 21:45:41",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "bug fixes",
@@ -5461,7 +5461,7 @@
     "title": "Research problems: Ten ways to discover Tor bridges",
     "date": "2011-10-31 14:28:14",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge relays",
       "internet censorship",
@@ -5475,7 +5475,7 @@
     "title": "Moving Tor to a datagram transport",
     "date": "2011-11-07 15:10:00",
     "author": "sjmurdoch",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "datagram",
       "performance improvements",
@@ -5489,7 +5489,7 @@
     "title": "October 2011 Progress Report",
     "date": "2011-11-09 22:47:36",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "progress report",
@@ -5505,7 +5505,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-11-11 19:58:02",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "tbb",
@@ -5519,7 +5519,7 @@
     "title": "Tails 0.9 Released",
     "date": "2011-11-15 22:31:18",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymous operating system",
       "tails"
@@ -5532,7 +5532,7 @@
     "title": "Run Tor as a bridge in the Amazon Cloud",
     "date": "2011-11-21 06:09:46",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge relays",
       "cloud",
@@ -5547,7 +5547,7 @@
     "title": "Suggest a new name for the Torouter, win an Excito B3",
     "date": "2011-11-21 07:54:13",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "contest",
       "excito b3",
@@ -5562,7 +5562,7 @@
     "title": "Tor 0.2.3.8-alpha is out",
     "date": "2011-11-24 11:04:45",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "bug fixes",
@@ -5577,7 +5577,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-11-24 11:07:17",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "tbb",
@@ -5591,7 +5591,7 @@
     "title": "Different Ways to Use a Bridge",
     "date": "2011-11-29 07:13:18",
     "author": "Sebastian",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "Bridge",
       "bridge users",
@@ -5606,7 +5606,7 @@
     "title": "Research problem: Five ways to test bridge reachability",
     "date": "2011-12-01 06:14:13",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge relays",
       "internet censorship",
@@ -5620,7 +5620,7 @@
     "title": "Tor 0.2.3.9-alpha is out",
     "date": "2011-12-09 11:22:26",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bridges",
@@ -5637,7 +5637,7 @@
     "title": "November 2011 Progress Report",
     "date": "2011-12-13 15:04:22",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "hidden services",
       "progress report",
@@ -5653,7 +5653,7 @@
     "title": "Tor 0.2.3.10-alpha is out (security fix)",
     "date": "2011-12-16 13:47:50",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "bugfixes",
@@ -5669,7 +5669,7 @@
     "title": "Tor 0.2.2.35 is released (security patches)",
     "date": "2011-12-16 13:51:02",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bugfixes",
       "end of life",
@@ -5686,7 +5686,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-12-16 14:04:53",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "security critical",
       "security fixes",
@@ -5701,7 +5701,7 @@
     "title": "Announcing the Tor Farsi blog",
     "date": "2011-12-20 15:48:59",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "blog",
       "farsi",
@@ -5715,7 +5715,7 @@
     "title": "Temporary Website Outages....are fixed",
     "date": "2011-12-21 13:36:54",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "check",
       "gitweb",
@@ -5735,7 +5735,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2011-12-23 07:29:44",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "tbb",
@@ -5749,7 +5749,7 @@
     "title": "Thank you to our donors",
     "date": "2011-12-27 21:15:27",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymity online",
       "donor appreciation",
@@ -5766,7 +5766,7 @@
     "title": "New packages with OpenSSL updates",
     "date": "2012-01-05 12:42:06",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "package updates",
       "tbb",
@@ -5780,7 +5780,7 @@
     "title": "Knock Knock Knockin&#039; on Bridges&#039; Doors",
     "date": "2012-01-07 16:44:51",
     "author": "twilde",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship",
       "censorship circumvention",
@@ -5796,7 +5796,7 @@
     "title": "Using Tor hidden services for good",
     "date": "2012-01-07 23:35:36",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "arab spring",
       "controversial content hosting",
@@ -5813,7 +5813,7 @@
     "title": "Tails 0.10 is out",
     "date": "2012-01-11 12:30:37",
     "author": "tails",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymous operating system",
       "tails"
@@ -5826,7 +5826,7 @@
     "title": "December 2011 Progress Report",
     "date": "2012-01-14 22:34:57",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "hidden services",
@@ -5843,7 +5843,7 @@
     "title": "Updated Tor Cloud images",
     "date": "2012-01-16 14:32:31",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge relays",
       "cloud",
@@ -5858,7 +5858,7 @@
     "title": "Blackout Against Copyright Overreach: Stop SOPA and PIPA",
     "date": "2012-01-17 14:23:39",
     "author": "wseltzer",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "law",
       "PIPA",
@@ -5872,7 +5872,7 @@
     "title": "A tale of new censors - Vodafone UK, T-Mobile UK, O2 UK, and T-Mobile USA",
     "date": "2012-01-17 19:20:50",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "filtering censorship website tmobile vodafone o2"
     ],
@@ -5884,7 +5884,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2012-02-03 00:26:23",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "openssl",
@@ -5899,7 +5899,7 @@
     "title": "Iran partially blocks encrypted network traffic",
     "date": "2012-02-10 09:58:29",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "deep packet inspection",
       "dpi",
@@ -5916,7 +5916,7 @@
     "title": "January 2012 Progress Report",
     "date": "2012-02-12 07:30:24",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge strategies",
       "metrics",
@@ -5932,7 +5932,7 @@
     "title": "Vidalia 0.2.17 is out!",
     "date": "2012-02-13 07:44:36",
     "author": "chiiph",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "release",
       "stable",
@@ -5946,7 +5946,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2012-02-13 15:35:02",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "libevent",
@@ -5962,7 +5962,7 @@
     "title": "Obfsproxy: the next step in the censorship arms race",
     "date": "2012-02-16 04:17:33",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "censorship circumvention",
@@ -5978,7 +5978,7 @@
     "title": "Kazakhstan upgrades censorship to deep packet inspection",
     "date": "2012-02-16 10:05:15",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "deep packet inspection",
@@ -5996,7 +5996,7 @@
     "title": "University of Washington Open Hackfest",
     "date": "2012-02-18 18:55:40",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "hackfest",
       "seattle",
@@ -6010,7 +6010,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2012-02-19 14:25:01",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "security updates",
@@ -6025,7 +6025,7 @@
     "title": "New Tor Browser Bundles for Linux",
     "date": "2012-02-20 08:30:20",
     "author": "Sebastian",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "security updates",
@@ -6040,7 +6040,7 @@
     "title": "Refreshed Tor Cloud Images",
     "date": "2012-02-27 15:56:24",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge relays",
       "cloud",
@@ -6055,7 +6055,7 @@
     "title": "UW Hackfest Thanks!",
     "date": "2012-02-27 16:49:16",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "hackfest",
       "thanks",
@@ -6069,7 +6069,7 @@
     "title": "Updates on Kazakhstan Internet Censorship",
     "date": "2012-03-02 15:39:38",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "deep packet inspection",
       "dpi",
@@ -6085,7 +6085,7 @@
     "title": "Alpha Bundles Available for Testing",
     "date": "2012-03-06 10:08:45",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha releases",
       "tor browser bundle",
@@ -6099,7 +6099,7 @@
     "title": "Set up a bridge or a relay and join the Tor network today",
     "date": "2012-03-12 09:06:09",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge relays",
       "bridges",
@@ -6117,7 +6117,7 @@
     "title": "Avoid risk and protect online identity",
     "date": "2012-03-14 14:27:52",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -6129,7 +6129,7 @@
     "title": "Activists in Iran and Syria targeted with malicious computer software",
     "date": "2012-03-15 06:26:42",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "iran",
       "malware",
@@ -6145,7 +6145,7 @@
     "title": "Protecting bridge operators from probing attacks",
     "date": "2012-03-15 09:43:25",
     "author": "sjmurdoch",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity",
       "blocking resistance",
@@ -6161,7 +6161,7 @@
     "title": "Tor in Google Summer of Code 2012",
     "date": "2012-03-17 16:49:34",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gsoc",
       "gsoc2012"
@@ -6174,7 +6174,7 @@
     "title": "New Tor Browser Bundles (updated for Linux again)",
     "date": "2012-03-17 19:25:15",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "tbb",
@@ -6188,7 +6188,7 @@
     "title": "Call for papers: Free and Open Communications on the Internet (FOCI) Workshop",
     "date": "2012-03-22 01:34:17",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "conference",
@@ -6203,7 +6203,7 @@
     "title": "February 2012 Progress Report",
     "date": "2012-03-27 12:37:56",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "iran",
@@ -6219,7 +6219,7 @@
     "title": "Tor Browser Bundle, Mac OSX and 10.5.8",
     "date": "2012-04-01 08:11:51",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "backward compatibility",
       "osx",
@@ -6233,7 +6233,7 @@
     "title": "March 2012 Progress Report",
     "date": "2012-04-10 22:47:21",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "bridge relays",
@@ -6251,7 +6251,7 @@
     "title": "Ultrasurf: the definitive review",
     "date": "2012-04-16 02:31:00",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "research",
       "reverse engineering",
@@ -6266,7 +6266,7 @@
     "title": "Updated Tor Cloud images, and action required",
     "date": "2012-04-18 04:11:29",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridge relays",
       "cloud",
@@ -6281,7 +6281,7 @@
     "title": "We&#039;re looking for another dedicated core Tor developer",
     "date": "2012-04-19 21:55:52",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "jobs"
     ],
@@ -6293,7 +6293,7 @@
     "title": "Stockholm Internet Forum Trip Report and Clarifications",
     "date": "2012-04-22 10:08:31",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity online",
       "community",
@@ -6312,7 +6312,7 @@
     "title": "Politically motivated censorship in Bethlehem, Palestine",
     "date": "2012-04-23 16:34:57",
     "author": "art",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship",
       "ooni",
@@ -6327,7 +6327,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2012-04-28 09:24:24",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "libevent updates",
@@ -6344,7 +6344,7 @@
     "title": "Arm Release 1.4.5",
     "date": "2012-04-29 14:53:23",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "arm"
     ],
@@ -6356,7 +6356,7 @@
     "title": "Introducing the Tor translation glossary",
     "date": "2012-04-30 05:12:43",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "glossary",
       "tor",
@@ -6370,7 +6370,7 @@
     "title": "New Tor Browser Bundles for Mac OS X",
     "date": "2012-04-30 23:03:17",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "osx",
       "tbb",
@@ -6385,7 +6385,7 @@
     "title": "Firefox security bug (proxy-bypass) in current TBBs",
     "date": "2012-05-02 16:47:41",
     "author": "rransom",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "dns bypass",
       "firefox",
@@ -6401,7 +6401,7 @@
     "title": "New Tor Browser Bundles (security release)",
     "date": "2012-05-04 06:18:44",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "osx",
       "security fixes",
@@ -6417,7 +6417,7 @@
     "title": "GSoC 2012 Projects",
     "date": "2012-05-04 11:40:39",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "Google Summer of Code",
@@ -6432,7 +6432,7 @@
     "title": "Tails 0.11 is out!",
     "date": "2012-05-07 11:49:51",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails"
@@ -6445,7 +6445,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2012-05-12 19:09:48",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "openssl",
       "tbb",
@@ -6460,7 +6460,7 @@
     "title": "Vidalia 0.2.19 is out!",
     "date": "2012-05-14 11:14:13",
     "author": "chiiph",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "release",
       "stable",
@@ -6474,7 +6474,7 @@
     "title": "April 2012 Progress Report",
     "date": "2012-05-16 14:49:51",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "advocacy",
       "bridgedb",
@@ -6495,7 +6495,7 @@
     "title": "Volunteer QA: The Price of Freedom is Eternal Vigilance",
     "date": "2012-05-23 13:27:19",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "qa",
       "security",
@@ -6509,7 +6509,7 @@
     "title": "New Tor Browser Bundles for Windows",
     "date": "2012-05-25 07:00:16",
     "author": "Sebastian",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "path leak",
       "tbb",
@@ -6524,7 +6524,7 @@
     "title": "Ethiopia Introduces Deep Packet Inspection",
     "date": "2012-05-31 03:29:42",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "deep packet inspection",
@@ -6541,7 +6541,7 @@
     "title": "An update on the censorship in Ethiopia",
     "date": "2012-06-03 10:12:58",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "deep packet inspection",
@@ -6558,7 +6558,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2012-06-05 00:34:34",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tor",
@@ -6574,7 +6574,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2012-06-12 15:55:18",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "tbb",
@@ -6590,7 +6590,7 @@
     "title": "2012 Florence Hackfest",
     "date": "2012-06-21 12:11:36",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymity advocacy",
       "florence",
@@ -6606,7 +6606,7 @@
     "title": "Security vulnerability found in Cyberoam DPI devices (CVE-2012-3372)",
     "date": "2012-07-03 05:06:41",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "ca certificates",
       "dpi",
@@ -6621,7 +6621,7 @@
     "title": "Florence Hackfest Thanks",
     "date": "2012-07-10 15:34:27",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "florence",
       "hackfest",
@@ -6636,7 +6636,7 @@
     "title": "Announcing Tor Reports",
     "date": "2012-07-15 19:41:54",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "progress report",
       "report mailing list",
@@ -6650,7 +6650,7 @@
     "title": "Turning funding into more exit relays",
     "date": "2012-07-24 03:53:53",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "exit relays",
       "performance",
@@ -6665,7 +6665,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2012-07-29 21:37:13",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "firefox update",
@@ -6681,7 +6681,7 @@
     "title": "Tor has funding for another browser hacker",
     "date": "2012-08-01 18:41:01",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "jobs",
       "tbb",
@@ -6695,7 +6695,7 @@
     "title": "Updated Tor Cloud images with fix for Tor upgrades",
     "date": "2012-08-10 06:48:34",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "relays",
@@ -6710,7 +6710,7 @@
     "title": "New Tor Browser and Obfsproxy Bundles",
     "date": "2012-08-12 16:40:22",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "obfsproxy",
       "release candidate",
@@ -6725,7 +6725,7 @@
     "title": "New Stable Tor Browser Bundles",
     "date": "2012-08-17 16:08:13",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tor",
@@ -6740,7 +6740,7 @@
     "title": "Wading into social waters",
     "date": "2012-08-23 13:07:42",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "social media",
@@ -6754,7 +6754,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2012-08-29 14:01:52",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "https everywhere",
@@ -6770,7 +6770,7 @@
     "title": "www, archive, ns, and rsync +1",
     "date": "2012-09-11 08:34:46",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "archive",
       "debian",
@@ -6790,7 +6790,7 @@
     "title": "New bundles (security release)",
     "date": "2012-09-12 11:58:24",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "release candidate",
       "security fixes",
@@ -6807,7 +6807,7 @@
     "title": "Some thoughts on the CRIME attack",
     "date": "2012-09-14 13:38:28",
     "author": "nickm",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "crime",
       "security",
@@ -6821,7 +6821,7 @@
     "title": "Tails 0.13 is out!",
     "date": "2012-09-18 17:41:34",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails"
@@ -6834,7 +6834,7 @@
     "title": "New Tor Cloud images",
     "date": "2012-09-20 09:44:21",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "relays",
@@ -6849,7 +6849,7 @@
     "title": "Obfsproxy Bridges in the Amazon Cloud",
     "date": "2012-09-26 07:42:52",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "obfsproxy",
@@ -6865,7 +6865,7 @@
     "title": "Tor has funding for a project coordinator",
     "date": "2012-10-01 10:22:32",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "jobs",
       "project coordinator"
@@ -6878,7 +6878,7 @@
     "title": "Top changes in Tor since the 2004 design paper (Part 1)",
     "date": "2012-10-04 12:54:47",
     "author": "nickm",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "research",
       "tor-design"
@@ -6891,7 +6891,7 @@
     "title": "New Tor Browser Bundles",
     "date": "2012-10-15 12:45:09",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "tbb",
@@ -6905,7 +6905,7 @@
     "title": "Top changes in Tor since the 2004 design paper (Part 2)",
     "date": "2012-10-22 01:33:00",
     "author": "nickm",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "research",
       "tor-design"
@@ -6918,7 +6918,7 @@
     "title": "New Tor Browser Bundles and alpha bundles",
     "date": "2012-10-23 05:19:53",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "release candidate",
@@ -6933,7 +6933,7 @@
     "title": "New Tor Browser Bundles and alpha bundles",
     "date": "2012-10-29 18:13:47",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "release candidate",
@@ -6948,7 +6948,7 @@
     "title": "Top changes in Tor since the 2004 design paper (Part 3)",
     "date": "2012-11-01 09:09:54",
     "author": "sjmurdoch",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -6960,7 +6960,7 @@
     "title": "Updated Tor Cloud images",
     "date": "2012-11-11 22:55:39",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "relays",
@@ -6975,7 +6975,7 @@
     "title": "Tails 0.14 is out!",
     "date": "2012-11-12 16:41:06",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -6989,7 +6989,7 @@
     "title": "Scripps J School at Ohio University Trip Report",
     "date": "2012-11-13 12:01:23",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "andy alexander",
       "athens ohio",
@@ -7008,7 +7008,7 @@
     "title": "Employers Against Domestic Violence and Technology Panel",
     "date": "2012-11-19 16:39:30",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "abuse",
       "cyberstalking",
@@ -7027,7 +7027,7 @@
     "title": "Transparency, openness, and our 2011 financial docs",
     "date": "2012-11-26 11:34:23",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity",
       "Form 990",
@@ -7047,7 +7047,7 @@
     "title": "Tails 0.15 is out!",
     "date": "2012-11-28 05:46:34",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -7061,7 +7061,7 @@
     "title": "Updated Tor Cloud images",
     "date": "2012-11-28 16:00:29",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "obfsproxy",
@@ -7077,7 +7077,7 @@
     "title": "We are hiring support assistants and translators!",
     "date": "2012-11-28 16:04:48",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "jobs",
       "support",
@@ -7092,7 +7092,7 @@
     "title": "The Tor Project&#039;s position on the draft Communications Data Bill",
     "date": "2012-11-29 06:13:16",
     "author": "sjmurdoch",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -7104,7 +7104,7 @@
     "title": "New Tor Browser Packages with Tor 0.2.3 upgrade",
     "date": "2012-12-03 17:03:18",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "tbb",
@@ -7121,7 +7121,7 @@
     "title": "Tor Browser Bundle alpha testing with Tor 0.2.4.x-branch",
     "date": "2012-12-04 14:26:44",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-alpha",
@@ -7137,7 +7137,7 @@
     "title": "Communications Data Bill Committee publishes report",
     "date": "2012-12-10 18:58:24",
     "author": "sjmurdoch",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -7149,7 +7149,7 @@
     "title": "Trip report, October FBI conference",
     "date": "2012-12-16 04:00:00",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "law enforcement",
       "talks",
@@ -7163,7 +7163,7 @@
     "title": "Trip report, ACM CCS/WPES",
     "date": "2012-12-16 20:34:44",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "conference",
       "internet censorship",
@@ -7178,7 +7178,7 @@
     "title": "Hacking Against Domestic Violence",
     "date": "2012-12-17 19:48:52",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "domestic violence",
       "dv",
@@ -7199,7 +7199,7 @@
     "title": "Shadow v1.6.1 released, adds multi-threading support",
     "date": "2012-12-24 16:50:26",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "metrics",
       "performance",
@@ -7213,7 +7213,7 @@
     "title": "TorCtl Deprecation and Stem Plans",
     "date": "2012-12-31 17:38:05",
     "author": "atagar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "controller",
       "python",
@@ -7228,7 +7228,7 @@
     "title": "Trip report, German Foreign Office",
     "date": "2013-01-02 07:26:38",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "conference",
       "internet censorship",
@@ -7242,7 +7242,7 @@
     "title": "New Tor Browser Bundles and Tor 0.2.4.7-alpha packages available",
     "date": "2013-01-06 17:46:58",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "certificate authority",
       "firefox",
@@ -7260,7 +7260,7 @@
     "title": "Tor projects win two Access Innovation Awards",
     "date": "2013-01-07 23:19:40",
     "author": "arma",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "internet censorship",
       "trip report"
@@ -7273,7 +7273,7 @@
     "title": "Trip report, 29c3",
     "date": "2013-01-10 13:33:49",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "29c3",
       "advocacy",
@@ -7288,7 +7288,7 @@
     "title": "Tails 0.16 is out!",
     "date": "2013-01-11 12:35:20",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -7302,7 +7302,7 @@
     "title": "Combined flash proxy + pyobfsproxy browser bundles",
     "date": "2013-01-14 02:49:49",
     "author": "dcf",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -7314,7 +7314,7 @@
     "title": "Visual overview of the Tor network",
     "date": "2013-01-28 02:30:04",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "introduction",
       "network",
@@ -7329,7 +7329,7 @@
     "title": "New Firefox 17 and Tor alpha bundles",
     "date": "2013-01-28 12:56:34",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "tbb",
@@ -7346,7 +7346,7 @@
     "title": "Trip Report: World Bank and Second Muse Domestic Violence Hackathon",
     "date": "2013-01-29 18:44:07",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "domestic violence",
       "fuerza",
@@ -7362,7 +7362,7 @@
     "title": "Meeting With SOCA in London",
     "date": "2013-02-04 09:27:37",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "trip report"
     ],
@@ -7374,7 +7374,7 @@
     "title": "Training Journalists in Istanbul",
     "date": "2013-02-04 10:12:56",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "training",
       "trip report"
@@ -7387,7 +7387,7 @@
     "title": "Trip report: Tor trainings for the Dutch and Belgian police",
     "date": "2013-02-05 18:18:35",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "internet censorship",
       "law enforcement",
@@ -7401,7 +7401,7 @@
     "title": "Towards a Tor Censorship Analysis Tool",
     "date": "2013-02-06 17:07:11",
     "author": "phw",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship",
       "measurement"
@@ -7414,7 +7414,7 @@
     "title": "New Bundles",
     "date": "2013-02-08 08:24:59",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "bundle upgrades",
@@ -7430,7 +7430,7 @@
     "title": "TorBirdy: our first beta release!",
     "date": "2013-02-11 18:28:47",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "Thunderbird",
       "TorBirdy"
@@ -7443,7 +7443,7 @@
     "title": "New Tor Browser Bundles with Firefox 17.0.3esr",
     "date": "2013-02-22 01:10:49",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "tbb",
@@ -7460,7 +7460,7 @@
     "title": "Tails 0.17 is out!",
     "date": "2013-02-25 06:07:39",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -7474,7 +7474,7 @@
     "title": "New flash proxy talk",
     "date": "2013-02-26 22:52:07",
     "author": "dcf",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "flashproxy"
     ],
@@ -7486,7 +7486,7 @@
     "title": "CryptoParty Stockholm",
     "date": "2013-03-05 12:12:51",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "cryptography",
       "cryptoparty",
@@ -7503,7 +7503,7 @@
     "title": "JOIN US - Tor Project Boston Hack Day Event - March 20, 2013 - Hosted by Boston University&#039;s Department of Computer Science",
     "date": "2013-03-06 18:01:53",
     "author": "kelley",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "boston hackfest",
       "hackfest",
@@ -7517,7 +7517,7 @@
     "title": "New Firefox 17.0.4esr and Tor 0.2.4.11-alpha bundles",
     "date": "2013-03-14 10:18:20",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "alpha release",
       "firefox",
@@ -7533,7 +7533,7 @@
     "title": "2012 Annual Report",
     "date": "2013-03-19 11:33:39",
     "author": "kelley",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "annual report"
     ],
@@ -7545,7 +7545,7 @@
     "title": "New Pluggable Transports bundles 0.2.4.11-alpha (flashproxy + obfsproxy)",
     "date": "2013-03-19 13:37:22",
     "author": "asn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "flashproxy",
       "obfsbundle",
@@ -7560,7 +7560,7 @@
     "title": "New Name for Obfsproxy Tor Browser Bundles",
     "date": "2013-03-22 17:55:14",
     "author": "asn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bundles",
       "pluggable transports"
@@ -7573,7 +7573,7 @@
     "title": "Introduction to Digital Security With the CIJ",
     "date": "2013-03-29 10:37:51",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "digital security",
       "journalism",
@@ -7588,7 +7588,7 @@
     "title": "Stem Release 1.0",
     "date": "2013-03-30 22:05:30",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "stem"
     ],
@@ -7600,7 +7600,7 @@
     "title": "New Tor Browser Bundles with Firefox 17.0.5esr",
     "date": "2013-04-04 23:52:27",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tor browser bundle",
@@ -7614,7 +7614,7 @@
     "title": "Tor in Google Summer of Code 2013",
     "date": "2013-04-10 11:14:43",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gsoc"
     ],
@@ -7626,7 +7626,7 @@
     "title": "Tor help desk expands with four more languages",
     "date": "2013-04-11 09:47:48",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "support",
       "tor"
@@ -7639,7 +7639,7 @@
     "title": "Forensic Analysis of Tor on Linux",
     "date": "2013-04-12 23:34:12",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "forensic analysis",
       "linux",
@@ -7654,7 +7654,7 @@
     "title": "New Tor Cloud images with obfs3",
     "date": "2013-04-13 18:14:32",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "tor",
@@ -7668,7 +7668,7 @@
     "title": "Trip Report: White House Forum to Combat Human Trafficking",
     "date": "2013-04-18 10:25:34",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "domestic violence",
       "dv",
@@ -7687,7 +7687,7 @@
     "title": "FOCI ‘13 Call for Papers (Deadline May 6th) Don’t Miss Out!",
     "date": "2013-04-18 22:21:43",
     "author": "kelley",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "call for papers",
       "conferences",
@@ -7702,7 +7702,7 @@
     "title": "Hidden Services need some love",
     "date": "2013-04-22 20:13:05",
     "author": "asn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "hidden services",
       "love",
@@ -7716,7 +7716,7 @@
     "title": "A weekend at New England Give Camp",
     "date": "2013-04-29 15:43:34",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymity",
       "cambridge",
@@ -7737,7 +7737,7 @@
     "title": "New Tor 0.2.4.12-alpha packages and Tor Browser Bundles",
     "date": "2013-04-29 21:40:10",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tor alpha",
@@ -7752,7 +7752,7 @@
     "title": "CALEA 2 and Tor",
     "date": "2013-05-09 16:31:16",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "data retention",
@@ -7766,7 +7766,7 @@
     "title": "New Tor Browser Bundles with Firefox 17.0.6esr",
     "date": "2013-05-14 07:34:05",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "tbb",
@@ -7780,7 +7780,7 @@
     "title": "Tails 0.18 is out",
     "date": "2013-05-18 08:17:09",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -7794,7 +7794,7 @@
     "title": "Pluggable transports bundles 2.4.12-alpha-2-pt1 with Firefox 17.0.6esr",
     "date": "2013-06-02 13:11:19",
     "author": "dcf",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "flashproxy",
       "obfsbundle",
@@ -7809,7 +7809,7 @@
     "title": "PRISM vs Tor",
     "date": "2013-06-08 18:59:22",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "decentralization",
       "hidden-services",
@@ -7826,7 +7826,7 @@
     "title": "Tor&#039;s Response to Prism Surveillance Program",
     "date": "2013-06-10 20:02:36",
     "author": "kelley",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity",
       "anonymity advocacy",
@@ -7842,7 +7842,7 @@
     "title": "Updated 64-bit Linux Tor Browser Bundles (crash fix)",
     "date": "2013-06-12 17:44:28",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "linux",
       "tbb",
@@ -7856,7 +7856,7 @@
     "title": "Help make a Tor Q&A page happen",
     "date": "2013-06-13 13:39:53",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "forum",
       "questions",
@@ -7870,7 +7870,7 @@
     "title": "Announcing Tor Browser Bundle 3.0alpha1",
     "date": "2013-06-17 15:18:16",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gitian",
       "security",
@@ -7889,7 +7889,7 @@
     "title": "Facebook and Tor",
     "date": "2013-06-18 10:10:50",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "facebook",
       "tor"
@@ -7902,7 +7902,7 @@
     "title": "Tails 0.19 is out",
     "date": "2013-06-25 09:02:45",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -7916,7 +7916,7 @@
     "title": "New Tor Browser Bundles and Tor 0.2.4.14-alpha packages",
     "date": "2013-06-26 17:23:49",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox",
       "tbb",
@@ -7931,7 +7931,7 @@
     "title": "Tor Browser Bundle 3.0alpha2 Released",
     "date": "2013-06-30 19:08:50",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "deterministic builds",
       "gitian",
@@ -7950,7 +7950,7 @@
     "title": "Tor Weekly News — July 3rd, 2013",
     "date": "2013-07-03 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -7962,7 +7962,7 @@
     "title": "Tor Check Outage on 03 and 04 July 2013",
     "date": "2013-07-04 07:53:11",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "abuse",
       "check",
@@ -7978,7 +7978,7 @@
     "title": "JOIN US - Tor Hack Day, Munich, Germany",
     "date": "2013-07-08 14:59:54",
     "author": "kelley",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "dev meeting",
       "hack day"
@@ -7991,7 +7991,7 @@
     "title": "Tor 0.2.4.15-rc packages available",
     "date": "2013-07-08 20:00:23",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tor alpha",
@@ -8006,7 +8006,7 @@
     "title": "Tor Weekly News — July, 10th 2013",
     "date": "2013-07-10 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8018,7 +8018,7 @@
     "title": "Lead Automation Engineer Job Posting",
     "date": "2013-07-12 16:18:25",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "jobs",
       "qa",
@@ -8032,7 +8032,7 @@
     "title": "Tor Weekly News — July, 17th 2013",
     "date": "2013-07-17 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8044,7 +8044,7 @@
     "title": "Tor Weekly News — July, 24th 2013",
     "date": "2013-07-24 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8056,7 +8056,7 @@
     "title": "Tor Weekly News — July, 31st 2013",
     "date": "2013-07-31 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8068,7 +8068,7 @@
     "title": "Hidden Services, Current Events, and Freedom Hosting",
     "date": "2013-08-04 10:18:46",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "facts",
       "freedom hosting",
@@ -8084,7 +8084,7 @@
     "title": "Tor security advisory: Old Tor Browser Bundles vulnerable",
     "date": "2013-08-05 10:13:37",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "security",
       "tbb",
@@ -8098,7 +8098,7 @@
     "title": "Tor Weekly News — August, 7th 2013",
     "date": "2013-08-07 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8110,7 +8110,7 @@
     "title": "NNEDV Tech Summit 2013 Report",
     "date": "2013-08-08 10:06:43",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "domestic violence",
       "helping",
@@ -8126,7 +8126,7 @@
     "title": "Tails 0.20 is out",
     "date": "2013-08-09 09:23:46",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -8140,7 +8140,7 @@
     "title": "New Tor Browser Bundles with Firefox 17.0.8esr",
     "date": "2013-08-09 12:17:01",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -8152,7 +8152,7 @@
     "title": "Tor Browser Bundle 3.0alpha3 Released",
     "date": "2013-08-09 12:58:08",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "deterministic builds",
       "gitian",
@@ -8171,7 +8171,7 @@
     "title": "Pluggable transports bundles 2.4.15-beta-2-pt1 with Firefox 17.0.8esr",
     "date": "2013-08-11 00:44:40",
     "author": "dcf",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "flashproxy",
       "obfsproxy",
@@ -8185,7 +8185,7 @@
     "title": "New Tor 0.2.4.16-rc packages and updated stable Tor Browser Bundles",
     "date": "2013-08-13 03:51:59",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "release candidate",
       "tbb",
@@ -8200,7 +8200,7 @@
     "title": "Tor Weekly News — August, 14th 2013",
     "date": "2013-08-14 04:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8212,7 +8212,7 @@
     "title": "Transparency, openness, and our 2012 financial docs",
     "date": "2013-08-19 20:46:52",
     "author": "phobos",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymity",
       "Form 990",
@@ -8232,7 +8232,7 @@
     "title": "Deterministic Builds Part One: Cyberwar and Global Compromise",
     "date": "2013-08-20 14:40:47",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "cyberpeace",
       "dangerous toys",
@@ -8251,7 +8251,7 @@
     "title": "Tor Weekly News — August, 21th 2013",
     "date": "2013-08-21 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8263,7 +8263,7 @@
     "title": "Tor Weekly News — August, 28th 2013",
     "date": "2013-08-28 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8275,7 +8275,7 @@
     "title": "Tor Weekly News — September 4th, 2013",
     "date": "2013-09-04 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8287,7 +8287,7 @@
     "title": "How to handle millions of new Tor clients",
     "date": "2013-09-05 07:23:40",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -8299,7 +8299,7 @@
     "title": "New Tor 0.2.4.17-rc packages",
     "date": "2013-09-06 11:03:12",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tor",
@@ -8314,7 +8314,7 @@
     "title": "The lifecycle of a new relay",
     "date": "2013-09-11 04:03:31",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity",
       "entry guards",
@@ -8328,7 +8328,7 @@
     "title": "Tor, NSA, GCHQ, and QUICK ANT Speculation",
     "date": "2013-09-11 05:51:04",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gchq",
       "nsa",
@@ -8345,7 +8345,7 @@
     "title": "Tor Weekly News — September, 11th 2013",
     "date": "2013-09-11 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8357,7 +8357,7 @@
     "title": "Help create a Q&A site for Tor!",
     "date": "2013-09-16 20:16:05",
     "author": "Runa",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -8369,7 +8369,7 @@
     "title": "Tor Weekly News — September 18th, 2013",
     "date": "2013-09-18 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8381,7 +8381,7 @@
     "title": "New Tor Browser Bundles with Firefox 17.0.9esr",
     "date": "2013-09-20 13:16:31",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "security fixes",
@@ -8397,7 +8397,7 @@
     "title": "Pluggable transports bundles 2.4.17-beta-2-pt3 with Firefox 17.0.9esr",
     "date": "2013-09-23 21:52:49",
     "author": "dcf",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "flashproxy",
       "obfsproxy",
@@ -8411,7 +8411,7 @@
     "title": "Tor Weekly News — September 25th, 2013",
     "date": "2013-09-25 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8423,7 +8423,7 @@
     "title": "Tor Browser Bundle 3.0alpha4 Released",
     "date": "2013-09-26 13:24:11",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "deterministic builds",
       "gitian",
@@ -8442,7 +8442,7 @@
     "title": "Tor Weekly News — October 2nd, 2013",
     "date": "2013-10-02 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8454,7 +8454,7 @@
     "title": "Tor and the Silk Road takedown",
     "date": "2013-10-02 20:36:37",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "download warnings",
       "fbi",
@@ -8471,7 +8471,7 @@
     "title": "Deterministic Builds Part Two: Technical Details",
     "date": "2013-10-04 13:30:25",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "cyberpeace",
       "decentralization",
@@ -8488,7 +8488,7 @@
     "title": "Yes, we know about the Guardian article",
     "date": "2013-10-04 16:00:59",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gchq",
       "nsa"
@@ -8501,7 +8501,7 @@
     "title": "Thanks!",
     "date": "2013-10-08 16:17:37",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "thanks"
@@ -8514,7 +8514,7 @@
     "title": "Tor Weekly News — October 9th, 2013",
     "date": "2013-10-09 12:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8526,7 +8526,7 @@
     "title": "Stem Release 1.1",
     "date": "2013-10-14 11:13:57",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "stem"
     ],
@@ -8538,7 +8538,7 @@
     "title": "Tor Weekly News — October 16th, 2013",
     "date": "2013-10-16 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8550,7 +8550,7 @@
     "title": "Improving Tor&#039;s anonymity by changing guard parameters",
     "date": "2013-10-16 16:30:55",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity",
       "entry guards",
@@ -8565,7 +8565,7 @@
     "title": "Tor Weekly News — October 23rd, 2013",
     "date": "2013-10-23 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8577,7 +8577,7 @@
     "title": "Tails 0.21 is out",
     "date": "2013-10-29 02:57:04",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -8591,7 +8591,7 @@
     "title": "Tor Weekly News — October 30th, 2013",
     "date": "2013-10-30 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8603,7 +8603,7 @@
     "title": "New Tor Browser Bundles with Firefox 17.0.10esr",
     "date": "2013-11-01 16:33:47",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "firefox updates",
       "tbb",
@@ -8617,7 +8617,7 @@
     "title": "TorBirdy: 0.1.2 - Our third beta release!",
     "date": "2013-11-04 06:27:31",
     "author": "ioerror",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "Thunderbird",
       "TorBirdy"
@@ -8630,7 +8630,7 @@
     "title": "Pluggable transports bundles 2.4.17-rc-1-pt1 with Firefox 17.0.10esr",
     "date": "2013-11-04 22:20:42",
     "author": "dcf",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "flashproxy",
       "obfsproxy",
@@ -8644,7 +8644,7 @@
     "title": "Tor Weekly News — November 6th, 2013",
     "date": "2013-11-06 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8656,7 +8656,7 @@
     "title": "Tor Browser Bundle 3.0beta1 Released",
     "date": "2013-11-06 15:39:25",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "deterministic builds",
       "gitian",
@@ -8675,7 +8675,7 @@
     "title": "A Critique of Website Traffic Fingerprinting Attacks",
     "date": "2013-11-07 15:37:23",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "machine learning",
       "research",
@@ -8690,7 +8690,7 @@
     "title": "Pluggable transports bundles 2.4.17-rc-1-pt2 with Firefox 17.0.10esr",
     "date": "2013-11-12 00:51:10",
     "author": "dcf",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "flashproxy",
       "obfsproxy",
@@ -8704,7 +8704,7 @@
     "title": "Tor Weekly News — November 13th, 2013",
     "date": "2013-11-13 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8716,7 +8716,7 @@
     "title": "New Tor Browser Bundles with Firefox 17.0.11esr and Tor 0.2.4.18-rc",
     "date": "2013-11-19 13:28:36",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "release candidate",
       "tbb",
@@ -8733,7 +8733,7 @@
     "title": "Tor Weekly News — November 20th, 2013",
     "date": "2013-11-20 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8745,7 +8745,7 @@
     "title": "64-bit GNU/Linux Tor Browser Bundles updated",
     "date": "2013-11-20 15:26:32",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "hotfix",
       "tbb",
@@ -8760,7 +8760,7 @@
     "title": "Tor Browser Bundle 3.0rc1 Released",
     "date": "2013-11-21 21:52:00",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.0",
@@ -8776,7 +8776,7 @@
     "title": "Tor is looking for a Browser Hacker and an Extension Developer!",
     "date": "2013-11-22 02:23:20",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "jobs",
       "tbb",
@@ -8790,7 +8790,7 @@
     "title": "Tor Weekly News — November 27th, 2013",
     "date": "2013-11-27 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8802,7 +8802,7 @@
     "title": "Tor Weekly News — December 4th, 2013",
     "date": "2013-12-04 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8814,7 +8814,7 @@
     "title": "Pluggable transports bundles 2.4.18-rc-1-pt1 and 2.4.18-rc-2-pt1 with Firefox 17.0.11esr",
     "date": "2013-12-04 22:24:42",
     "author": "dcf",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "flashproxy",
       "obfsproxy",
@@ -8828,7 +8828,7 @@
     "title": "Tor Weekly News — December 11th, 2013",
     "date": "2013-12-11 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8840,7 +8840,7 @@
     "title": "Tails 0.22 is out",
     "date": "2013-12-11 11:34:17",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -8854,7 +8854,7 @@
     "title": "Tor Browser Bundle 3.5rc1 Released",
     "date": "2013-12-12 22:51:33",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.0",
@@ -8871,7 +8871,7 @@
     "title": "Announcement: The Tor Project is now accepting Bitcoin Donations",
     "date": "2013-12-17 12:25:07",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "anonymity advocacy",
       "bitcoins",
@@ -8886,7 +8886,7 @@
     "title": "Tor Weekly News — December 18th, 2013",
     "date": "2013-12-18 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8898,7 +8898,7 @@
     "title": "Tor Browser Bundle 3.5 is released",
     "date": "2013-12-18 20:05:42",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.0",
@@ -8915,7 +8915,7 @@
     "title": "Tor Weekly News — December 25th, 2013",
     "date": "2013-12-25 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8927,7 +8927,7 @@
     "title": "Tor website needs your help!",
     "date": "2014-01-05 18:08:34",
     "author": "lunar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "translations",
@@ -8941,7 +8941,7 @@
     "title": "Tor Weekly News — January 8th, 2014",
     "date": "2014-01-08 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8953,7 +8953,7 @@
     "title": "Tor Weekly News — January 15th, 2014",
     "date": "2014-01-15 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8965,7 +8965,7 @@
     "title": "Tor Weekly News — January 22th, 2014",
     "date": "2014-01-22 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -8977,7 +8977,7 @@
     "title": "What the \"Spoiled Onions\" paper means for Tor users",
     "date": "2014-01-23 20:00:10",
     "author": "phw",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "exit relays",
       "https",
@@ -8994,7 +8994,7 @@
     "title": "New Tor Denial of Service Attacks and Defenses",
     "date": "2014-01-24 19:54:50",
     "author": "robgjansen",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "denial of service",
       "dos",
@@ -9009,7 +9009,7 @@
     "title": "Tor Browser 3.5.1 is released",
     "date": "2014-01-27 22:56:23",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb-3.0",
       "tbb-3.5",
@@ -9023,7 +9023,7 @@
     "title": "Tor Weekly News — January 29th, 2014",
     "date": "2014-01-29 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9035,7 +9035,7 @@
     "title": "Tor Weekly News — February 4th, 2014",
     "date": "2014-02-05 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9047,7 +9047,7 @@
     "title": "Tails 0.22.1 is out",
     "date": "2014-02-09 08:58:55",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -9061,7 +9061,7 @@
     "title": "Tor Browser 3.5.2 is released",
     "date": "2014-02-10 13:10:41",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.5",
@@ -9076,7 +9076,7 @@
     "title": "Tor Weekly News — February 12th, 2014",
     "date": "2014-02-12 08:23:45",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9088,7 +9088,7 @@
     "title": "Join us! The Tor Project Developer&#039;s Meeting - Reykjavik, Iceland - February 17 - 21, 2014",
     "date": "2014-02-12 09:20:02",
     "author": "kelley",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "developers",
       "iceland",
@@ -9102,7 +9102,7 @@
     "title": "Tor Browser 3.5.2.1 is released",
     "date": "2014-02-15 08:32:05",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.5",
@@ -9117,7 +9117,7 @@
     "title": "Tor Weekly News — February 19th, 2014",
     "date": "2014-02-19 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9129,7 +9129,7 @@
     "title": "Tor Weekly News — February 26th, 2014",
     "date": "2014-02-26 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9141,7 +9141,7 @@
     "title": "Tor in Google Summer of Code 2014",
     "date": "2014-02-26 11:22:19",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "gsoc"
     ],
@@ -9153,7 +9153,7 @@
     "title": "Tor Weekly News — March 5th, 2014",
     "date": "2014-03-05 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9165,7 +9165,7 @@
     "title": "Tor Weekly News — March 12th, 2014",
     "date": "2014-03-12 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9177,7 +9177,7 @@
     "title": "How to read our China usage graphs",
     "date": "2014-03-17 04:48:23",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "censorship",
@@ -9193,7 +9193,7 @@
     "title": "Tor Browser 3.6-beta-1 is released",
     "date": "2014-03-18 13:26:53",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.6",
@@ -9208,7 +9208,7 @@
     "title": "Tor Weekly News — March 19th, 2014",
     "date": "2014-03-19 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9220,7 +9220,7 @@
     "title": "Tails 0.23 is out",
     "date": "2014-03-19 10:13:52",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -9234,7 +9234,7 @@
     "title": "Tor Browser 3.5.3 is released",
     "date": "2014-03-19 13:10:46",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.5",
@@ -9249,7 +9249,7 @@
     "title": "Tor Weekly News — March 26th, 2014",
     "date": "2014-03-26 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9261,7 +9261,7 @@
     "title": "Ways to get the Tor Browser Bundle",
     "date": "2014-03-29 18:29:17",
     "author": "sukhbir",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship",
       "tbb",
@@ -9276,7 +9276,7 @@
     "title": "Tor Weekly News — April 2nd, 2014",
     "date": "2014-04-02 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9288,7 +9288,7 @@
     "title": "Mission Impossible: Hardening Android for Security and Privacy",
     "date": "2014-04-02 20:18:42",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "android",
       "orbot",
@@ -9303,7 +9303,7 @@
     "title": "OpenSSL bug CVE-2014-0160",
     "date": "2014-04-07 17:06:14",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "openssl",
       "security advisory"
@@ -9316,7 +9316,7 @@
     "title": "Tor Browser 3.5.4 is Released",
     "date": "2014-04-08 16:06:54",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.5",
@@ -9331,7 +9331,7 @@
     "title": "Tor Weekly News — April 9th, 2014",
     "date": "2014-04-09 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9343,7 +9343,7 @@
     "title": "Tor Browser 3.6-beta-2 is released",
     "date": "2014-04-11 17:27:22",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.6",
@@ -9358,7 +9358,7 @@
     "title": "Tor Weekly News — April 16th, 2014",
     "date": "2014-04-16 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9370,7 +9370,7 @@
     "title": "Call for papers: FOCI&#039;14 workshop",
     "date": "2014-04-17 15:55:37",
     "author": "phw",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship",
       "cfp",
@@ -9386,7 +9386,7 @@
     "title": "Tor Weekly News — April 23rd, 2014",
     "date": "2014-04-22 19:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9398,7 +9398,7 @@
     "title": "Tails 1.0 is out",
     "date": "2014-04-29 05:53:31",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -9412,7 +9412,7 @@
     "title": "Tor Summer 2014 Dev Meeting Hosted by Mozilla",
     "date": "2014-04-29 07:58:32",
     "author": "kelley",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "dev meeting",
       "paris"
@@ -9425,7 +9425,7 @@
     "title": "Tor Browser 3.6 is released",
     "date": "2014-04-29 10:07:34",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.6",
@@ -9440,7 +9440,7 @@
     "title": "Tor Weekly News — April 30th, 2014",
     "date": "2014-04-30 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9452,7 +9452,7 @@
     "title": "Paypal Account Limits now resolved",
     "date": "2014-04-30 08:58:22",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "donations",
       "finance",
@@ -9468,7 +9468,7 @@
     "title": "Tor Weekly News — May 7th, 2014",
     "date": "2014-05-07 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9480,7 +9480,7 @@
     "title": "Tor Browser 3.6.1 is released",
     "date": "2014-05-07 08:45:09",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.6",
@@ -9495,7 +9495,7 @@
     "title": "Tor Weekly News — May 14th, 2014",
     "date": "2014-05-14 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9507,7 +9507,7 @@
     "title": "10 years of collecting Tor directory data",
     "date": "2014-05-15 02:30:57",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "directory authority archives",
       "metrics"
@@ -9520,7 +9520,7 @@
     "title": "Tor Weekly News — May 21st, 2014",
     "date": "2014-05-21 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9532,7 +9532,7 @@
     "title": "New Feature: Tor Interpreter",
     "date": "2014-05-25 23:11:45",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "stem"
     ],
@@ -9544,7 +9544,7 @@
     "title": "Tor Weekly News — May 28th, 2014",
     "date": "2014-05-28 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9556,7 +9556,7 @@
     "title": "Stockholm May 2014 Trip Report",
     "date": "2014-05-30 15:40:49",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "burkina faso",
       "egypt",
@@ -9577,7 +9577,7 @@
     "title": "Stem Release 1.2",
     "date": "2014-06-01 15:53:37",
     "author": "atagar",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "stem"
     ],
@@ -9589,7 +9589,7 @@
     "title": "Tor Weekly News — June 4th, 2014",
     "date": "2014-06-04 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9601,7 +9601,7 @@
     "title": "tor 0.2.4.22 released",
     "date": "2014-06-04 16:29:12",
     "author": "phoul",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "little-t-tor",
       "tor",
@@ -9615,7 +9615,7 @@
     "title": "Reset the Net!",
     "date": "2014-06-04 23:53:05",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "privacy enhancing technology",
       "reset the net",
@@ -9629,7 +9629,7 @@
     "title": "Tor Challenge 2014",
     "date": "2014-06-05 12:24:23",
     "author": "phoul",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "EFF",
       "tor",
@@ -9643,7 +9643,7 @@
     "title": "Tor Browser 3.6.2 is released",
     "date": "2014-06-09 11:06:44",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.6",
@@ -9658,7 +9658,7 @@
     "title": "Tails 1.0.1 is out",
     "date": "2014-06-10 08:23:59",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -9672,7 +9672,7 @@
     "title": "Tor Weekly News — June 11th, 2014",
     "date": "2014-06-11 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9684,7 +9684,7 @@
     "title": "On recent and upcoming developments in Pluggable Transports",
     "date": "2014-06-15 15:44:03",
     "author": "asn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "circumvention",
       "pluggable transports",
@@ -9698,7 +9698,7 @@
     "title": "Tor Weekly News — June 18th, 2014",
     "date": "2014-06-18 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9710,7 +9710,7 @@
     "title": "Tor Weekly News — June 25th, 2014",
     "date": "2014-06-25 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9722,7 +9722,7 @@
     "title": "Tor Weekly News — July 2nd, 2014",
     "date": "2014-07-02 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9734,7 +9734,7 @@
     "title": "On being targeted by the NSA",
     "date": "2014-07-03 18:44:16",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "nsa",
       "target america",
@@ -9749,7 +9749,7 @@
     "title": "Tor Weekly News — July 9th, 2014",
     "date": "2014-07-09 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9761,7 +9761,7 @@
     "title": "Tor incentives research roundup: GoldStar, PAR, BRAIDS, LIRA, TEARS, and TorCoin",
     "date": "2014-07-14 14:37:34",
     "author": "robgjansen",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bitcoin",
       "incentives",
@@ -9776,7 +9776,7 @@
     "title": "Tor Weekly News — July 16th, 2014",
     "date": "2014-07-16 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9788,7 +9788,7 @@
     "title": "Looking for front-end web developers for network status websites Atlas and Globe",
     "date": "2014-07-17 12:13:15",
     "author": "karsten",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "Atlas",
       "Globe",
@@ -9804,7 +9804,7 @@
     "title": "On the recent Black Hat 2014 Talk Cancellation",
     "date": "2014-07-21 17:41:21",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "attacks",
       "blackhat",
@@ -9822,7 +9822,7 @@
     "title": "Tails 1.1 is out",
     "date": "2014-07-22 14:05:54",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -9836,7 +9836,7 @@
     "title": "Tor Weekly News — July 23rd, 2014",
     "date": "2014-07-23 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9848,7 +9848,7 @@
     "title": "Tor Browser 3.6.3 is released",
     "date": "2014-07-24 21:36:56",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.6",
@@ -9863,7 +9863,7 @@
     "title": "Transparency, Openness, and our 2013 Financials",
     "date": "2014-07-26 15:09:41",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "donations",
       "financial statements",
@@ -9882,7 +9882,7 @@
     "title": "How to report bad relays",
     "date": "2014-07-28 18:07:14",
     "author": "phw",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "badexit",
       "exit relay",
@@ -9896,7 +9896,7 @@
     "title": "Tor Weekly News — July 30th, 2014",
     "date": "2014-07-30 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9908,7 +9908,7 @@
     "title": "Tor security advisory: \"relay early\" traffic confirmation attack",
     "date": "2014-07-30 08:00:00",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "entry guards",
       "hidden services",
@@ -9923,7 +9923,7 @@
     "title": "Tor Weekly News — August 6th, 2014",
     "date": "2014-08-06 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9935,7 +9935,7 @@
     "title": "Tor Browser 3.6.4 and 4.0-alpha-1 are released",
     "date": "2014-08-12 16:48:07",
     "author": "erinn",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.6",
@@ -9951,7 +9951,7 @@
     "title": "Tor Weekly News — August 13th, 2014",
     "date": "2014-08-13 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -9963,7 +9963,7 @@
     "title": "How to use the “meek” pluggable transport",
     "date": "2014-08-15 10:19:24",
     "author": "dcf",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "censorship circumvention",
       "pluggable transports"
@@ -9976,7 +9976,7 @@
     "title": "iSEC Partners Conducts Tor Browser Hardening Study",
     "date": "2014-08-18 18:13:16",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "security",
       "tbb",
@@ -9990,7 +9990,7 @@
     "title": "Tor Weekly News — August 20th, 2014",
     "date": "2014-08-20 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10002,7 +10002,7 @@
     "title": "Tor Weekly News — August 27th, 2014",
     "date": "2014-08-27 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10014,7 +10014,7 @@
     "title": "A call to arms: Helping Internet services accept anonymous users",
     "date": "2014-08-29 16:26:51",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "research"
@@ -10027,7 +10027,7 @@
     "title": "Tails 1.1.1 is out",
     "date": "2014-09-02 05:24:05",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -10041,7 +10041,7 @@
     "title": "Tor Weekly News — September 3rd, 2014",
     "date": "2014-09-03 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10053,7 +10053,7 @@
     "title": "Tor Browser 3.6.5 and 4.0-alpha-2 are released",
     "date": "2014-09-03 16:50:48",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.6",
@@ -10069,7 +10069,7 @@
     "title": "Ahmia search after GSoC development",
     "date": "2014-09-07 22:35:23",
     "author": "juha",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "ahmia",
       "ahmia.fi",
@@ -10087,7 +10087,7 @@
     "title": "Tor Weekly News — September 10th, 2014",
     "date": "2014-09-10 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10099,7 +10099,7 @@
     "title": "Tor 0.2.5.7-rc is out",
     "date": "2014-09-11 22:48:28",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "little-t-tor",
       "tor",
@@ -10113,7 +10113,7 @@
     "title": "Tor Weekly News — September 17th, 2014",
     "date": "2014-09-17 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10125,7 +10125,7 @@
     "title": "Tor Weekly News — September 24th, 2014",
     "date": "2014-09-24 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10137,7 +10137,7 @@
     "title": "Tails 1.1.2 is out",
     "date": "2014-09-25 07:45:52",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -10151,7 +10151,7 @@
     "title": "Tor Browser 3.6.6 is released",
     "date": "2014-09-25 17:40:10",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-3.6",
@@ -10166,7 +10166,7 @@
     "title": "Tor Browser 4.0-alpha-3 is released",
     "date": "2014-09-26 03:12:14",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-4.0",
@@ -10181,7 +10181,7 @@
     "title": "Tor Weekly News — October 1st, 2014",
     "date": "2014-10-01 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10193,7 +10193,7 @@
     "title": "A closer look at the Great Firewall of China",
     "date": "2014-10-06 15:43:54",
     "author": "phw",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "censorship",
       "censorship circumvention",
@@ -10208,7 +10208,7 @@
     "title": "Tor Weekly News — October 8th, 2014",
     "date": "2014-10-08 07:00:00",
     "author": "lunar",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10220,7 +10220,7 @@
     "title": "New SSLv3 attack found: Disable SSLv3 in TorBrowser",
     "date": "2014-10-14 21:16:03",
     "author": "nickm",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "poodle",
       "ssl",
@@ -10236,7 +10236,7 @@
     "title": "Tor Weekly News — October 15th, 2014",
     "date": "2014-10-15 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10248,7 +10248,7 @@
     "title": "Tor Browser 4.0 is released",
     "date": "2014-10-15 10:50:49",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-4.0",
@@ -10263,7 +10263,7 @@
     "title": "Tails 1.2 is out",
     "date": "2014-10-16 08:52:06",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -10277,7 +10277,7 @@
     "title": "Advisory: remote DoS when using Tor with recent OpenSSL versions built with the \"no-ssl3\" option",
     "date": "2014-10-20 22:01:47",
     "author": "phoul",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "little-t-tor",
       "poodle",
@@ -10294,7 +10294,7 @@
     "title": "Tor misused by criminals",
     "date": "2014-10-21 11:30:20",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "criminals",
       "cryptolocker",
@@ -10311,7 +10311,7 @@
     "title": "Tor Weekly News — October 22nd, 2014",
     "date": "2014-10-22 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10323,7 +10323,7 @@
     "title": "TorBirdy 0.1.3 -- Our fourth beta release!",
     "date": "2014-10-23 10:16:28",
     "author": "sukhbir",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "email",
       "icedove",
@@ -10338,7 +10338,7 @@
     "title": "Tor 0.2.5.10 is released! (and Tor 0.2.3.x is deprecated)",
     "date": "2014-10-27 08:25:36",
     "author": "nickm",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "deprecation",
       "release",
@@ -10353,7 +10353,7 @@
     "title": "Tor Weekly News — October 29th, 2014",
     "date": "2014-10-29 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10365,7 +10365,7 @@
     "title": "A new alpha series begins: Tor 0.2.6.1-alpha is released",
     "date": "2014-10-30 12:52:11",
     "author": "nickm",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "026",
       "0261",
@@ -10381,7 +10381,7 @@
     "title": "Facebook, hidden services, and https certs",
     "date": "2014-10-31 20:09:20",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "advocacy",
       "hidden services",
@@ -10395,7 +10395,7 @@
     "title": "Tor Browser 4.0.1 is released",
     "date": "2014-10-31 20:42:00",
     "author": "gk",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-4.0",
@@ -10410,7 +10410,7 @@
     "title": "Tor Weekly News — November 5th, 2014",
     "date": "2014-11-05 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10422,7 +10422,7 @@
     "title": "Thoughts and Concerns about Operation Onymous",
     "date": "2014-11-09 09:54:45",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "hidden services",
       "operation onymous",
@@ -10437,7 +10437,7 @@
     "title": "OONI Bridge reachability study and hackfest",
     "date": "2014-11-10 06:05:33",
     "author": "art",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "bridges",
       "censorship",
@@ -10454,7 +10454,7 @@
     "title": "Partnering with Mozilla",
     "date": "2014-11-11 12:17:15",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "cdt",
       "mozilla",
@@ -10471,7 +10471,7 @@
     "title": "Tor Weekly News — November 12th, 2014",
     "date": "2014-11-12 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10483,7 +10483,7 @@
     "title": "Traffic correlation using netflows",
     "date": "2014-11-14 19:14:41",
     "author": "arma",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "attacks",
       "research",
@@ -10497,7 +10497,7 @@
     "title": "End of life plan for Tor Browser on 32 bit Macs",
     "date": "2014-11-17 19:18:41",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       ""
     ],
@@ -10509,7 +10509,7 @@
     "title": "Tor Browser 4.5-alpha-1 is released",
     "date": "2014-11-17 22:15:53",
     "author": "mikeperry",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-4.5",
@@ -10524,7 +10524,7 @@
     "title": "Tor Weekly News — November 19th, 2014",
     "date": "2014-11-19 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10536,7 +10536,7 @@
     "title": "Quick Summary of recent traffic correlation using netflows",
     "date": "2014-11-24 11:58:11",
     "author": "phobos",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "netflows",
       "summary",
@@ -10551,7 +10551,7 @@
     "title": "Tor Weekly News — November 26th, 2014",
     "date": "2014-11-26 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10563,7 +10563,7 @@
     "title": "Say hi to the new GetTor",
     "date": "2014-11-26 12:22:42",
     "author": "ilv",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "censorship",
       "circumvention",
@@ -10582,7 +10582,7 @@
     "title": "Tor Weekly News — December 3rd, 2014",
     "date": "2014-12-03 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10594,7 +10594,7 @@
     "title": "Tor Browser 4.0.2 is released",
     "date": "2014-12-03 09:05:36",
     "author": "gk",
-    "status": "closed",
+    "comments": "closed",
     "tags": [
       "tbb",
       "tbb-4.0",
@@ -10609,7 +10609,7 @@
     "title": "Tails 1.2.1 is out",
     "date": "2014-12-03 11:29:43",
     "author": "tails",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "anonymous operating system",
       "tails",
@@ -10623,7 +10623,7 @@
     "title": "Tor Browser 4.5-alpha-2 is released",
     "date": "2014-12-05 02:03:01",
     "author": "gk",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "tbb",
       "tbb-4.5",
@@ -10638,7 +10638,7 @@
     "title": "Tor Weekly News — December 10th, 2014",
     "date": "2014-12-10 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10650,7 +10650,7 @@
     "title": "Solidarity against online harassment",
     "date": "2014-12-11 14:47:50",
     "author": "arma",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "anti-harassment",
       "community",
@@ -10665,7 +10665,7 @@
     "title": "Tor Weekly News — December 17th, 2014",
     "date": "2014-12-17 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10677,7 +10677,7 @@
     "title": "Possible upcoming attempts to disable the Tor network",
     "date": "2014-12-19 16:09:10",
     "author": "arma",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "anonymity",
       "attacks",
@@ -10692,7 +10692,7 @@
     "title": "Stem Release 1.3",
     "date": "2014-12-22 17:12:55",
     "author": "atagar",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "stem"
     ],
@@ -10704,7 +10704,7 @@
     "title": "Tor Weekly News — December 24th, 2014",
     "date": "2014-12-24 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10716,7 +10716,7 @@
     "title": "Tor: 80 percent of ??? percent of 1-2 percent abusive.",
     "date": "2014-12-30 14:07:42",
     "author": "nickm",
-    "status": "open",
+    "comments": "open",
     "tags": [
       ""
     ],
@@ -10728,7 +10728,7 @@
     "title": "Some thoughts on Hidden Services",
     "date": "2014-12-30 21:05:35",
     "author": "nickm",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "analysis",
       "hidden services",
@@ -10743,7 +10743,7 @@
     "title": "The Tor talk at 31c3",
     "date": "2014-12-30 22:00:39",
     "author": "nickm",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "31c3",
       "presentations",
@@ -10758,7 +10758,7 @@
     "title": "Tor Weekly News — December 31st, 2014",
     "date": "2014-12-31 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10770,7 +10770,7 @@
     "title": "Tor 0.2.6.2-alpha is released",
     "date": "2014-12-31 13:28:53",
     "author": "nickm",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "alpha",
       "tor-release"
@@ -10783,7 +10783,7 @@
     "title": "Tor Weekly News — January 7th, 2015",
     "date": "2015-01-07 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10795,7 +10795,7 @@
     "title": "Tor Browser 4.0.3 is released",
     "date": "2015-01-13 12:43:49",
     "author": "gk",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "tbb",
       "tbb-4.0",
@@ -10810,7 +10810,7 @@
     "title": "Tor Weekly News — January 14th, 2015",
     "date": "2015-01-14 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10822,7 +10822,7 @@
     "title": "Tor Browser 4.5a3 is released",
     "date": "2015-01-16 10:37:44",
     "author": "gk",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "tbb",
       "tbb-4.5",
@@ -10837,7 +10837,7 @@
     "title": "Tor Weekly News — January 21st, 2015",
     "date": "2015-01-21 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10849,7 +10849,7 @@
     "title": "Tor Weekly News — January 28th, 2015",
     "date": "2015-01-28 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10861,7 +10861,7 @@
     "title": "Tor Weekly News — February 4th, 2015",
     "date": "2015-02-04 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],
@@ -10873,7 +10873,7 @@
     "title": "Tor design proposals: how we make changes to our protocol",
     "date": "2015-02-08 01:22:58",
     "author": "nickm",
-    "status": "open",
+    "comments": "open",
     "tags": [
       ""
     ],
@@ -10885,7 +10885,7 @@
     "title": "Guest Post: The Library Freedom Project: Bringing privacy and anonymity to libraries",
     "date": "2015-02-08 16:43:41",
     "author": "alison",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "community",
       "Guest Blog Post",
@@ -10900,7 +10900,7 @@
     "title": "UX Sprint 2015 wrapup",
     "date": "2015-02-09 14:21:28",
     "author": "dcf",
-    "status": "open",
+    "comments": "open",
     "tags": [
       "usability"
     ],
@@ -10912,7 +10912,7 @@
     "title": "Tor Weekly News — February 11th, 2015",
     "date": "2015-02-11 07:00:00",
     "author": "harmony",
-    "status": "closed",
+    "comments": "disabled",
     "tags": [
       "tor weekly news"
     ],

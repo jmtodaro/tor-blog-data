@@ -5,7 +5,7 @@ permalink: introduction-digital-security-cij
 date: 2013-03-29 10:37:51
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["digital security", "journalism", "tor", "training"]
 ---
 

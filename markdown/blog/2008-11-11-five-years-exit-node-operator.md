@@ -5,7 +5,7 @@ permalink: five-years-exit-node-operator
 date: 2008-11-11 00:50:57
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["exit node", "exit relay", "hugging dmca notices", "operator experiences", "tor is benign"]
 ---
 

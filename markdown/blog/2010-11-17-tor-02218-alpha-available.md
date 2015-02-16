@@ -5,7 +5,7 @@ permalink: tor-02218-alpha-available
 date: 2010-11-17 17:30:21
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "bug fixes", "feature enhancements"]
 ---
 

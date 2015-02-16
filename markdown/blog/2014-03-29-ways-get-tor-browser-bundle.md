@@ -5,7 +5,7 @@ permalink: ways-get-tor-browser-bundle
 date: 2014-03-29 18:29:17
 author: sukhbir
 category: blog
-status: closed
+comments: closed
 tags: ["censorship", "tbb", "torbrowser", "torproject websites"]
 ---
 

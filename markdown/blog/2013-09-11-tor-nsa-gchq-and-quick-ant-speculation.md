@@ -5,7 +5,7 @@ permalink: tor-nsa-gchq-and-quick-ant-speculation
 date: 2013-09-11 05:51:04
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["gchq", "nsa", "quick ant", "snowden leaks", "speculation", "tor"]
 ---
 

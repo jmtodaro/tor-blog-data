@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-8
 date: 2011-10-12 10:56:32
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tor browser bundle", "torbutton", "vidalia releases"]
 ---
 

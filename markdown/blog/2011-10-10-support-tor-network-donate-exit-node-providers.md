@@ -5,7 +5,7 @@ permalink: support-tor-network-donate-exit-node-providers
 date: 2011-10-10 05:32:06
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "distributed trust", "exits", "performance", "relays"]
 ---
 

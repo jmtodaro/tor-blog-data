@@ -5,7 +5,7 @@ permalink: effs-panopticlick-and-torbutton
 date: 2010-01-29 12:43:06
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["EFF", "online anonymity", "panopticlick", "privacy", "tor", "torbutton"]
 ---
 

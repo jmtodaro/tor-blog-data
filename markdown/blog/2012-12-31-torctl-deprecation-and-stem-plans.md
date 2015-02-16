@@ -5,7 +5,7 @@ permalink: torctl-deprecation-and-stem-plans
 date: 2012-12-31 17:38:05
 author: atagar
 category: blog
-status: closed
+comments: disabled
 tags: ["controller", "python", "stem", "torctl"]
 ---
 

@@ -5,7 +5,7 @@ permalink: bittorrent-support-thandy
 date: 2009-09-10 14:16:03
 author: Sebastian
 category: blog
-status: closed
+comments: closed
 tags: ["BitTorrent", "google", "Google Summer of Code", "gsoc", "thandy"]
 ---
 

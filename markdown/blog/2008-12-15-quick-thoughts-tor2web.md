@@ -5,7 +5,7 @@ permalink: quick-thoughts-tor2web
 date: 2008-12-15 23:20:51
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["hidden services", "onion addresses", "tor2web"]
 ---
 

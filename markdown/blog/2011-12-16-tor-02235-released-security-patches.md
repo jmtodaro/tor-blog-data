@@ -5,7 +5,7 @@ permalink: tor-02235-released-security-patches
 date: 2011-12-16 13:51:02
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["bugfixes", "end of life", "security critical", "security fixes", "stable releases", "tor"]
 ---
 

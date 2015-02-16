@@ -5,7 +5,7 @@ permalink: new-sslv3-attack-found-disable-sslv3-torbrowser
 date: 2014-10-14 21:16:03
 author: nickm
 category: blog
-status: closed
+comments: closed
 tags: ["poodle", "ssl", "sslv3", "tls", "torbrowser"]
 ---
 

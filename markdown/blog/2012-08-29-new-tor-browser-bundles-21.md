@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-21
 date: 2012-08-29 14:01:52
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "https everywhere", "tbb", "tor browser", "tor browser bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: mission-impossible-hardening-android-security-and-privacy
 date: 2014-04-02 20:18:42
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["android", "orbot", "security", "tor"]
 ---
 

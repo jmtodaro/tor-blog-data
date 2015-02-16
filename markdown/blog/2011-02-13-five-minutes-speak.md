@@ -5,7 +5,7 @@ permalink: five-minutes-speak
 date: 2011-02-13 09:52:43
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["censorship circumvention", "cyberutopian", "peer to peer", "policy", "policy makers", "technology"]
 ---
 

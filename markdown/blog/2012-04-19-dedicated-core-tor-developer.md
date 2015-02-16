@@ -5,7 +5,7 @@ permalink: dedicated-core-tor-developer
 date: 2012-04-19 21:55:52
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["jobs"]
 ---
 

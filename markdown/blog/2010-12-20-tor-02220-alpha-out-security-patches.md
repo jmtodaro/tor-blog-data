@@ -5,7 +5,7 @@ permalink: tor-02220-alpha-out-security-patches
 date: 2010-12-20 11:10:39
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["bug fixes", "enhancements", "security advisory"]
 ---
 

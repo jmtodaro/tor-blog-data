@@ -5,7 +5,7 @@ permalink: how-to-read-our-china-usage-graphs
 date: 2014-03-17 04:48:23
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["bridges", "censorship", "china", "pluggable transports", "research"]
 ---
 

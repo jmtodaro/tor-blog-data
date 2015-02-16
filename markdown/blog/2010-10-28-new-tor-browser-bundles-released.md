@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-released
 date: 2010-10-28 01:23:06
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["microsoft windows", "osx", "osx fixes", "tbb", "tor browser bundle", "windows bundles"]
 ---
 

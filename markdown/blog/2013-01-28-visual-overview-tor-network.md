@@ -5,7 +5,7 @@ permalink: visual-overview-tor-network
 date: 2013-01-28 02:30:04
 author: karsten
 category: blog
-status: closed
+comments: closed
 tags: ["introduction", "network", "overview", "support"]
 ---
 

@@ -5,7 +5,7 @@ permalink: 64-bit-gnulinux-tor-browser-bundles-updated
 date: 2013-11-20 15:26:32
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["hotfix", "tbb", "tor browser", "tor browser bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: january-2010-progress-report
 date: 2010-02-13 11:00:04
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "bug fixes", "enhancements", "feature removals", "progress report", "releases", "translations"]
 ---
 

@@ -5,7 +5,7 @@ permalink: visit-ncfta
 date: 2009-07-14 19:50:12
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["cybercrime", "ncfta", "presentations", "tor talks", "training"]
 ---
 

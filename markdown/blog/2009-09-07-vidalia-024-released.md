@@ -5,7 +5,7 @@ permalink: vidalia-024-released
 date: 2009-09-07 15:13:01
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["drag and drop OS X install", "msi installer", "polipo", "updated packages", "vidalia releases"]
 ---
 

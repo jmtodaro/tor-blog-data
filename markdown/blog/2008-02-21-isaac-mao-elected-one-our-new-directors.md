@@ -5,7 +5,7 @@ permalink: isaac-mao-elected-one-our-new-directors
 date: 2008-02-21 18:01:05
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["china", "directors"]
 ---
 

@@ -5,7 +5,7 @@ permalink: ten-things-look-circumvention-tool
 date: 2010-09-17 08:41:30
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["article", "censorship circumvention", "circumvention tools", "ten things"]
 ---
 

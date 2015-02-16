@@ -5,7 +5,7 @@ permalink: tor-browser-353-released
 date: 2014-03-19 13:10:46
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tbb-3.5", "tor browser", "tor browser bundle"]
 ---
 

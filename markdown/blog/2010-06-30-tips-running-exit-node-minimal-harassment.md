@@ -5,7 +5,7 @@ permalink: tips-running-exit-node-minimal-harassment
 date: 2010-06-30 19:08:08
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "distributed trust", "education", "performance"]
 ---
 

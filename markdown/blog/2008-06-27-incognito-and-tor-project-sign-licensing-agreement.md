@@ -5,7 +5,7 @@ permalink: incognito-and-tor-project-sign-licensing-agreement
 date: 2008-06-27 16:42:44
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["incognito", "tor", "trademarks"]
 ---
 

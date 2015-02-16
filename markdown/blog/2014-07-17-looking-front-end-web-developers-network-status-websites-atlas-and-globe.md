@@ -5,7 +5,7 @@ permalink: looking-front-end-web-developers-network-status-websites-atlas-and-gl
 date: 2014-07-17 12:13:15
 author: karsten
 category: blog
-status: closed
+comments: closed
 tags: ["Atlas", "Globe", "network status", "Onionoo", "web development"]
 ---
 

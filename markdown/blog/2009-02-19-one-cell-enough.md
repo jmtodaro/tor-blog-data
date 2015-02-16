@@ -5,7 +5,7 @@ permalink: one-cell-enough
 date: 2009-02-19 01:51:21
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["attacks", "research", "tagging"]
 ---
 

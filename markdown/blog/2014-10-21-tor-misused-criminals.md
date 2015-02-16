@@ -5,7 +5,7 @@ permalink: tor-misused-criminals
 date: 2014-10-21 11:30:20
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["criminals", "cryptolocker", "help", "ransomware", "tor", "warning"]
 ---
 

@@ -5,7 +5,7 @@ permalink: tor-02035stable-released
 date: 2009-06-25 19:34:49
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "hidden service fixes", "stable release"]
 ---
 

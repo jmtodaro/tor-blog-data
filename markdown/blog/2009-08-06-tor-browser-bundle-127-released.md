@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-127-released
 date: 2009-08-06 10:12:42
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "libevent updates", "tor browser bundle"]
 ---
 

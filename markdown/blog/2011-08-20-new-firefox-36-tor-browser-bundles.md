@@ -5,7 +5,7 @@ permalink: new-firefox-36-tor-browser-bundles
 date: 2011-08-20 21:12:02
 author: rransom
 category: blog
-status: closed
+comments: disabled
 tags: ["firefox updates", "package updates", "security fixes", "tor browser", "tor browser bundle"]
 ---
 

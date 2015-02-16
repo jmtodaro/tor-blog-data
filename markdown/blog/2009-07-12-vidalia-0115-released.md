@@ -5,7 +5,7 @@ permalink: vidalia-0115-released
 date: 2009-07-12 20:32:54
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bugfixes", "vidalia releases"]
 ---
 

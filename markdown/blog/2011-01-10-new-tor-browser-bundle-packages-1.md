@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundle-packages-1
 date: 2011-01-10 13:14:02
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["security fixes", "security updates", "tbb", "tor browser bundle", "torbrowser", "updated packages"]
 ---
 

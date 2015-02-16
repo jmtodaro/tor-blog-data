@@ -5,7 +5,7 @@ permalink: january-2011-progress-report
 date: 2011-02-08 11:20:11
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity features", "feature enhancements", "metrics", "progress report", "releases", "research reports"]
 ---
 

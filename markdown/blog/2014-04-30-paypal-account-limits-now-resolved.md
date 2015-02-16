@@ -5,7 +5,7 @@ permalink: paypal-account-limits-now-resolved
 date: 2014-04-30 08:58:22
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["donations", "finance", "fraud", "limitations", "paypal"]
 ---
 

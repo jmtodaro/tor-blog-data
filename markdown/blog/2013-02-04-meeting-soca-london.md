@@ -5,7 +5,7 @@ permalink: meeting-soca-london
 date: 2013-02-04 09:27:37
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["trip report"]
 ---
 

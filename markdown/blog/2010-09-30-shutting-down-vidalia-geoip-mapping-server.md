@@ -5,7 +5,7 @@ permalink: shutting-down-vidalia-geoip-mapping-server
 date: 2010-09-30 19:32:52
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["city mapping", "geoip", "vidalia", "vidalia network map", "volunteer run"]
 ---
 

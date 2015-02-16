@@ -5,7 +5,7 @@ permalink: testing-red-flag-linux-rpms
 date: 2009-06-08 10:10:16
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["redflag linux", "rpm", "testing"]
 ---
 

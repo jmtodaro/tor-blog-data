@@ -5,7 +5,7 @@ permalink: critique-website-traffic-fingerprinting-attacks
 date: 2013-11-07 15:37:23
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["machine learning", "research", "statistics", "traffic analysis"]
 ---
 

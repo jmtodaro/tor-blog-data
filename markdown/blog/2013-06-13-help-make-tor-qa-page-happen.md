@@ -5,7 +5,7 @@ permalink: help-make-tor-qa-page-happen
 date: 2013-06-13 13:39:53
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["forum", "questions", "tor"]
 ---
 

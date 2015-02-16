@@ -5,7 +5,7 @@ permalink: 2012-florence-hackfest
 date: 2012-06-21 12:11:36
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["anonymity advocacy", "florence", "hackfest", "italy", "tor"]
 ---
 

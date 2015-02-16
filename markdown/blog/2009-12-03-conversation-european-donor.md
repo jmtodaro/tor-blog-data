@@ -5,7 +5,7 @@ permalink: conversation-european-donor
 date: 2009-12-03 09:39:44
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymous donor", "data retention", "europe", "internet surveillance", "support"]
 ---
 

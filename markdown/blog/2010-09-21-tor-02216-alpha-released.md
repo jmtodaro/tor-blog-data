@@ -5,7 +5,7 @@ permalink: tor-02216-alpha-released
 date: 2010-09-21 19:08:41
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "enhancements"]
 ---
 

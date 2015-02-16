@@ -5,7 +5,7 @@ permalink: closer-look-great-firewall-china
 date: 2014-10-06 15:43:54
 author: phw
 category: blog
-status: open
+comments: open
 tags: ["censorship", "censorship circumvention", "dpi", "GFW"]
 ---
 

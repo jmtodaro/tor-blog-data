@@ -5,7 +5,7 @@ permalink: torbutton-140-released
 date: 2011-07-09 17:39:06
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity", "firefox extensions", "firefox plugins", "firefox privacy", "torbutton"]
 ---
 

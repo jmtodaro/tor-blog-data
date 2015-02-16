@@ -5,7 +5,7 @@ permalink: academic-postdoc-phd-and-masters-positions-available-tor-related-rese
 date: 2011-09-24 16:02:29
 author: ian
 category: blog
-status: closed
+comments: closed
 tags: ["academia", "research"]
 ---
 

@@ -5,7 +5,7 @@ permalink: improving-private-browsing-modes-do-not-track-vs-real-privacy-design
 date: 2011-06-13 16:37:00
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["chrome", "dnt", "do not track", "firefox", "incognito", "privacy by design", "private browsing", "tor browser", "torbutton"]
 ---
 

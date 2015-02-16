@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-5
 date: 2011-09-04 22:42:57
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox privacy", "firefox updates", "security fixes", "tbb", "tor browser"]
 ---
 

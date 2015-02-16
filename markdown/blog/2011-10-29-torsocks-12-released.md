@@ -5,7 +5,7 @@ permalink: torsocks-12-released
 date: 2011-10-29 11:13:53
 author: mwenge
 category: blog
-status: closed
+comments: closed
 tags: ["torsocks"]
 ---
 

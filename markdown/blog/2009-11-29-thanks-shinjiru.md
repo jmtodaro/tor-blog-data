@@ -5,7 +5,7 @@ permalink: thanks-shinjiru
 date: 2009-11-29 09:01:43
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["directory authority", "donated services", "outside EU", "outside US"]
 ---
 

@@ -5,7 +5,7 @@ permalink: start-tor-legal-support-directory
 date: 2010-01-11 22:50:24
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["australia", "austria", "exit relays", "finland", "germany", "legal support", "netherlands", "switzerland", "tor legal support directory", "tor relay operators", "usa"]
 ---
 

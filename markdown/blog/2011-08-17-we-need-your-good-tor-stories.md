@@ -5,7 +5,7 @@ permalink: we-need-your-good-tor-stories
 date: 2011-08-17 14:53:00
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "media coverage", "tor stories"]
 ---
 

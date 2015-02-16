@@ -5,7 +5,7 @@ permalink: tor-check-outage-03-and-04-july-2013
 date: 2013-07-04 07:53:11
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["abuse", "check", "dns queries from hell", "exitlist", "TorCheck"]
 ---
 

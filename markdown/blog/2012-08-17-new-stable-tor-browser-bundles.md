@@ -5,7 +5,7 @@ permalink: new-stable-tor-browser-bundles
 date: 2012-08-17 16:08:13
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tor", "tor browser", "tor stable"]
 ---
 

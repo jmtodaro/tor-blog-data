@@ -5,7 +5,7 @@ permalink: yes-we-know-about-guardian-article
 date: 2013-10-04 16:00:59
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["gchq", "nsa"]
 ---
 

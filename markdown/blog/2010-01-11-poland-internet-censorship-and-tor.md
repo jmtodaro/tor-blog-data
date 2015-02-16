@@ -5,7 +5,7 @@ permalink: poland-internet-censorship-and-tor
 date: 2010-01-11 20:45:47
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity", "global voices", "internet censorship", "internet freedom", "law enforcement", "poland", "privacy"]
 ---
 

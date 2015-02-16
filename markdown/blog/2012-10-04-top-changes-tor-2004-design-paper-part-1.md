@@ -5,7 +5,7 @@ permalink: top-changes-tor-2004-design-paper-part-1
 date: 2012-10-04 12:54:47
 author: nickm
 category: blog
-status: closed
+comments: closed
 tags: ["research", "tor-design"]
 ---
 

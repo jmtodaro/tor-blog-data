@@ -5,7 +5,7 @@ permalink: toggle-or-not-toggle-end-torbutton
 date: 2011-05-02 04:52:04
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["firefox", "tor browser", "tor browser bundle", "torbutton", "usability"]
 ---
 

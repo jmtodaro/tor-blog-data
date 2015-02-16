@@ -5,7 +5,7 @@ permalink: bittorrent-over-tor-isnt-good-idea
 date: 2010-04-30 01:06:37
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity applications attack", "BitTorrent", "different exit", "network", "peer", "post privacy problem", "relay"]
 ---
 

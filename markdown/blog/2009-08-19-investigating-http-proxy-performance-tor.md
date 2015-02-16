@@ -5,7 +5,7 @@ permalink: investigating-http-proxy-performance-tor
 date: 2009-08-19 16:57:17
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["caching", "faster firefox", "faster tor", "open research", "performance", "polipo", "privoxy", "socks5", "tor browser bundle", "vidalia bundle"]
 ---
 

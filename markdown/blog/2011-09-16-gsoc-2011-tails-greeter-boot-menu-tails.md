@@ -5,7 +5,7 @@ permalink: gsoc-2011-tails-greeter-boot-menu-tails
 date: 2011-09-16 06:09:42
 author: max-gsoc
 category: blog
-status: closed
+comments: closed
 tags: ["anonymous operating systems", "gsoc 2011", "tails"]
 ---
 

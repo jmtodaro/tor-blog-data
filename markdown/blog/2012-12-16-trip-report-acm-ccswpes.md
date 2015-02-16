@@ -5,7 +5,7 @@ permalink: trip-report-acm-ccswpes
 date: 2012-12-16 20:34:44
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["conference", "internet censorship", "research", "trip report"]
 ---
 

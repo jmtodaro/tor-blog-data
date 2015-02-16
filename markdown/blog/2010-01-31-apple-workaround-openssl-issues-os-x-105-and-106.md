@@ -5,7 +5,7 @@ permalink: apple-workaround-openssl-issues-os-x-105-and-106
 date: 2010-01-31 22:10:14
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["10.3", "10.4", "10.5", "10.6", "confused users", "openssl", "osx", "packaging mess", "tls renegotiation"]
 ---
 

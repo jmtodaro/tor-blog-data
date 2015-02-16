@@ -5,7 +5,7 @@ permalink: january-2009-progress-report
 date: 2009-02-22 20:23:37
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "progress report", "releases", "security fixes", "translations"]
 ---
 

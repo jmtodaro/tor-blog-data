@@ -5,7 +5,7 @@ permalink: march-2011-progress-report
 date: 2011-04-12 13:10:49
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "new features", "new releases", "progress report", "security fixes", "updated packages"]
 ---
 

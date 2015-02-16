@@ -5,7 +5,7 @@ permalink: blackout-against-copyright-overreach-stop-sopa-and-pipa
 date: 2012-01-17 14:23:39
 author: wseltzer
 category: blog
-status: closed
+comments: closed
 tags: ["law", "PIPA", "SOPA"]
 ---
 

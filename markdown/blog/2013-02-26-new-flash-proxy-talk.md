@@ -5,7 +5,7 @@ permalink: new-flash-proxy-talk
 date: 2013-02-26 22:52:07
 author: dcf
 category: blog
-status: closed
+comments: closed
 tags: ["flashproxy"]
 ---
 

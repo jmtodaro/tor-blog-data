@@ -5,7 +5,7 @@ permalink: https-everywhere-firefox-addon-helps-you-encrypt-web-traffic
 date: 2010-06-17 19:55:30
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["plaintext communications", "privacy", "tor"]
 ---
 

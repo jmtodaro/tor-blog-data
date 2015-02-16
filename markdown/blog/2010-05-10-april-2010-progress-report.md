@@ -5,7 +5,7 @@ permalink: april-2010-progress-report
 date: 2010-05-10 15:22:32
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha releases", "bug fixes", "enhancements", "metrics", "progress report", "tor browser bundle"]
 ---
 

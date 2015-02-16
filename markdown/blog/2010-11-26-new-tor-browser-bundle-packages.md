@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundle-packages
 date: 2010-11-26 10:23:57
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha releases", "bug fixes", "stable releases", "tbb", "tor browser bundle"]
 ---
 

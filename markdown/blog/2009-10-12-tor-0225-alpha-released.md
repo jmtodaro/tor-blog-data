@@ -5,7 +5,7 @@ permalink: tor-0225-alpha-released
 date: 2009-10-12 10:04:49
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha release", "bug fixes", "code refactoring", "directory authority"]
 ---
 

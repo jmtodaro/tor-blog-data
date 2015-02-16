@@ -5,7 +5,7 @@ permalink: major-changes-os-x-vidalia-bundle-0221alpha
 date: 2009-09-02 20:15:42
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["drag and drop OS X install", "updated packages", "vidalia bundle"]
 ---
 

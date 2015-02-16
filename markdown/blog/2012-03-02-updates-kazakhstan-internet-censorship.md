@@ -5,7 +5,7 @@ permalink: updates-kazakhstan-internet-censorship
 date: 2012-03-02 15:39:38
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["deep packet inspection", "dpi", "internet censorship", "kazakhstan", "network data"]
 ---
 

@@ -5,7 +5,7 @@ permalink: pluggable-transports-bundles-2417-beta-2-pt3-firefox-1709esr
 date: 2013-09-23 21:52:49
 author: dcf
 category: blog
-status: closed
+comments: closed
 tags: ["flashproxy", "obfsproxy", "pluggable transports"]
 ---
 

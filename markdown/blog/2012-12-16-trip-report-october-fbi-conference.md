@@ -5,7 +5,7 @@ permalink: trip-report-october-fbi-conference
 date: 2012-12-16 04:00:00
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["law enforcement", "talks", "trip report"]
 ---
 

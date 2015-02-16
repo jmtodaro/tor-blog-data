@@ -5,7 +5,7 @@ permalink: november-2011-progress-report
 date: 2011-12-13 15:04:22
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["hidden services", "progress report", "tails releases", "tor browser releases", "tor releases"]
 ---
 

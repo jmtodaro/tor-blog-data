@@ -5,7 +5,7 @@ permalink: trip-report-white-house-forum-combat-human-trafficking
 date: 2013-04-18 10:25:34
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["domestic violence", "dv", "human trafficking", "ipa", "ipv", "modern slavery", "tor", "white house"]
 ---
 

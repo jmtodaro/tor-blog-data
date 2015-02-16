@@ -5,7 +5,7 @@ permalink: bridge-distribution-strategies
 date: 2009-09-08 19:15:58
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: [""]
 ---
 

@@ -5,7 +5,7 @@ permalink: call-papers-foci14-workshop
 date: 2014-04-17 15:55:37
 author: phw
 category: blog
-status: closed
+comments: closed
 tags: ["censorship", "cfp", "conference", "foci", "research"]
 ---
 

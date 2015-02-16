@@ -5,7 +5,7 @@ permalink: stem-release-12
 date: 2014-06-01 15:53:37
 author: atagar
 category: blog
-status: closed
+comments: closed
 tags: ["stem"]
 ---
 

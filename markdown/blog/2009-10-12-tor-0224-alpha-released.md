@@ -5,7 +5,7 @@ permalink: tor-0224-alpha-released
 date: 2009-10-12 09:56:02
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha release", "bug fixes", "circuit building fixes", "code refactoring", "IP Address changes", "memory leaks", "tinytest framework"]
 ---
 

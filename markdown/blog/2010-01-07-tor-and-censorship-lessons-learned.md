@@ -5,7 +5,7 @@ permalink: tor-and-censorship-lessons-learned
 date: 2010-01-07 20:45:13
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["26c3", "ccc", "censorship", "jacob", "roger", "tor"]
 ---
 

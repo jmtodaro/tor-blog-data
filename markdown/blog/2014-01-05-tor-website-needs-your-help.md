@@ -5,7 +5,7 @@ permalink: tor-website-needs-your-help
 date: 2014-01-05 18:08:34
 author: lunar
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "translations", "website"]
 ---
 

@@ -5,7 +5,7 @@ permalink: thank-you-our-donors
 date: 2011-12-27 21:15:27
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["anonymity online", "donor appreciation", "fighting for the future", "hugs", "thanks", "tor"]
 ---
 

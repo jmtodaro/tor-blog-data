@@ -5,7 +5,7 @@ permalink: new-tor-02417-rc-packages
 date: 2013-09-06 11:03:12
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tor", "tor browser bundle", "updates"]
 ---
 

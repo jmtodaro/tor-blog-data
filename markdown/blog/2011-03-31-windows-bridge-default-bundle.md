@@ -5,7 +5,7 @@ permalink: windows-bridge-default-bundle
 date: 2011-03-31 20:17:16
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["bridge by default", "bridges", "censored users", "windows"]
 ---
 

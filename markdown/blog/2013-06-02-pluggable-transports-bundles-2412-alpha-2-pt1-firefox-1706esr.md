@@ -5,7 +5,7 @@ permalink: pluggable-transports-bundles-2412-alpha-2-pt1-firefox-1706esr
 date: 2013-06-02 13:11:19
 author: dcf
 category: blog
-status: closed
+comments: closed
 tags: ["flashproxy", "obfsbundle", "obfsproxy", "pluggable transports"]
 ---
 

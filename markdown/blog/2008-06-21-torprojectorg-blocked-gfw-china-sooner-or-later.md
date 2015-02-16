@@ -5,7 +5,7 @@ permalink: torprojectorg-blocked-gfw-china-sooner-or-later
 date: 2008-06-21 09:26:38
 author: Anonymous
 category: blog
-status: closed
+comments: closed
 tags: ["china", "GFW", "GreatFirewall"]
 ---
 

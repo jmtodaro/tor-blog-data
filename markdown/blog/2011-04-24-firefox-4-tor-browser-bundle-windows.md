@@ -5,7 +5,7 @@ permalink: firefox-4-tor-browser-bundle-windows
 date: 2011-04-24 16:50:15
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox", "tor browser bundle", "windows"]
 ---
 

@@ -5,7 +5,7 @@ permalink: blog-problems
 date: 2010-03-14 08:54:00
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["blog overload", "comment apocalypse", "data flood"]
 ---
 

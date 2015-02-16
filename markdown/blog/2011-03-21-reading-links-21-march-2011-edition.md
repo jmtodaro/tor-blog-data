@@ -5,7 +5,7 @@ permalink: reading-links-21-march-2011-edition
 date: 2011-03-21 21:45:03
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["china", "edrigram", "gmail", "interesting links", "interesting reading", "internet censorship", "mandated content blocking", "reading links", "vpns"]
 ---
 

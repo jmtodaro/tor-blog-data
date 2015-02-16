@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-2
 date: 2011-06-25 17:07:59
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha releases", "tbb", "tor browser bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: hidden-services-current-events-and-freedom-hosting
 date: 2013-08-04 10:18:46
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["facts", "freedom hosting", "hidden services", "hidservs", "tor network"]
 ---
 

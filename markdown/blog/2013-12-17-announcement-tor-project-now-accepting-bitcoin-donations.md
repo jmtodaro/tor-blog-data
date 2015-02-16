@@ -5,7 +5,7 @@ permalink: announcement-tor-project-now-accepting-bitcoin-donations
 date: 2013-12-17 12:25:07
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "bitcoins", "donations", "tor project"]
 ---
 

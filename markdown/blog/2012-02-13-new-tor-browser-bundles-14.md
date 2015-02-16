@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-14
 date: 2012-02-13 15:35:02
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "libevent", "tbb", "tor browser", "vidalia"]
 ---
 

@@ -5,7 +5,7 @@ permalink: two-incentive-designs-tor
 date: 2009-01-17 15:42:56
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["incentives", "performance", "research"]
 ---
 

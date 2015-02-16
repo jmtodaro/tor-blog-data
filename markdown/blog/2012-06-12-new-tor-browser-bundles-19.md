@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-19
 date: 2012-06-12 15:55:18
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox", "tbb", "tor browser bundle", "tor stable", "torbutton"]
 ---
 

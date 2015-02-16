@@ -5,7 +5,7 @@ permalink: some-notes-progress-iocp-and-libevent
 date: 2009-03-01 17:37:33
 author: nickm
 category: blog
-status: closed
+comments: closed
 tags: ["developerment", "hacking", "iocp", "libevent"]
 ---
 

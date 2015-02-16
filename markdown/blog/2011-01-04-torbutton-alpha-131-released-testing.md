@@ -5,7 +5,7 @@ permalink: torbutton-alpha-131-released-testing
 date: 2011-01-04 18:05:46
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha release", "firefox", "torbutton"]
 ---
 

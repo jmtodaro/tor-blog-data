@@ -5,7 +5,7 @@ permalink: forensic-analysis-tor-linux
 date: 2013-04-12 23:34:12
 author: Runa
 category: blog
-status: closed
+comments: closed
 tags: ["forensic analysis", "linux", "tbb", "tor"]
 ---
 

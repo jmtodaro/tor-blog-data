@@ -5,7 +5,7 @@ permalink: tor-browser-351-released
 date: 2014-01-27 22:56:23
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["tbb-3.0", "tbb-3.5", "tor-browser-bundle"]
 ---
 

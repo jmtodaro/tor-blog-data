@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-22
 date: 2012-10-15 12:45:09
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox", "tbb", "tor browser bundle"]
 ---
 

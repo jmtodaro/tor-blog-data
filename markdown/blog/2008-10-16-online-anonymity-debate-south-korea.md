@@ -5,7 +5,7 @@ permalink: online-anonymity-debate-south-korea
 date: 2008-10-16 21:06:17
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["cyber defamation", "democracy", "online anonymity", "south korea", "whistleblowers"]
 ---
 

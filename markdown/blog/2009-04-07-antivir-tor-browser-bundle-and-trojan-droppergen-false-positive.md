@@ -5,7 +5,7 @@ permalink: antivir-tor-browser-bundle-and-trojan-droppergen-false-positive
 date: 2009-04-07 09:53:30
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anti-virus", "false positive", "tor browser bundle"]
 ---
 

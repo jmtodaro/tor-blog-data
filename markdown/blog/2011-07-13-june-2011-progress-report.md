@@ -5,7 +5,7 @@ permalink: june-2011-progress-report
 date: 2011-07-13 13:50:54
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "anonymity advocacy", "progress report", "tor releases", "updates"]
 ---
 

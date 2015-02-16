@@ -5,7 +5,7 @@ permalink: talking-german-police-stuttgart
 date: 2008-03-26 02:39:46
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["data retention", "germany", "law enforcement", "talks"]
 ---
 

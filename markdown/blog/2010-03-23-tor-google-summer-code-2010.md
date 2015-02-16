@@ -5,7 +5,7 @@ permalink: tor-google-summer-code-2010
 date: 2010-03-23 13:23:32
 author: karsten
 category: blog
-status: closed
+comments: disabled
 tags: ["gsoc", "gsoc2010"]
 ---
 

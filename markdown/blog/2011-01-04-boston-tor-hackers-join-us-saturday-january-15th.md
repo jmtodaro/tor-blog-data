@@ -5,7 +5,7 @@ permalink: boston-tor-hackers-join-us-saturday-january-15th
 date: 2011-01-04 18:11:39
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["boston hackfest", "center for future civic media"]
 ---
 

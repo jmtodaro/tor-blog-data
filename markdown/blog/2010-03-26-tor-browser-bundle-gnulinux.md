@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-gnulinux
 date: 2010-03-26 22:28:49
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["installing and using tor", "tbb", "torbrowser"]
 ---
 

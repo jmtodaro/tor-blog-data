@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-121-released
 date: 2009-06-21 07:44:26
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bug fixes", "firefox updates", "pidgin updates", "tor browser bundle"]
 ---
 

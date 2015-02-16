@@ -5,7 +5,7 @@ permalink: stockholm-hackfest-may-14th
 date: 2011-04-15 15:33:58
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["advocacy", "code", "developers", "hackfest", "iis.se", "tor"]
 ---
 

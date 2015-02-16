@@ -5,7 +5,7 @@ permalink: may-2011-progress-report
 date: 2011-06-10 09:20:57
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "bugfixes", "enhancements", "progress report"]
 ---
 

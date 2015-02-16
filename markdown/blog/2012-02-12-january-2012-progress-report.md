@@ -5,7 +5,7 @@ permalink: january-2012-progress-report
 date: 2012-02-12 07:30:24
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["bridge strategies", "metrics", "progress report", "tails releases", "tor releases"]
 ---
 

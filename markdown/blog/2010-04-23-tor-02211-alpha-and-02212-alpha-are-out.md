@@ -5,7 +5,7 @@ permalink: tor-02211-alpha-and-02212-alpha-are-out
 date: 2010-04-23 22:26:03
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha releases", "bug fixes", "performance improvements"]
 ---
 

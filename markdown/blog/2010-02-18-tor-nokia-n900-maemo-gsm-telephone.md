@@ -5,7 +5,7 @@ permalink: tor-nokia-n900-maemo-gsm-telephone
 date: 2010-02-18 19:25:41
 author: ioerror
 category: blog
-status: closed
+comments: closed
 tags: ["mobile nokia n900 phone linux"]
 ---
 

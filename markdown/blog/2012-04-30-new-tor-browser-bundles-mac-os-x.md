@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-mac-os-x
 date: 2012-04-30 23:03:17
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["osx", "tbb", "tor browser bundle", "torbrowser"]
 ---
 

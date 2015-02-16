@@ -5,7 +5,7 @@ permalink: join-us-tor-hack-day-munich-germany
 date: 2013-07-08 14:59:54
 author: kelley
 category: blog
-status: closed
+comments: closed
 tags: ["dev meeting", "hack day"]
 ---
 

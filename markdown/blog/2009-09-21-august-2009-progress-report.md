@@ -5,7 +5,7 @@ permalink: august-2009-progress-report
 date: 2009-09-21 09:19:26
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "bug fixes", "progress report", "releases"]
 ---
 

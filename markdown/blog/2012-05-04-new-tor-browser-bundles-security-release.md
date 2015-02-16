@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundles-security-release
 date: 2012-05-04 06:18:44
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["osx", "security fixes", "tbb", "tor browser bundle", "torbrowser"]
 ---
 

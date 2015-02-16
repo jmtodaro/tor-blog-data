@@ -5,7 +5,7 @@ permalink: tor-browser-3521-released
 date: 2014-02-15 08:32:05
 author: mikeperry
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tbb-3.5", "tor browser", "tor browser bundle"]
 ---
 

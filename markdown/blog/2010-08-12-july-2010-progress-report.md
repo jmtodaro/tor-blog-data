@@ -5,7 +5,7 @@ permalink: july-2010-progress-report
 date: 2010-08-12 09:25:08
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["alpha releases", "bug fixes", "development", "enhancements", "orbot", "performance improvements", "portable bundles", "progress report", "research", "research progress", "research reports", "research results", "tor browser bundle"]
 ---
 

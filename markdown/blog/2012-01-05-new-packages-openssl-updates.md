@@ -5,7 +5,7 @@ permalink: new-packages-openssl-updates
 date: 2012-01-05 12:42:06
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["package updates", "tbb", "tor browser bundle"]
 ---
 

@@ -5,7 +5,7 @@ permalink: our-three-year-development-roadmap-published
 date: 2008-12-19 08:11:53
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["censorship circumvention", "development roadmap", "funding", "press release"]
 ---
 

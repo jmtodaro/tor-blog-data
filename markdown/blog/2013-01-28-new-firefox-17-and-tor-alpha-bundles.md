@@ -5,7 +5,7 @@ permalink: new-firefox-17-and-tor-alpha-bundles
 date: 2013-01-28 12:56:34
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "tbb", "tor", "tor alpha", "tor browser", "tor browser bundle"]
 ---
 

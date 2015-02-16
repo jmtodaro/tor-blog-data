@@ -5,7 +5,7 @@ permalink: tor-02415-rc-packages-available
 date: 2013-07-08 20:00:23
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["tbb", "tor alpha", "tor browser", "updated packages"]
 ---
 

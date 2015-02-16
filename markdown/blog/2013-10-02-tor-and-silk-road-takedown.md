@@ -5,7 +5,7 @@ permalink: tor-and-silk-road-takedown
 date: 2013-10-02 20:36:37
 author: arma
 category: blog
-status: closed
+comments: closed
 tags: ["download warnings", "fbi", "hidden services", "operational security", "silk road", "tor"]
 ---
 

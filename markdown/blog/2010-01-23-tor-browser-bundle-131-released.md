@@ -5,7 +5,7 @@ permalink: tor-browser-bundle-131-released
 date: 2010-01-23 07:53:13
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["firefox updates", "pidgin updates", "security critical", "security fixes"]
 ---
 

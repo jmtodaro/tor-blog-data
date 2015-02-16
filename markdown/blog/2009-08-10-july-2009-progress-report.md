@@ -5,7 +5,7 @@ permalink: july-2009-progress-report
 date: 2009-08-10 03:07:57
 author: phobos
 category: blog
-status: closed
+comments: closed
 tags: ["anonymity advocacy", "anonymity fixes", "bug fixes", "progress report", "security fixes", "stable releases", "tor browser bundle"]
 ---
 

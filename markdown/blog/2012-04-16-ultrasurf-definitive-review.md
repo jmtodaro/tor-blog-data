@@ -5,7 +5,7 @@ permalink: ultrasurf-definitive-review
 date: 2012-04-16 02:31:00
 author: ioerror
 category: blog
-status: closed
+comments: closed
 tags: ["research", "reverse engineering", "snakeoil", "ultrasurf"]
 ---
 

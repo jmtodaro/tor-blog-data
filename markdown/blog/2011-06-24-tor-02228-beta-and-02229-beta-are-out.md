@@ -5,7 +5,7 @@ permalink: tor-02228-beta-and-02229-beta-are-out
 date: 2011-06-24 14:22:28
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["alpha releases", "bug fixes", "tor"]
 ---
 

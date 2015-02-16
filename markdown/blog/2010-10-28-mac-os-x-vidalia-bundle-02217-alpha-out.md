@@ -5,7 +5,7 @@ permalink: mac-os-x-vidalia-bundle-02217-alpha-out
 date: 2010-10-28 03:12:37
 author: erinn
 category: blog
-status: closed
+comments: closed
 tags: ["geoip", "geoip fixes", "osx", "osx fixes", "vidalia", "vidalia bundle", "vidalia network map"]
 ---
 

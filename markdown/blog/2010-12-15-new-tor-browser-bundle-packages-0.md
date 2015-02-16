@@ -5,7 +5,7 @@ permalink: new-tor-browser-bundle-packages-0
 date: 2010-12-15 00:10:54
 author: erinn
 category: blog
-status: closed
+comments: disabled
 tags: ["bug fixes", "firefox updates", "https everywhere", "polipo", "tbb", "tor browser bundle"]
 ---
 

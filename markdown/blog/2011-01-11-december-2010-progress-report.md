@@ -5,7 +5,7 @@ permalink: december-2010-progress-report
 date: 2011-01-11 12:14:17
 author: phobos
 category: blog
-status: closed
+comments: disabled
 tags: ["new packages", "new releases", "progress report", "scalability"]
 ---
 
