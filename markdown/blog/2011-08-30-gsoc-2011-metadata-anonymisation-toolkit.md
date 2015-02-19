@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GSoC 2011: Metadata Anonymisation Toolkit"
-permalink: gsoc-2011-metadata-anonymisation-toolkit
+permalink: blog/gsoc-2011-metadata-anonymisation-toolkit
 date: 2011-08-30 10:49:25
 author: jvoisin
 category: blog

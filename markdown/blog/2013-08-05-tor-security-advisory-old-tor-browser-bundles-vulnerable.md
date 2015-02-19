@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor security advisory: Old Tor Browser Bundles vulnerable"
-permalink: tor-security-advisory-old-tor-browser-bundles-vulnerable
+permalink: blog/tor-security-advisory-old-tor-browser-bundles-vulnerable
 date: 2013-08-05 10:13:37
 author: arma
 category: blog

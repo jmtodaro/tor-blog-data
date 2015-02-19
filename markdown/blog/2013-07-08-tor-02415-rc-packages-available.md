@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.4.15-rc packages available"
-permalink: tor-02415-rc-packages-available
+permalink: blog/tor-02415-rc-packages-available
 date: 2013-07-08 20:00:23
 author: erinn
 category: blog

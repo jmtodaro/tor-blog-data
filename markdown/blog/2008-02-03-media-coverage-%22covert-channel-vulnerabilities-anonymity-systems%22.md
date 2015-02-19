@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Media coverage of \"Covert channel vulnerabilities in anonymity systems\""
-permalink: media-coverage-"covert-channel-vulnerabilities-anonymity-systems"
+permalink: blog/media-coverage-"covert-channel-vulnerabilities-anonymity-systems"
 date: 2008-02-03 18:07:14
 author: sjmurdoch
 category: blog

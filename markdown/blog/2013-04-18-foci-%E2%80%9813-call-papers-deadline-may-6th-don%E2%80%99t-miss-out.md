@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FOCI ‘13 Call for Papers (Deadline May 6th) Don’t Miss Out!"
-permalink: foci-‘13-call-papers-deadline-may-6th-don’t-miss-out
+permalink: blog/foci-‘13-call-papers-deadline-may-6th-don’t-miss-out
 date: 2013-04-18 22:21:43
 author: kelley
 category: blog

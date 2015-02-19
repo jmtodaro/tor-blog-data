@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blackout Against Copyright Overreach: Stop SOPA and PIPA"
-permalink: blackout-against-copyright-overreach-stop-sopa-and-pipa
+permalink: blog/blackout-against-copyright-overreach-stop-sopa-and-pipa
 date: 2012-01-17 14:23:39
 author: wseltzer
 category: blog

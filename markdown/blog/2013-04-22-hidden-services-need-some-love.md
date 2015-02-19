@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hidden Services need some love"
-permalink: hidden-services-need-some-love
+permalink: blog/hidden-services-need-some-love
 date: 2013-04-22 20:13:05
 author: asn
 category: blog

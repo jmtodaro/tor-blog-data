@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ways to get the Tor Browser Bundle"
-permalink: ways-get-tor-browser-bundle
+permalink: blog/ways-get-tor-browser-bundle
 date: 2014-03-29 18:29:17
 author: sukhbir
 category: blog

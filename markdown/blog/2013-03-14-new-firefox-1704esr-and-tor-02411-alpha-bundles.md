@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Firefox 17.0.4esr and Tor 0.2.4.11-alpha bundles"
-permalink: new-firefox-1704esr-and-tor-02411-alpha-bundles
+permalink: blog/new-firefox-1704esr-and-tor-02411-alpha-bundles
 date: 2013-03-14 10:18:20
 author: erinn
 category: blog

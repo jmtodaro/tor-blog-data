@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidalia: get involved!"
-permalink: vidalia-get-involved
+permalink: blog/vidalia-get-involved
 date: 2011-04-12 10:27:53
 author: chiiph
 category: blog

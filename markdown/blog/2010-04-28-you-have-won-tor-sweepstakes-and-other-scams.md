@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You have won the Tor sweepstakes and other scams"
-permalink: you-have-won-tor-sweepstakes-and-other-scams
+permalink: blog/you-have-won-tor-sweepstakes-and-other-scams
 date: 2010-04-28 09:58:10
 author: phobos
 category: blog

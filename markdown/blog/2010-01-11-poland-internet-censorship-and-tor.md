@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Poland, Internet Censorship, and Tor"
-permalink: poland-internet-censorship-and-tor
+permalink: blog/poland-internet-censorship-and-tor
 date: 2010-01-11 20:45:47
 author: phobos
 category: blog

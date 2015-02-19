@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ultrasurf: the definitive review"
-permalink: ultrasurf-definitive-review
+permalink: blog/ultrasurf-definitive-review
 date: 2012-04-16 02:31:00
 author: ioerror
 category: blog

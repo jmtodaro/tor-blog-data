@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "64-bit GNU/Linux Tor Browser Bundles updated"
-permalink: 64-bit-gnulinux-tor-browser-bundles-updated
+permalink: blog/64-bit-gnulinux-tor-browser-bundles-updated
 date: 2013-11-20 15:26:32
 author: erinn
 category: blog

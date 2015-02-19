@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser 3.6-beta-2 is released"
-permalink: tor-browser-36-beta-2-released
+permalink: blog/tor-browser-36-beta-2-released
 date: 2014-04-11 17:27:22
 author: mikeperry
 category: blog

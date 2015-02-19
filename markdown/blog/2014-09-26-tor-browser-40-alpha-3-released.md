@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser 4.0-alpha-3 is released"
-permalink: tor-browser-40-alpha-3-released
+permalink: blog/tor-browser-40-alpha-3-released
 date: 2014-09-26 03:12:14
 author: mikeperry
 category: blog

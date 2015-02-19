@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.0.30 is released as stable"
-permalink: tor-02030-released-stable
+permalink: blog/tor-02030-released-stable
 date: 2008-08-25 21:48:37
 author: phobos
 category: blog

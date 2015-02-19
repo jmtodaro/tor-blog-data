@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.1.26-stable released"
-permalink: tor-02126-stable-released
+permalink: blog/tor-02126-stable-released
 date: 2010-06-09 22:18:21
 author: phobos
 category: blog

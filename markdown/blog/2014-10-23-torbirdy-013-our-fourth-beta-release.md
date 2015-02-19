@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TorBirdy 0.1.3 -- Our fourth beta release!"
-permalink: torbirdy-013-our-fourth-beta-release
+permalink: blog/torbirdy-013-our-fourth-beta-release
 date: 2014-10-23 10:16:28
 author: sukhbir
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidalia Logo Design Contest"
-permalink: vidalia-logo-design-contest
+permalink: blog/vidalia-logo-design-contest
 date: 2008-08-15 19:39:06
 author: Anonymous
 category: blog

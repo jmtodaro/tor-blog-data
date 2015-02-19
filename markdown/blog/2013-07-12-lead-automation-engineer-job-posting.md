@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lead Automation Engineer Job Posting"
-permalink: lead-automation-engineer-job-posting
+permalink: blog/lead-automation-engineer-job-posting
 date: 2013-07-12 16:18:25
 author: mikeperry
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tails 0.9 Released"
-permalink: tails-09-released
+permalink: blog/tails-09-released
 date: 2011-11-15 22:31:18
 author: phobos
 category: blog

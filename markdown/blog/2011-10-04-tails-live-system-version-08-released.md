@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tails Live System version 0.8 released"
-permalink: tails-live-system-version-08-released
+permalink: blog/tails-live-system-version-08-released
 date: 2011-10-04 08:52:43
 author: phobos
 category: blog

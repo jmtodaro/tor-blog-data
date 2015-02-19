@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.1.16-rc Release Candidate now available"
-permalink: tor-02116rc-release-candidate-now-available
+permalink: blog/tor-02116rc-release-candidate-now-available
 date: 2009-06-24 09:32:45
 author: phobos
 category: blog

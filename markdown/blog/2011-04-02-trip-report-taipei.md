@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trip report: Taipei"
-permalink: trip-report-taipei
+permalink: blog/trip-report-taipei
 date: 2011-04-02 03:00:01
 author: arma
 category: blog

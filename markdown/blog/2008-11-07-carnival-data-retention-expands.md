@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The carnival of data retention expands"
-permalink: carnival-data-retention-expands
+permalink: blog/carnival-data-retention-expands
 date: 2008-11-07 18:13:27
 author: phobos
 category: blog

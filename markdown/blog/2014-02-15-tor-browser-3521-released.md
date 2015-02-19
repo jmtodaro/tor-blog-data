@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser 3.5.2.1 is released"
-permalink: tor-browser-3521-released
+permalink: blog/tor-browser-3521-released
 date: 2014-02-15 08:32:05
 author: mikeperry
 category: blog

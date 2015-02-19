@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.2.11-alpha and 0.2.2.12-alpha are out"
-permalink: tor-02211-alpha-and-02212-alpha-are-out
+permalink: blog/tor-02211-alpha-and-02212-alpha-are-out
 date: 2010-04-23 22:26:03
 author: phobos
 category: blog

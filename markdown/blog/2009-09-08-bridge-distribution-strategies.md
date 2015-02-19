@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KAIST freshmen working on bridge distribution strategies"
-permalink: bridge-distribution-strategies
+permalink: blog/bridge-distribution-strategies
 date: 2009-09-08 19:15:58
 author: arma
 category: blog

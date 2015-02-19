@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anonymous Publishing and Risking Execution"
-permalink: anonymous-publishing-and-risking-execution
+permalink: blog/anonymous-publishing-and-risking-execution
 date: 2008-06-01 08:01:52
 author: phobos
 category: blog

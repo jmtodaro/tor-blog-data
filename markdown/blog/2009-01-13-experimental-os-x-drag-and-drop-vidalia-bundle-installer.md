@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Experimental OS X Drag and Drop Vidalia Bundle Installer"
-permalink: experimental-os-x-drag-and-drop-vidalia-bundle-installer
+permalink: blog/experimental-os-x-drag-and-drop-vidalia-bundle-installer
 date: 2009-01-13 11:26:22
 author: phobos
 category: blog

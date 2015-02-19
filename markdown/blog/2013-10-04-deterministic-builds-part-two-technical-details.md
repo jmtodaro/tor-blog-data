@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deterministic Builds Part Two: Technical Details"
-permalink: deterministic-builds-part-two-technical-details
+permalink: blog/deterministic-builds-part-two-technical-details
 date: 2013-10-04 13:30:25
 author: mikeperry
 category: blog

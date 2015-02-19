@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apple workaround for openssl issues on OS X 10.5 and 10.6"
-permalink: apple-workaround-openssl-issues-os-x-105-and-106
+permalink: blog/apple-workaround-openssl-issues-os-x-105-and-106
 date: 2010-01-31 22:10:14
 author: phobos
 category: blog

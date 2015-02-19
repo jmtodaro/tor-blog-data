@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog problems"
-permalink: blog-problems
+permalink: blog/blog-problems
 date: 2010-03-14 08:54:00
 author: phobos
 category: blog

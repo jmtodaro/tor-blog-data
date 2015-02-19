@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Time for a Directory Authority outside US/EU"
-permalink: time-directory-authority-outside-useu
+permalink: blog/time-directory-authority-outside-useu
 date: 2009-07-10 22:03:51
 author: phobos
 category: blog

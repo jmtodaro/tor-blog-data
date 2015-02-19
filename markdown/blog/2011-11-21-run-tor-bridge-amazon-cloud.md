@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Run Tor as a bridge in the Amazon Cloud"
-permalink: run-tor-bridge-amazon-cloud
+permalink: blog/run-tor-bridge-amazon-cloud
 date: 2011-11-21 06:09:46
 author: Runa
 category: blog

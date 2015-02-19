@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Debian OpenSSL flaw: what does it mean for Tor clients?"
-permalink: debian-openssl-flaw:-what-does-it-mean-tor-clients?
+permalink: blog/debian-openssl-flaw:-what-does-it-mean-tor-clients?
 date: 2008-05-13 20:22:24
 author: arma
 category: blog

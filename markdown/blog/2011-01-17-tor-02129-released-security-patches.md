@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.1.29 is released (security patches)"
-permalink: tor-02129-released-security-patches
+permalink: blog/tor-02129-released-security-patches
 date: 2011-01-17 11:21:36
 author: erinn
 category: blog

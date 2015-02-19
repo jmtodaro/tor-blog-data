@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser Bundle for Windows 1.3.9 Released"
-permalink: tor-browser-bundle-windows-139-released
+permalink: blog/tor-browser-bundle-windows-139-released
 date: 2010-07-30 19:58:14
 author: phobos
 category: blog

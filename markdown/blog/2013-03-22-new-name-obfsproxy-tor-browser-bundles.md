@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Name for Obfsproxy Tor Browser Bundles"
-permalink: new-name-obfsproxy-tor-browser-bundles
+permalink: blog/new-name-obfsproxy-tor-browser-bundles
 date: 2013-03-22 17:55:14
 author: asn
 category: blog

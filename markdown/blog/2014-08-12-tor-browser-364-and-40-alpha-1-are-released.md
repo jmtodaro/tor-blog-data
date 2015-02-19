@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser 3.6.4 and 4.0-alpha-1 are released"
-permalink: tor-browser-364-and-40-alpha-1-are-released
+permalink: blog/tor-browser-364-and-40-alpha-1-are-released
 date: 2014-08-12 16:48:07
 author: erinn
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rumors of Tor&#039;s compromise are greatly exaggerated"
-permalink: rumors-tors-compromise-are-greatly-exaggerated
+permalink: blog/rumors-tors-compromise-are-greatly-exaggerated
 date: 2011-10-24 22:36:33
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New packages with OpenSSL updates"
-permalink: new-packages-openssl-updates
+permalink: blog/new-packages-openssl-updates
 date: 2012-01-05 12:42:06
 author: erinn
 category: blog

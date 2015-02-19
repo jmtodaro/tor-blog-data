@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.2.14-alpha released"
-permalink: tor-02214-alpha-released
+permalink: blog/tor-02214-alpha-released
 date: 2010-07-19 04:30:14
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.2.18-alpha available"
-permalink: tor-02218-alpha-available
+permalink: blog/tor-02218-alpha-available
 date: 2010-11-17 17:30:21
 author: phobos
 category: blog

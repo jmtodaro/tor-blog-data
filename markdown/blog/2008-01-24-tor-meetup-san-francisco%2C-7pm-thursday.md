@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor meetup in San Francisco, 7pm this Thursday"
-permalink: tor-meetup-san-francisco,-7pm-thursday
+permalink: blog/tor-meetup-san-francisco,-7pm-thursday
 date: 2008-01-24 00:02:18
 author: nickm
 category: blog

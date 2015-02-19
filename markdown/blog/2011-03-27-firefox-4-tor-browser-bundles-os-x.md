@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Firefox 4 Tor Browser Bundles for OS X"
-permalink: firefox-4-tor-browser-bundles-os-x
+permalink: blog/firefox-4-tor-browser-bundles-os-x
 date: 2011-03-27 18:07:00
 author: erinn
 category: blog

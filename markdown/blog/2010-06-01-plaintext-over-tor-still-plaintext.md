@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plaintext over Tor is still plaintext"
-permalink: plaintext-over-tor-still-plaintext
+permalink: blog/plaintext-over-tor-still-plaintext
 date: 2010-06-01 21:36:41
 author: phobos
 category: blog

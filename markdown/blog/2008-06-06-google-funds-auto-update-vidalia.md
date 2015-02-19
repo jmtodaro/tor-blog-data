@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google funds an auto-update for Vidalia"
-permalink: google-funds-auto-update-vidalia
+permalink: blog/google-funds-auto-update-vidalia
 date: 2008-06-06 21:13:30
 author: phobos
 category: blog

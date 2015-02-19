@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor&#039;s Response to Prism Surveillance Program"
-permalink: tors-response-prism-surveillance-program
+permalink: blog/tors-response-prism-surveillance-program
 date: 2013-06-10 20:02:36
 author: kelley
 category: blog

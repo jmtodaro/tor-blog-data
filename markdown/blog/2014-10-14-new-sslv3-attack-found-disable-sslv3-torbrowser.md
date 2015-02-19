@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New SSLv3 attack found: Disable SSLv3 in TorBrowser"
-permalink: new-sslv3-attack-found-disable-sslv3-torbrowser
+permalink: blog/new-sslv3-attack-found-disable-sslv3-torbrowser
 date: 2014-10-14 21:16:03
 author: nickm
 category: blog

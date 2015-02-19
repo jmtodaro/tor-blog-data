@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Knock Knock Knockin&#039; on Bridges&#039; Doors"
-permalink: knock-knock-knockin-bridges-doors
+permalink: blog/knock-knock-knockin-bridges-doors
 date: 2012-01-07 16:44:51
 author: twilde
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Tor Cloud images with obfs3"
-permalink: new-tor-cloud-images-obfs3
+permalink: blog/new-tor-cloud-images-obfs3
 date: 2013-04-13 18:14:32
 author: Runa
 category: blog

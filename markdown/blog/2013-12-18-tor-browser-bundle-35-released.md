@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser Bundle 3.5 is released"
-permalink: tor-browser-bundle-35-released
+permalink: blog/tor-browser-bundle-35-released
 date: 2013-12-18 20:05:42
 author: mikeperry
 category: blog

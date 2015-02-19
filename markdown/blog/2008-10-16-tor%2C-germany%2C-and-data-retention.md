@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor, Germany, and Data Retention"
-permalink: tor,-germany,-and-data-retention
+permalink: blog/tor,-germany,-and-data-retention
 date: 2008-10-16 22:09:57
 author: arma
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A closer look at the Great Firewall of China"
-permalink: closer-look-great-firewall-china
+permalink: blog/closer-look-great-firewall-china
 date: 2014-10-06 15:43:54
 author: phw
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advisory: remote DoS when using Tor with recent OpenSSL versions built with the \"no-ssl3\" option"
-permalink: advisory-remote-dos-when-using-tor-recent-openssl-versions-built-no-ssl3-option
+permalink: blog/advisory-remote-dos-when-using-tor-recent-openssl-versions-built-no-ssl3-option
 date: 2014-10-20 22:01:47
 author: phoul
 category: blog

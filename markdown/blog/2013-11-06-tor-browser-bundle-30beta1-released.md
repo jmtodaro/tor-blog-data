@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser Bundle 3.0beta1 Released"
-permalink: tor-browser-bundle-30beta1-released
+permalink: blog/tor-browser-bundle-30beta1-released
 date: 2013-11-06 15:39:25
 author: mikeperry
 category: blog

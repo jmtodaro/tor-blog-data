@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.2.15-alpha released"
-permalink: tor-02215-alpha-released
+permalink: blog/tor-02215-alpha-released
 date: 2010-08-23 03:44:28
 author: erinn
 category: blog

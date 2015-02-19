@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing Tor Reports"
-permalink: announcing-tor-reports
+permalink: blog/announcing-tor-reports
 date: 2012-07-15 19:41:54
 author: phobos
 category: blog

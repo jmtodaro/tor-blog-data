@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Tor Project is in Google Summer of Code 2008!"
-permalink: tor-project-google-summer-code-2008!
+permalink: blog/tor-project-google-summer-code-2008!
 date: 2008-03-18 11:42:29
 author: nickm
 category: blog

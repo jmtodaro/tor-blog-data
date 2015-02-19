@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "July 2009 Progress Report"
-permalink: july-2009-progress-report
+permalink: blog/july-2009-progress-report
 date: 2009-08-10 03:07:57
 author: phobos
 category: blog

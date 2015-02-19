@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stem Release 1.1"
-permalink: stem-release-11
+permalink: blog/stem-release-11
 date: 2013-10-14 11:13:57
 author: atagar
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Major changes to OS X Vidalia Bundle with 0.2.2.1-alpha"
-permalink: major-changes-os-x-vidalia-bundle-0221alpha
+permalink: blog/major-changes-os-x-vidalia-bundle-0221alpha
 date: 2009-09-02 20:15:42
 author: phobos
 category: blog

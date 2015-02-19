@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor and the BEAST SSL attack"
-permalink: tor-and-beast-ssl-attack
+permalink: blog/tor-and-beast-ssl-attack
 date: 2011-09-23 19:14:02
 author: nickm
 category: blog

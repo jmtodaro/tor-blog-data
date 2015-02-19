@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jacob and Matt join the Tor Project"
-permalink: jacob-and-matt-join-tor-project
+permalink: blog/jacob-and-matt-join-tor-project
 date: 2008-05-29 15:36:47
 author: phobos
 category: blog

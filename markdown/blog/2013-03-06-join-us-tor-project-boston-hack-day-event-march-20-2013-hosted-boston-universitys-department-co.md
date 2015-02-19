@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JOIN US - Tor Project Boston Hack Day Event - March 20, 2013 - Hosted by Boston University&#039;s Department of Computer Science"
-permalink: join-us-tor-project-boston-hack-day-event-march-20-2013-hosted-boston-universitys-department-co
+permalink: blog/join-us-tor-project-boston-hack-day-event-march-20-2013-hosted-boston-universitys-department-co
 date: 2013-03-06 18:01:53
 author: kelley
 category: blog

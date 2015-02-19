@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.2.28-beta and 0.2.2.29-beta are out"
-permalink: tor-02228-beta-and-02229-beta-are-out
+permalink: blog/tor-02228-beta-and-02229-beta-are-out
 date: 2011-06-24 14:22:28
 author: erinn
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser 3.6 is released"
-permalink: tor-browser-36-released
+permalink: blog/tor-browser-36-released
 date: 2014-04-29 10:07:34
 author: mikeperry
 category: blog

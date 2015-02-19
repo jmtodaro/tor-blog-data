@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Net Freedom, Secretary Clinton, and Tor"
-permalink: net-freedom-secretary-clinton-and-tor
+permalink: blog/net-freedom-secretary-clinton-and-tor
 date: 2010-01-23 00:04:34
 author: phobos
 category: blog

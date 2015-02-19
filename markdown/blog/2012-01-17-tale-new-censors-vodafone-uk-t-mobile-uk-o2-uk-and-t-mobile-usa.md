@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A tale of new censors - Vodafone UK, T-Mobile UK, O2 UK, and T-Mobile USA"
-permalink: tale-new-censors-vodafone-uk-t-mobile-uk-o2-uk-and-t-mobile-usa
+permalink: blog/tale-new-censors-vodafone-uk-t-mobile-uk-o2-uk-and-t-mobile-usa
 date: 2012-01-17 19:20:50
 author: ioerror
 category: blog

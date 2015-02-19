@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Torbutton 1.4.1 Released"
-permalink: torbutton-141-released
+permalink: blog/torbutton-141-released
 date: 2011-08-28 21:41:51
 author: mikeperry
 category: blog

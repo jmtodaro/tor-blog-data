@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trip report, UCSD"
-permalink: trip-report-ucsd
+permalink: blog/trip-report-ucsd
 date: 2010-08-28 01:11:08
 author: arma
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Updates on Tor 0.2.0.32 for OS X Users"
-permalink: updates-tor-0.2.0.32-os-x-users
+permalink: blog/updates-tor-0.2.0.32-os-x-users
 date: 2008-12-04 21:48:00
 author: phobos
 category: blog

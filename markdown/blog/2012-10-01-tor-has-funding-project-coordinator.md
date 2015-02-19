@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor has funding for a project coordinator"
-permalink: tor-has-funding-project-coordinator
+permalink: blog/tor-has-funding-project-coordinator
 date: 2012-10-01 10:22:32
 author: arma
 category: blog

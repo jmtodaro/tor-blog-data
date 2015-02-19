@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In praise of multiple options for circumvention"
-permalink: praise-multiple-options-circumvention
+permalink: blog/praise-multiple-options-circumvention
 date: 2009-02-16 19:31:16
 author: phobos
 category: blog

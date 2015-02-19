@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New PPC packages available"
-permalink: new-ppc-packages-available
+permalink: blog/new-ppc-packages-available
 date: 2011-01-10 13:14:14
 author: erinn
 category: blog

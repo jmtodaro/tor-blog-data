@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Tor Browser Bundles with Firefox 17.0.11esr and Tor 0.2.4.18-rc"
-permalink: new-tor-browser-bundles-firefox-17011esr-and-tor-02418-rc
+permalink: blog/new-tor-browser-bundles-firefox-17011esr-and-tor-02418-rc
 date: 2013-11-19 13:28:36
 author: erinn
 category: blog

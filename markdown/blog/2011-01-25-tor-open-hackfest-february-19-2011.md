@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Open Hackfest: February 19, 2011"
-permalink: tor-open-hackfest-february-19-2011
+permalink: blog/tor-open-hackfest-february-19-2011
 date: 2011-01-25 13:19:07
 author: phobos
 category: blog

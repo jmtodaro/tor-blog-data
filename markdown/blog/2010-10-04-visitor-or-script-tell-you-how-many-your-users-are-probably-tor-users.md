@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VisiTor - or: a script to tell you how many of your users are probably Tor users"
-permalink: visitor-or-script-tell-you-how-many-your-users-are-probably-tor-users
+permalink: blog/visitor-or-script-tell-you-how-many-your-users-are-probably-tor-users
 date: 2010-10-04 02:10:54
 author: karsten
 category: blog

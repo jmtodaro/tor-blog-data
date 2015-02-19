@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technology Preview:  Bridge by default for Microsoft Windows clients"
-permalink: technology-preview-bridge-default-microsoft-windows-clients
+permalink: blog/technology-preview-bridge-default-microsoft-windows-clients
 date: 2010-06-06 16:25:38
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Website translation support for translation.torproject.org"
-permalink: website-translation-support-translationtorprojectorg
+permalink: blog/website-translation-support-translationtorprojectorg
 date: 2009-09-20 11:45:56
 author: Runa
 category: blog

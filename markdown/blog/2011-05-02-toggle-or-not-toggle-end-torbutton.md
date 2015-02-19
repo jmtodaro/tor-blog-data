@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "To Toggle, or not to Toggle: The End of Torbutton"
-permalink: toggle-or-not-toggle-end-torbutton
+permalink: blog/toggle-or-not-toggle-end-torbutton
 date: 2011-05-02 04:52:04
 author: mikeperry
 category: blog

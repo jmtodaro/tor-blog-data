@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thanks to Shinjiru"
-permalink: thanks-shinjiru
+permalink: blog/thanks-shinjiru
 date: 2009-11-29 09:01:43
 author: phobos
 category: blog

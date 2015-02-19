@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Facebook and Tor"
-permalink: facebook-and-tor
+permalink: blog/facebook-and-tor
 date: 2013-06-18 10:10:50
 author: Runa
 category: blog

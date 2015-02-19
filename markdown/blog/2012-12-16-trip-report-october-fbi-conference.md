@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trip report, October FBI conference"
-permalink: trip-report-october-fbi-conference
+permalink: blog/trip-report-october-fbi-conference
 date: 2012-12-16 04:00:00
 author: arma
 category: blog

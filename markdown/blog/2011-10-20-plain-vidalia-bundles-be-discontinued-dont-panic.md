@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plain Vidalia Bundles to be Discontinued (Don&#039;t Panic!)"
-permalink: plain-vidalia-bundles-be-discontinued-dont-panic
+permalink: blog/plain-vidalia-bundles-be-discontinued-dont-panic
 date: 2011-10-20 11:32:13
 author: erinn
 category: blog

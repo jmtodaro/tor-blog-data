@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading links, 15 April"
-permalink: reading-links-15-april
+permalink: blog/reading-links-15-april
 date: 2011-04-15 22:47:50
 author: phobos
 category: blog

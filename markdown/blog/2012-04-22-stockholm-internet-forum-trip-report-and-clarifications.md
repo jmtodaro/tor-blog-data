@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stockholm Internet Forum Trip Report and Clarifications"
-permalink: stockholm-internet-forum-trip-report-and-clarifications
+permalink: blog/stockholm-internet-forum-trip-report-and-clarifications
 date: 2012-04-22 10:08:31
 author: phobos
 category: blog

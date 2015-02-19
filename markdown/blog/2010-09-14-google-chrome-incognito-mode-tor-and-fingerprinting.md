@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Chrome Incognito Mode, Tor, and Fingerprinting"
-permalink: google-chrome-incognito-mode-tor-and-fingerprinting
+permalink: blog/google-chrome-incognito-mode-tor-and-fingerprinting
 date: 2010-09-14 09:08:02
 author: mikeperry
 category: blog

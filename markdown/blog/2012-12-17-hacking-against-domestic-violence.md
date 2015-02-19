@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hacking Against Domestic Violence"
-permalink: hacking-against-domestic-violence
+permalink: blog/hacking-against-domestic-violence
 date: 2012-12-17 19:48:52
 author: phobos
 category: blog

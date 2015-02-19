@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Security critical Tor-0.2.0.26-rc released"
-permalink: security-critical-tor-0.2.0.26-rc-released
+permalink: blog/security-critical-tor-0.2.0.26-rc-released
 date: 2008-05-13 11:38:48
 author: phobos
 category: blog

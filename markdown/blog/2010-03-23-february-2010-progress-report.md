@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "February 2010 Progress Report"
-permalink: february-2010-progress-report
+permalink: blog/february-2010-progress-report
 date: 2010-03-23 20:26:36
 author: phobos
 category: blog

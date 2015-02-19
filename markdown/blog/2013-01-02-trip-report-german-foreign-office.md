@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trip report, German Foreign Office"
-permalink: trip-report-german-foreign-office
+permalink: blog/trip-report-german-foreign-office
 date: 2013-01-02 07:26:38
 author: arma
 category: blog

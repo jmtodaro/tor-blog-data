@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing Tor Browser Bundle 3.0alpha1"
-permalink: announcing-tor-browser-bundle-30alpha1
+permalink: blog/announcing-tor-browser-bundle-30alpha1
 date: 2013-06-17 15:18:16
 author: mikeperry
 category: blog

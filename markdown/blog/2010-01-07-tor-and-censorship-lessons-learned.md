@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor and Censorship:  lessons learned"
-permalink: tor-and-censorship-lessons-learned
+permalink: blog/tor-and-censorship-lessons-learned
 date: 2010-01-07 20:45:13
 author: phobos
 category: blog

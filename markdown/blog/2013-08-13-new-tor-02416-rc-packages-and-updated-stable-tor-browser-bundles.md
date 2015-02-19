@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Tor 0.2.4.16-rc packages and updated stable Tor Browser Bundles"
-permalink: new-tor-02416-rc-packages-and-updated-stable-tor-browser-bundles
+permalink: blog/new-tor-02416-rc-packages-and-updated-stable-tor-browser-bundles
 date: 2013-08-13 03:51:59
 author: erinn
 category: blog

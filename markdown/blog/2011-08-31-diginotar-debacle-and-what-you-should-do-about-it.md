@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The DigiNotar Debacle, and what you should do about it"
-permalink: diginotar-debacle-and-what-you-should-do-about-it
+permalink: blog/diginotar-debacle-and-what-you-should-do-about-it
 date: 2011-08-31 21:11:32
 author: ioerror
 category: blog

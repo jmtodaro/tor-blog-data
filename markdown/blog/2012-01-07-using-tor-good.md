@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using Tor hidden services for good"
-permalink: using-tor-good
+permalink: blog/using-tor-good
 date: 2012-01-07 23:35:36
 author: phobos
 category: blog

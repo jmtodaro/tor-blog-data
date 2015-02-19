@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Tor Browser Bundles released"
-permalink: new-tor-browser-bundles-released
+permalink: blog/new-tor-browser-bundles-released
 date: 2010-10-28 01:23:06
 author: erinn
 category: blog
