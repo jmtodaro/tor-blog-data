@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Tor Browser Bundles with Firefox 17.0.6esr"
-permalink: blog/new-tor-browser-bundles-firefox-1706esr
+permalink: new-tor-browser-bundles-firefox-1706esr
 date: 2013-05-14 07:34:05
 author: erinn
 category: blog

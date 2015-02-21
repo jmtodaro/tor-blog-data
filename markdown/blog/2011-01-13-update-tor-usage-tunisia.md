@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Update on Tor usage in Tunisia"
-permalink: blog/update-tor-usage-tunisia
+permalink: update-tor-usage-tunisia
 date: 2011-01-13 21:54:20
 author: phobos
 category: blog

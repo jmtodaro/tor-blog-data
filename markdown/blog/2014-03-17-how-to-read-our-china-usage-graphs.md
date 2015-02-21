@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to read our China usage graphs"
-permalink: blog/how-to-read-our-china-usage-graphs
+permalink: how-to-read-our-china-usage-graphs
 date: 2014-03-17 04:48:23
 author: arma
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Polipo changes maintainer"
-permalink: blog/polipo-changes-maintainer
+permalink: polipo-changes-maintainer
 date: 2009-12-11 16:02:36
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On being targeted by the NSA"
-permalink: blog/being-targeted-nsa
+permalink: being-targeted-nsa
 date: 2014-07-03 18:44:16
 author: phobos
 category: blog

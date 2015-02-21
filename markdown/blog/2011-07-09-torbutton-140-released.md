@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Torbutton 1.4.0 Released"
-permalink: blog/torbutton-140-released
+permalink: torbutton-140-released
 date: 2011-07-09 17:39:06
 author: phobos
 category: blog

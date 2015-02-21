@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TorBrowser 1.0.1!"
-permalink: blog/torbrowser-1.0.1!
+permalink: torbrowser-1.0.1!
 date: 2008-04-11 21:03:50
 author: phobos
 category: blog

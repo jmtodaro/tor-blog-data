@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recent events in Egypt"
-permalink: blog/recent-events-egypt
+permalink: recent-events-egypt
 date: 2011-01-29 17:54:45
 author: ioerror
 category: blog

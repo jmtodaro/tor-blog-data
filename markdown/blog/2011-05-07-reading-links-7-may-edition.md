@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading links, 7 May edition"
-permalink: blog/reading-links-7-may-edition
+permalink: reading-links-7-may-edition
 date: 2011-05-07 07:51:29
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Update on Internet censorship in Iran"
-permalink: blog/update-internet-censorship-iran
+permalink: update-internet-censorship-iran
 date: 2011-01-21 02:11:28
 author: phobos
 category: blog

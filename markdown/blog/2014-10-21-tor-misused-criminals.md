@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor misused by criminals"
-permalink: blog/tor-misused-criminals
+permalink: tor-misused-criminals
 date: 2014-10-21 11:30:20
 author: phobos
 category: blog

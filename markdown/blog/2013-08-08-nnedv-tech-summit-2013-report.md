@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NNEDV Tech Summit 2013 Report"
-permalink: blog/nnedv-tech-summit-2013-report
+permalink: nnedv-tech-summit-2013-report
 date: 2013-08-08 10:06:43
 author: phobos
 category: blog

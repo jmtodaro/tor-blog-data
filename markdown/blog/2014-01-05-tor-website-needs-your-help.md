@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor website needs your help!"
-permalink: blog/tor-website-needs-your-help
+permalink: tor-website-needs-your-help
 date: 2014-01-05 18:08:34
 author: lunar
 category: blog

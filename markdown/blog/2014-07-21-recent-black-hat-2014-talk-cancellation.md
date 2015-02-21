@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the recent Black Hat 2014 Talk Cancellation"
-permalink: blog/recent-black-hat-2014-talk-cancellation
+permalink: recent-black-hat-2014-talk-cancellation
 date: 2014-07-21 17:41:21
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidalia 0.2.12 is released"
-permalink: blog/vidalia-0212-released
+permalink: vidalia-0212-released
 date: 2011-04-12 21:13:44
 author: erinn
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Whither website translations"
-permalink: blog/whither-website-translations
+permalink: whither-website-translations
 date: 2011-09-28 08:34:25
 author: phobos
 category: blog

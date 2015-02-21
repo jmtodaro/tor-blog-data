@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.2.20-alpha is out (security patches)"
-permalink: blog/tor-02220-alpha-out-security-patches
+permalink: tor-02220-alpha-out-security-patches
 date: 2010-12-20 11:10:39
 author: phobos
 category: blog

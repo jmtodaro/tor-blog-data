@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser Bundle 1.2.5 and 1.2.6 released"
-permalink: blog/tor-browser-bundle-125-and-126-released
+permalink: tor-browser-bundle-125-and-126-released
 date: 2009-08-06 01:51:22
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lots of new Tor packages"
-permalink: blog/lots-new-tor-packages
+permalink: lots-new-tor-packages
 date: 2011-01-17 12:36:38
 author: erinn
 category: blog

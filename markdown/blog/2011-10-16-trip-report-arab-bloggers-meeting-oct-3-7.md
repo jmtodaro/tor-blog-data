@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trip report, Arab Bloggers Meeting, Oct 3-7"
-permalink: blog/trip-report-arab-bloggers-meeting-oct-3-7
+permalink: trip-report-arab-bloggers-meeting-oct-3-7
 date: 2011-10-16 16:51:18
 author: arma
 category: blog

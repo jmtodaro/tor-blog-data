@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Summer of Code 2008 review"
-permalink: blog/google-summer-code-2008-review
+permalink: google-summer-code-2008-review
 date: 2009-03-09 06:48:11
 author: Sebastian
 category: blog

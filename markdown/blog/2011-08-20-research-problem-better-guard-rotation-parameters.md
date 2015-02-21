@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Research problem: better guard rotation parameters"
-permalink: blog/research-problem-better-guard-rotation-parameters
+permalink: research-problem-better-guard-rotation-parameters
 date: 2011-08-20 13:22:07
 author: arma
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A seminar at Salzburg Global"
-permalink: blog/seminar-salzburg-global
+permalink: seminar-salzburg-global
 date: 2009-10-08 03:27:01
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stockholm May 2014 Trip Report"
-permalink: blog/stockholm-may-2014-trip-report
+permalink: stockholm-may-2014-trip-report
 date: 2014-05-30 15:40:49
 author: phobos
 category: blog

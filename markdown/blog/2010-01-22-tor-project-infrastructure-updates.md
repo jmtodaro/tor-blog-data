@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Project infrastructure updates"
-permalink: blog/tor-project-infrastructure-updates
+permalink: tor-project-infrastructure-updates
 date: 2010-01-22 10:51:45
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tips for Running an Exit Node with Minimal Harassment"
-permalink: blog/tips-running-exit-node-minimal-harassment
+permalink: tips-running-exit-node-minimal-harassment
 date: 2010-06-30 19:08:08
 author: mikeperry
 category: blog

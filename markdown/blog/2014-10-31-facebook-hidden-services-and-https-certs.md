@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Facebook, hidden services, and https certs"
-permalink: blog/facebook-hidden-services-and-https-certs
+permalink: facebook-hidden-services-and-https-certs
 date: 2014-10-31 20:09:20
 author: arma
 category: blog

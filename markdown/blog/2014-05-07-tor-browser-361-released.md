@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser 3.6.1 is released"
-permalink: blog/tor-browser-361-released
+permalink: tor-browser-361-released
 date: 2014-05-07 08:45:09
 author: mikeperry
 category: blog

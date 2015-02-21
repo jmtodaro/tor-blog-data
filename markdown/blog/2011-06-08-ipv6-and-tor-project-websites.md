@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IPv6 and Tor Project Websites"
-permalink: blog/ipv6-and-tor-project-websites
+permalink: ipv6-and-tor-project-websites
 date: 2011-06-08 06:48:13
 author: phobos
 category: blog

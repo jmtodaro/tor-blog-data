@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor on Android"
-permalink: blog/tor-android
+permalink: tor-android
 date: 2010-03-04 08:18:26
 author: ioerror
 category: blog

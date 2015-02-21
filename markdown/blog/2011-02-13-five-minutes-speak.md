@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "five minutes to speak"
-permalink: blog/five-minutes-speak
+permalink: five-minutes-speak
 date: 2011-02-13 09:52:43
 author: phobos
 category: blog

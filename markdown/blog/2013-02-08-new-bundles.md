@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Bundles"
-permalink: blog/new-bundles
+permalink: new-bundles
 date: 2013-02-08 08:24:59
 author: erinn
 category: blog

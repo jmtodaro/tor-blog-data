@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JOIN US - Tor Hack Day, Munich, Germany"
-permalink: blog/join-us-tor-hack-day-munich-germany
+permalink: join-us-tor-hack-day-munich-germany
 date: 2013-07-08 14:59:54
 author: kelley
 category: blog

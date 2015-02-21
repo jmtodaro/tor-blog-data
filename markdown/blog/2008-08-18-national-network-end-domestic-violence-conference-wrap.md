@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "National Network to End Domestic Violence Conference Wrap-up"
-permalink: blog/national-network-end-domestic-violence-conference-wrap
+permalink: national-network-end-domestic-violence-conference-wrap
 date: 2008-08-18 21:19:17
 author: phobos
 category: blog

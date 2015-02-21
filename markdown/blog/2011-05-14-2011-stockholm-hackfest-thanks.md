@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2011 Stockholm Hackfest Thanks"
-permalink: blog/2011-stockholm-hackfest-thanks
+permalink: 2011-stockholm-hackfest-thanks
 date: 2011-05-14 17:22:48
 author: phobos
 category: blog

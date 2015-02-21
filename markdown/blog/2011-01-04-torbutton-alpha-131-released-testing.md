@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Torbutton-alpha 1.3.1 released for testing"
-permalink: blog/torbutton-alpha-131-released-testing
+permalink: torbutton-alpha-131-released-testing
 date: 2011-01-04 18:05:46
 author: phobos
 category: blog

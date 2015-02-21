@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Incognito and The Tor Project sign a licensing agreement"
-permalink: blog/incognito-and-tor-project-sign-licensing-agreement
+permalink: incognito-and-tor-project-sign-licensing-agreement
 date: 2008-06-27 16:42:44
 author: phobos
 category: blog

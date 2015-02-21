@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Measuring Tunisian Tor Usage"
-permalink: blog/measuring-tunisian-tor-usage
+permalink: measuring-tunisian-tor-usage
 date: 2011-01-06 21:28:34
 author: phobos
 category: blog

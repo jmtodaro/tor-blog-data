@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Commit Movie of our Website"
-permalink: blog/code-commit-movie-our-website
+permalink: code-commit-movie-our-website
 date: 2011-05-08 08:11:06
 author: phobos
 category: blog

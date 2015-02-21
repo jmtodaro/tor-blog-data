@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor-related research positions at the University of Waterloo"
-permalink: blog/tor-related-research-positions-university-waterloo
+permalink: tor-related-research-positions-university-waterloo
 date: 2010-05-13 14:25:58
 author: ian
 category: blog

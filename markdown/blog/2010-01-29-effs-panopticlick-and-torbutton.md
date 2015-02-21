@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EFF&#039;s Panopticlick and Torbutton"
-permalink: blog/effs-panopticlick-and-torbutton
+permalink: effs-panopticlick-and-torbutton
 date: 2010-01-29 12:43:06
 author: mikeperry
 category: blog

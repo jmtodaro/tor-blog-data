@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EFF and Tor in Google Summer of Code 2009"
-permalink: blog/eff-and-tor-google-summer-code-2009
+permalink: eff-and-tor-google-summer-code-2009
 date: 2009-03-20 21:30:25
 author: karsten
 category: blog

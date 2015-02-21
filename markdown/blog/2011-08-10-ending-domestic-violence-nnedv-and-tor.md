@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ending domestic violence, NNEDV, and Tor"
-permalink: blog/ending-domestic-violence-nnedv-and-tor
+permalink: ending-domestic-violence-nnedv-and-tor
 date: 2011-08-10 15:01:55
 author: phobos
 category: blog

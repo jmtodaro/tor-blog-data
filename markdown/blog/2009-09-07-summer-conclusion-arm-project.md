@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Conclusion (ARM Project)"
-permalink: blog/summer-conclusion-arm-project
+permalink: summer-conclusion-arm-project
 date: 2009-09-07 14:46:06
 author: atagar
 category: blog

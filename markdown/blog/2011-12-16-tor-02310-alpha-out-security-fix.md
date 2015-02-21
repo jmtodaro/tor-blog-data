@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.3.10-alpha is out (security fix)"
-permalink: blog/tor-02310-alpha-out-security-fix
+permalink: tor-02310-alpha-out-security-fix
 date: 2011-12-16 13:47:50
 author: erinn
 category: blog

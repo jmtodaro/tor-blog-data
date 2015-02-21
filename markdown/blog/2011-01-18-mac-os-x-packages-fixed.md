@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mac OS X packages fixed"
-permalink: blog/mac-os-x-packages-fixed
+permalink: mac-os-x-packages-fixed
 date: 2011-01-18 13:59:20
 author: erinn
 category: blog

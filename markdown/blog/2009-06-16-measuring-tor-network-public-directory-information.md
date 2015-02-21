@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Measuring the Tor Network from Public Directory Information"
-permalink: blog/measuring-tor-network-public-directory-information
+permalink: measuring-tor-network-public-directory-information
 date: 2009-06-16 13:25:31
 author: karsten
 category: blog

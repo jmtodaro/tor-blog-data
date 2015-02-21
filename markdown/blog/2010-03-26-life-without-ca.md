@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Life without a CA"
-permalink: blog/life-without-ca
+permalink: life-without-ca
 date: 2010-03-26 14:43:01
 author: phobos
 category: blog

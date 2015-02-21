@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Firefox 3.6 Tor Browser Bundles"
-permalink: blog/new-firefox-36-tor-browser-bundles
+permalink: new-firefox-36-tor-browser-bundles
 date: 2011-08-20 21:12:02
 author: rransom
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.1.18 and 0.2.1.19 released as stable"
-permalink: blog/tor-02118-and-02119-released-stable
+permalink: tor-02118-and-02119-released-stable
 date: 2009-08-06 01:44:33
 author: phobos
 category: blog

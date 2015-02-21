@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Start of a Tor Legal Support Directory"
-permalink: blog/start-tor-legal-support-directory
+permalink: start-tor-legal-support-directory
 date: 2010-01-11 22:50:24
 author: phobos
 category: blog

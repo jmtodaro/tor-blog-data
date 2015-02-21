@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Updated Tor Cloud images"
-permalink: blog/updated-tor-cloud-images-1
+permalink: updated-tor-cloud-images-1
 date: 2012-11-28 16:00:29
 author: Runa
 category: blog

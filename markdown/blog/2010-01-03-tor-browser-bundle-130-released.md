@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser Bundle 1.3.0 Released"
-permalink: blog/tor-browser-bundle-130-released
+permalink: tor-browser-bundle-130-released
 date: 2010-01-03 21:25:20
 author: phobos
 category: blog

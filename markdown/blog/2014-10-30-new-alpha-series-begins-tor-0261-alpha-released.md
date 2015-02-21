@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A new alpha series begins: Tor 0.2.6.1-alpha is released"
-permalink: blog/new-alpha-series-begins-tor-0261-alpha-released
+permalink: new-alpha-series-begins-tor-0261-alpha-released
 date: 2014-10-30 12:52:11
 author: nickm
 category: blog

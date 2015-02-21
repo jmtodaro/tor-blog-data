@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Detecting Certificate Authority compromises and web browser collusion"
-permalink: blog/detecting-certificate-authority-compromises-and-web-browser-collusion
+permalink: detecting-certificate-authority-compromises-and-web-browser-collusion
 date: 2011-03-22 19:16:10
 author: ioerror
 category: blog

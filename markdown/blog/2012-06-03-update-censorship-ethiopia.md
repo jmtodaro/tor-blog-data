@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An update on the censorship in Ethiopia"
-permalink: blog/update-censorship-ethiopia
+permalink: update-censorship-ethiopia
 date: 2012-06-03 10:12:58
 author: Runa
 category: blog

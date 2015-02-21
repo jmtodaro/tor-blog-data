@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "University of Washington Open Hackfest"
-permalink: blog/university-washington-open-hackfest
+permalink: university-washington-open-hackfest
 date: 2012-02-18 18:55:40
 author: ioerror
 category: blog

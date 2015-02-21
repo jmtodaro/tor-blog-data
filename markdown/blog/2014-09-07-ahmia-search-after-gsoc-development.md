@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ahmia search after GSoC development"
-permalink: blog/ahmia-search-after-gsoc-development
+permalink: ahmia-search-after-gsoc-development
 date: 2014-09-07 22:35:23
 author: juha
 category: blog

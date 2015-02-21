@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A call to arms: Helping Internet services accept anonymous users"
-permalink: blog/call-arms-helping-internet-services-accept-anonymous-users
+permalink: call-arms-helping-internet-services-accept-anonymous-users
 date: 2014-08-29 16:26:51
 author: arma
 category: blog

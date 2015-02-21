@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor projects win two Access Innovation Awards"
-permalink: blog/tor-projects-win-two-access-innovation-awards
+permalink: tor-projects-win-two-access-innovation-awards
 date: 2013-01-07 23:19:40
 author: arma
 category: blog

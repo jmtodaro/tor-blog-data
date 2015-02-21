@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser Bundle 1.2.8 released"
-permalink: blog/tor-browser-bundle-128-released
+permalink: tor-browser-bundle-128-released
 date: 2009-08-19 22:43:12
 author: phobos
 category: blog

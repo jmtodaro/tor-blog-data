@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China blocking Tor:  Round Two"
-permalink: blog/china-blocking-tor-round-two
+permalink: china-blocking-tor-round-two
 date: 2010-03-11 20:49:18
 author: phobos
 category: blog

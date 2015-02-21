@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser 4.0 is released"
-permalink: blog/tor-browser-40-released
+permalink: tor-browser-40-released
 date: 2014-10-15 10:50:49
 author: mikeperry
 category: blog

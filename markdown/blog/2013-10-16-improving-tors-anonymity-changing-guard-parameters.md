@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Improving Tor&#039;s anonymity by changing guard parameters"
-permalink: blog/improving-tors-anonymity-changing-guard-parameters
+permalink: improving-tors-anonymity-changing-guard-parameters
 date: 2013-10-16 16:30:55
 author: arma
 category: blog

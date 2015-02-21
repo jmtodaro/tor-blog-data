@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Stable Tor Browser Bundles"
-permalink: blog/new-stable-tor-browser-bundles
+permalink: new-stable-tor-browser-bundles
 date: 2012-08-17 16:08:13
 author: erinn
 category: blog

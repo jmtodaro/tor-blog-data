@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.0.35-stable released"
-permalink: blog/tor-02035stable-released
+permalink: tor-02035stable-released
 date: 2009-06-25 19:34:49
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser Bundle for GNU/Linux"
-permalink: blog/tor-browser-bundle-gnulinux
+permalink: tor-browser-bundle-gnulinux
 date: 2010-03-26 22:28:49
 author: erinn
 category: blog

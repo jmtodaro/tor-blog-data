@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anonymity on the Internet is not going away."
-permalink: blog/anonymity-internet-not-going-away.
+permalink: anonymity-internet-not-going-away.
 date: 2008-11-07 18:00:53
 author: phobos
 category: blog

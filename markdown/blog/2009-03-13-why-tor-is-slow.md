@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Tor is slow and what we&#039;re going to do about it"
-permalink: blog/why-tor-is-slow
+permalink: why-tor-is-slow
 date: 2009-03-13 05:33:01
 author: arma
 category: blog

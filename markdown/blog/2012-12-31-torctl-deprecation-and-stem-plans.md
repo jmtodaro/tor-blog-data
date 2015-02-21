@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TorCtl Deprecation and Stem Plans"
-permalink: blog/torctl-deprecation-and-stem-plans
+permalink: torctl-deprecation-and-stem-plans
 date: 2012-12-31 17:38:05
 author: atagar
 category: blog

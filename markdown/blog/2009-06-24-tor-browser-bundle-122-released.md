@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser Bundle 1.2.2 Released"
-permalink: blog/tor-browser-bundle-122-released
+permalink: tor-browser-bundle-122-released
 date: 2009-06-24 09:23:47
 author: phobos
 category: blog

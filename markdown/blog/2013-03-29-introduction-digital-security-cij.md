@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to Digital Security With the CIJ"
-permalink: blog/introduction-digital-security-cij
+permalink: introduction-digital-security-cij
 date: 2013-03-29 10:37:51
 author: Runa
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Join us! The Tor Project Developer&#039;s Meeting - Reykjavik, Iceland - February 17 - 21, 2014"
-permalink: blog/join-us-tor-project-developers-meeting-reykjavik-iceland-february-17-21-2014
+permalink: join-us-tor-project-developers-meeting-reykjavik-iceland-february-17-21-2014
 date: 2014-02-12 09:20:02
 author: kelley
 category: blog

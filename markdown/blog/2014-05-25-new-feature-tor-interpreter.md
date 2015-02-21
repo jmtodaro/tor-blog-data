@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Feature: Tor Interpreter"
-permalink: blog/new-feature-tor-interpreter
+permalink: new-feature-tor-interpreter
 date: 2014-05-25 23:11:45
 author: atagar
 category: blog

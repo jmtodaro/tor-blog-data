@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Turning funding into more exit relays"
-permalink: blog/turning-funding-more-exit-relays
+permalink: turning-funding-more-exit-relays
 date: 2012-07-24 03:53:53
 author: arma
 category: blog

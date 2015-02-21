@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 years of collecting Tor directory data"
-permalink: blog/10-years-collecting-tor-directory-data
+permalink: 10-years-collecting-tor-directory-data
 date: 2014-05-15 02:30:57
 author: karsten
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some thoughts on the CRIME attack"
-permalink: blog/some-thoughts-crime-attack
+permalink: some-thoughts-crime-attack
 date: 2012-09-14 13:38:28
 author: nickm
 category: blog

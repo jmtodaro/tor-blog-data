@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CryptoParty Stockholm"
-permalink: blog/cryptoparty-stockholm
+permalink: cryptoparty-stockholm
 date: 2013-03-05 12:12:51
 author: phobos
 category: blog

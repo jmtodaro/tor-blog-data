@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Weekly News — July, 10th 2013"
-permalink: blog/tor-weekly-news-—-july-10th-2013
+permalink: tor-weekly-news-—-july-10th-2013
 date: 2013-07-10 07:00:00
 author: lunar
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Picturing Tor censorship in China"
-permalink: blog/picturing-tor-censorship-china
+permalink: picturing-tor-censorship-china
 date: 2009-10-13 21:56:10
 author: phobos
 category: blog

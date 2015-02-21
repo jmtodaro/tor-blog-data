@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anonymity by Design versus by Policy"
-permalink: blog/anonymity-design-versus-policy
+permalink: anonymity-design-versus-policy
 date: 2009-09-16 22:44:30
 author: phobos
 category: blog

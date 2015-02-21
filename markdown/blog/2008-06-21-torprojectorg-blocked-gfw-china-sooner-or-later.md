@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Torproject.org Blocked by GFW in China: Sooner or Later?"
-permalink: blog/torprojectorg-blocked-gfw-china-sooner-or-later
+permalink: torprojectorg-blocked-gfw-china-sooner-or-later
 date: 2008-06-21 09:26:38
 author: Anonymous
 category: blog

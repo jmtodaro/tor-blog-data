@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser 3.6.5 and 4.0-alpha-2 are released"
-permalink: blog/tor-browser-365-and-40-alpha-2-are-released
+permalink: tor-browser-365-and-40-alpha-2-are-released
 date: 2014-09-03 16:50:48
 author: mikeperry
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DigiNotar Damage Disclosure"
-permalink: blog/diginotar-damage-disclosure
+permalink: diginotar-damage-disclosure
 date: 2011-09-04 11:30:38
 author: ioerror
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some notes on progress with IOCP and Libevent"
-permalink: blog/some-notes-progress-iocp-and-libevent
+permalink: some-notes-progress-iocp-and-libevent
 date: 2009-03-01 17:37:33
 author: nickm
 category: blog

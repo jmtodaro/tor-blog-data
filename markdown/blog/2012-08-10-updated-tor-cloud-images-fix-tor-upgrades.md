@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Updated Tor Cloud images with fix for Tor upgrades"
-permalink: blog/updated-tor-cloud-images-fix-tor-upgrades
+permalink: updated-tor-cloud-images-fix-tor-upgrades
 date: 2012-08-10 06:48:34
 author: Runa
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conversation with a European Donor"
-permalink: blog/conversation-european-donor
+permalink: conversation-european-donor
 date: 2009-12-03 09:39:44
 author: phobos
 category: blog

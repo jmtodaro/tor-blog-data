@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Research problem: measuring the safety of the Tor network"
-permalink: blog/research-problem-measuring-safety-tor-network
+permalink: research-problem-measuring-safety-tor-network
 date: 2011-02-06 00:18:00
 author: arma
 category: blog

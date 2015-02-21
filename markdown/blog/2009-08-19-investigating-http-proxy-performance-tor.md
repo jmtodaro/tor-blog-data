@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Investigating http proxy performance with Tor"
-permalink: blog/investigating-http-proxy-performance-tor
+permalink: investigating-http-proxy-performance-tor
 date: 2009-08-19 16:57:17
 author: phobos
 category: blog

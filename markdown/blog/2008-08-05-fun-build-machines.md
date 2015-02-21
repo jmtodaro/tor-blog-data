@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fun with build machines"
-permalink: blog/fun-build-machines
+permalink: fun-build-machines
 date: 2008-08-05 21:50:21
 author: phobos
 category: blog

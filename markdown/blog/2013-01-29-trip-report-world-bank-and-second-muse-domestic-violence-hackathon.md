@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trip Report: World Bank and Second Muse Domestic Violence Hackathon"
-permalink: blog/trip-report-world-bank-and-second-muse-domestic-violence-hackathon
+permalink: trip-report-world-bank-and-second-muse-domestic-violence-hackathon
 date: 2013-01-29 18:44:07
 author: phobos
 category: blog

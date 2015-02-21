@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apple broke OpenSSL which breaks Tor on OS X"
-permalink: blog/apple-broke-openssl-which-breaks-tor-os-x
+permalink: apple-broke-openssl-which-breaks-tor-os-x
 date: 2010-01-27 13:14:35
 author: phobos
 category: blog

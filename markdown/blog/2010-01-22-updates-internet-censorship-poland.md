@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Updates on Internet Censorship in Poland"
-permalink: blog/updates-internet-censorship-poland
+permalink: updates-internet-censorship-poland
 date: 2010-01-22 11:01:01
 author: phobos
 category: blog

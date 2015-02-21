@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.2.35 is released (security patches)"
-permalink: blog/tor-02235-released-security-patches
+permalink: tor-02235-released-security-patches
 date: 2011-12-16 13:51:02
 author: erinn
 category: blog

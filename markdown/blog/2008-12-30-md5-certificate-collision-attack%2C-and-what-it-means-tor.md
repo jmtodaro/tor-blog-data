@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The MD5 certificate collision attack, and what it means for Tor"
-permalink: blog/md5-certificate-collision-attack,-and-what-it-means-tor
+permalink: md5-certificate-collision-attack,-and-what-it-means-tor
 date: 2008-12-30 11:53:04
 author: nickm
 category: blog

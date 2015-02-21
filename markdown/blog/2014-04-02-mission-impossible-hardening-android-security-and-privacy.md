@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mission Impossible: Hardening Android for Security and Privacy"
-permalink: blog/mission-impossible-hardening-android-security-and-privacy
+permalink: mission-impossible-hardening-android-security-and-privacy
 date: 2014-04-02 20:18:42
 author: mikeperry
 category: blog

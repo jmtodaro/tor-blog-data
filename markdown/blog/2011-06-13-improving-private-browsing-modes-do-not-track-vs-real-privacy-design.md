@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Improving Private Browsing Modes: \"Do-Not-Track\" vs Real Privacy by Design"
-permalink: blog/improving-private-browsing-modes-do-not-track-vs-real-privacy-design
+permalink: improving-private-browsing-modes-do-not-track-vs-real-privacy-design
 date: 2011-06-13 16:37:00
 author: mikeperry
 category: blog

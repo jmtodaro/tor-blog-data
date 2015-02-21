@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Tor 0.2.4.12-alpha packages and Tor Browser Bundles"
-permalink: blog/new-tor-02412-alpha-packages-and-tor-browser-bundles
+permalink: new-tor-02412-alpha-packages-and-tor-browser-bundles
 date: 2013-04-29 21:40:10
 author: erinn
 category: blog

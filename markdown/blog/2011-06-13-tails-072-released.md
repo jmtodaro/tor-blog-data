@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tails 0.7.2 Released"
-permalink: blog/tails-072-released
+permalink: tails-072-released
 date: 2011-06-13 19:23:07
 author: phobos
 category: blog

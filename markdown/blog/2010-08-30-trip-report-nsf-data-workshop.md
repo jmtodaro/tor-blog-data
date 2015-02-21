@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trip report, NSF data workshop"
-permalink: blog/trip-report-nsf-data-workshop
+permalink: trip-report-nsf-data-workshop
 date: 2010-08-30 15:59:01
 author: arma
 category: blog

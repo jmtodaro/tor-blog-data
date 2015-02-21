@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcement: The Tor Project is now accepting Bitcoin Donations"
-permalink: blog/announcement-tor-project-now-accepting-bitcoin-donations
+permalink: announcement-tor-project-now-accepting-bitcoin-donations
 date: 2013-12-17 12:25:07
 author: phobos
 category: blog

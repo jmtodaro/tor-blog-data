@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidalia bundle, OSX and Qt bugs"
-permalink: blog/vidalia-bundle,-osx-and-qt-bugs
+permalink: vidalia-bundle,-osx-and-qt-bugs
 date: 2008-01-20 13:50:53
 author: phobos
 category: blog

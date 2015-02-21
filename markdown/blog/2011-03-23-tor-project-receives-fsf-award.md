@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Tor Project receives FSF Award"
-permalink: blog/tor-project-receives-fsf-award
+permalink: tor-project-receives-fsf-award
 date: 2011-03-23 06:28:11
 author: phobos
 category: blog

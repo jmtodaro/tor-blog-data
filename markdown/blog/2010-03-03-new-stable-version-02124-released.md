@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Stable Version 0.2.1.24 released"
-permalink: blog/new-stable-version-02124-released
+permalink: new-stable-version-02124-released
 date: 2010-03-03 15:14:34
 author: phobos
 category: blog

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Metrics - Google Summer of Code 2010"
-permalink: blog/tor-metrics-google-summer-code-2010
+permalink: tor-metrics-google-summer-code-2010
 date: 2010-10-14 00:04:22
 author: kjbbb
 category: blog

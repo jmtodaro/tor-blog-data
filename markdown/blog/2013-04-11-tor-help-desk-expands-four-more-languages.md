@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor help desk expands with four more languages"
-permalink: blog/tor-help-desk-expands-four-more-languages
+permalink: tor-help-desk-expands-four-more-languages
 date: 2013-04-11 09:47:48
 author: Runa
 category: blog

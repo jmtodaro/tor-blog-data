@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Tor Browser Bundles"
-permalink: blog/new-tor-browser-bundles-7
+permalink: new-tor-browser-bundles-7
 date: 2011-09-30 21:58:44
 author: erinn
 category: blog

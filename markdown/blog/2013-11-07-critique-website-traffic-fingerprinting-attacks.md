@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Critique of Website Traffic Fingerprinting Attacks"
-permalink: blog/critique-website-traffic-fingerprinting-attacks
+permalink: critique-website-traffic-fingerprinting-attacks
 date: 2013-11-07 15:37:23
 author: mikeperry
 category: blog

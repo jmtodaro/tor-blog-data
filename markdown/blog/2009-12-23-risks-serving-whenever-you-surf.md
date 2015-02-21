@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the risks of serving whenever you surf"
-permalink: blog/risks-serving-whenever-you-surf
+permalink: risks-serving-whenever-you-surf
 date: 2009-12-23 17:27:12
 author: sjmurdoch
 category: blog

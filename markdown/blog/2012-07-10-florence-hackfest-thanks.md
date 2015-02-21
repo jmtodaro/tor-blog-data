@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Florence Hackfest Thanks"
-permalink: blog/florence-hackfest-thanks
+permalink: florence-hackfest-thanks
 date: 2012-07-10 15:34:27
 author: phobos
 category: blog

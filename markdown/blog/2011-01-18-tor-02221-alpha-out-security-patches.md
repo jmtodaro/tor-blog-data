@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.2.21-alpha is out (security patches)"
-permalink: blog/tor-02221-alpha-out-security-patches
+permalink: tor-02221-alpha-out-security-patches
 date: 2011-01-18 23:25:48
 author: erinn
 category: blog

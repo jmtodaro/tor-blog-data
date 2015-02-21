@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Temporary Website Outages....are fixed"
-permalink: blog/temporary-website-outagesare-fixed
+permalink: temporary-website-outagesare-fixed
 date: 2011-12-21 13:36:54
 author: phobos
 category: blog

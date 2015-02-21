@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wading into social waters"
-permalink: blog/wading-social-waters
+permalink: wading-social-waters
 date: 2012-08-23 13:07:42
 author: phobos
 category: blog

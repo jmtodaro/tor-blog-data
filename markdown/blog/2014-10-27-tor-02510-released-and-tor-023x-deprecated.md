@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.5.10 is released! (and Tor 0.2.3.x is deprecated)"
-permalink: blog/tor-02510-released-and-tor-023x-deprecated
+permalink: tor-02510-released-and-tor-023x-deprecated
 date: 2014-10-27 08:25:36
 author: nickm
 category: blog

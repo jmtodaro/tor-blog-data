@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Volunteer QA: The Price of Freedom is Eternal Vigilance"
-permalink: blog/volunteer-qa-price-freedom-eternal-vigilance
+permalink: volunteer-qa-price-freedom-eternal-vigilance
 date: 2012-05-23 13:27:19
 author: mikeperry
 category: blog

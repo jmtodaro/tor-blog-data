@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vidalia 0.2.4 Released"
-permalink: blog/vidalia-024-released
+permalink: vidalia-024-released
 date: 2009-09-07 15:13:01
 author: phobos
 category: blog

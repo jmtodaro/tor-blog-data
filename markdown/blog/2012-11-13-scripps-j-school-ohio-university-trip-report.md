@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scripps J School at Ohio University Trip Report"
-permalink: blog/scripps-j-school-ohio-university-trip-report
+permalink: scripps-j-school-ohio-university-trip-report
 date: 2012-11-13 12:01:23
 author: phobos
 category: blog

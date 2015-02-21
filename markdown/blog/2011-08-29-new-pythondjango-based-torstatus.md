@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Python/Django-based TorStatus"
-permalink: blog/new-pythondjango-based-torstatus
+permalink: new-pythondjango-based-torstatus
 date: 2011-08-29 03:02:33
 author: karsten
 category: blog

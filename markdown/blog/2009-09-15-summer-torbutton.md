@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer of Torbutton"
-permalink: blog/summer-torbutton
+permalink: summer-torbutton
 date: 2009-09-15 23:32:47
 author: koryk
 category: blog

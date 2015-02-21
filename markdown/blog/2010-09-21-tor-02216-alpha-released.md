@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor 0.2.2.16-alpha released"
-permalink: blog/tor-02216-alpha-released
+permalink: tor-02216-alpha-released
 date: 2010-09-21 19:08:41
 author: phobos
 category: blog

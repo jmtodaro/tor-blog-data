@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor, NSA, GCHQ, and QUICK ANT Speculation"
-permalink: blog/tor-nsa-gchq-and-quick-ant-speculation
+permalink: tor-nsa-gchq-and-quick-ant-speculation
 date: 2013-09-11 05:51:04
 author: phobos
 category: blog

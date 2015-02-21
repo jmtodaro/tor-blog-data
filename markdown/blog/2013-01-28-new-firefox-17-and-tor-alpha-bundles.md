@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Firefox 17 and Tor alpha bundles"
-permalink: blog/new-firefox-17-and-tor-alpha-bundles
+permalink: new-firefox-17-and-tor-alpha-bundles
 date: 2013-01-28 12:56:34
 author: erinn
 category: blog

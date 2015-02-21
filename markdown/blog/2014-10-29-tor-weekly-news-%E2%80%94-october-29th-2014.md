@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Weekly News — October 29th, 2014"
-permalink: blog/tor-weekly-news-—-october-29th-2014
+permalink: tor-weekly-news-—-october-29th-2014
 date: 2014-10-29 07:00:00
 author: harmony
 category: blog

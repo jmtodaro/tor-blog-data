@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Stable released, Tor 0.2.1.21"
-permalink: blog/new-stable-released-tor-02121
+permalink: new-stable-released-tor-02121
 date: 2009-12-30 09:21:46
 author: phobos
 category: blog

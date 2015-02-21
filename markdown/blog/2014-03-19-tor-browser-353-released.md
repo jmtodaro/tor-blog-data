@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor Browser 3.5.3 is released"
-permalink: blog/tor-browser-353-released
+permalink: tor-browser-353-released
 date: 2014-03-19 13:10:46
 author: mikeperry
 category: blog
