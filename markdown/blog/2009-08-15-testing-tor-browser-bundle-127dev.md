@@ -19,4 +19,8 @@ The full list of changes:
 -   update Vidalia to 0.2.2
 -   compile OpenSSL 0.9.8k with Visual C to make dlls
 
-There is an issue for some people using a clean Windows XP, Vista, 7 which would either require we ship the Visual C redistributable package, or compile OpenSSL ourselves with Visual C. The symptoms were the "find bridges now" button didn't appear in Vidalia 0.2.x, and the relays would never get flags. A few people posted comments to this blog about lacking flags and geoip information with TBB. [**read more »**](https://blog.torproject.org/blog/testing-tor-browser-bundle-127dev)
+There is an issue for some people using a clean Windows XP, Vista, 7 which would either require we ship the Visual C redistributable package, or compile OpenSSL ourselves with Visual C. The symptoms were the "find bridges now" button didn't appear in Vidalia 0.2.x, and the relays would never get flags. A few people posted comments to this blog about lacking flags and geoip information with TBB.
+
+<!-- more -->
+
+This is now fixed (at least it works on a freshly installed and patched WinXP system).

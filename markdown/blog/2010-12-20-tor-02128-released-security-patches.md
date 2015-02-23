@@ -30,4 +30,9 @@ Changes in version 0.2.1.28 - 2010-12-17
 
 -   Change IP address and ports for gabelmoo (v3 directory authority).
 
-**Minor features:** [**read more »**](https://blog.torproject.org/blog/tor-02128-released-security-patches)
+**Minor features:**
+
+<!-- more -->
+
+-   Update to the December 1 2010 Maxmind GeoLite Country database.
+

@@ -13,4 +13,9 @@ tags: ["incognito", "tor", "trademarks"]
 
 At the core of this anonymity is the Tor™ software and network. In recognition of the transparency, open source base, continued development, and improvement of the Incognito software, The Tor Project is proud to list Incognito as a licensee of the Tor brands.
 
-Incognito has the right to use the Tor name and the Tor onion logo™ as needed. The high quality graphics will improve the user experience. The usage of the Tor brand will only further reinforce that Incognito is a legitimate solution using the Tor software. [**read more »**](https://blog.torproject.org/blog/incognito-and-tor-project-sign-licensing-agreement)
+Incognito has the right to use the Tor name and the Tor onion logo™ as needed. The high quality graphics will improve the user experience. The usage of the Tor brand will only further reinforce that Incognito is a legitimate solution using the Tor software.
+
+<!-- more -->
+
+We welcome the further cooperation and collaboration between Incognito and The  
+ Tor Project.

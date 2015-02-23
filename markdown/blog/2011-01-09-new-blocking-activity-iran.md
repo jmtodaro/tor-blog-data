@@ -17,4 +17,31 @@ Some graphs to show the results on Tor from our [Tor metrics portal](https://met
 
 Bridge users from Iran:
 
-![](https://blog.torproject.org/files/bridge-users-2011-01-10-ir-2010-10-12.png) [**read more »**](https://blog.torproject.org/blog/new-blocking-activity-iran)
+![](https://blog.torproject.org/files/bridge-users-2011-01-10-ir-2010-10-12.png)
+
+<!-- more -->
+
+Direct connections from Iran:
+
+![](https://blog.torproject.org/files/direct-users-2011-01-10-ir-2010-10-12.png)
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">Attachment</th>
+<th align="left">Size</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><a href="https://blog.torproject.org/files/bridge-users-2011-01-10-ir-2010-10-12.png">bridge-users-2011-01-10-ir-2010-10-12.png</a></td>
+<td align="left">11.25 KB</td>
+</tr>
+<tr class="even">
+<td align="left"><a href="https://blog.torproject.org/files/direct-users-2011-01-10-ir-2010-10-12.png">direct-users-2011-01-10-ir-2010-10-12.png</a></td>
+<td align="left">14.92 KB</td>
+</tr>
+</tbody>
+</table>
+
+

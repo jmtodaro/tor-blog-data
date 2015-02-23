@@ -23,4 +23,39 @@ Roger and Andrew met with the Department of Justice CyberCrime Division to give 
 
 Wendy, Roger, and Andrew had a dinner with Internews Central Asia media development staff.
 
-Andrew attended the CIMI/NED panel on World Press Freedom, [http://cima.ned.org/860/world-press-freedom-day-2009.html](http://cima.ned.org/860/world-press-freedom-day-2009.html "http://cima.ned.org/860/world-press-freedom-day-2009.html"). [**read more »**](https://blog.torproject.org/blog/april-2009-progress-report)
+Andrew attended the CIMI/NED panel on World Press Freedom, [http://cima.ned.org/860/world-press-freedom-day-2009.html](http://cima.ned.org/860/world-press-freedom-day-2009.html "http://cima.ned.org/860/world-press-freedom-day-2009.html").
+
+<!-- more -->
+
+Andrew attended Boston Barcamp4 and spoke about Free Network Services and Online Privacy, [http://www.barcampboston.org/](http://www.barcampboston.org/ "http://www.barcampboston.org/").
+
+Roger and Andrew met with Human Rights in China to give an overview of Tor and possible applications for their mission.
+
+**Scalability**  
+ From the 0.2.1.14-rc changelog:  
+ Clients replace entry guards that were chosen more than a few months ago. This change should significantly improve client performance, especially once more people upgrade, since relays that have been a guard for a long time are currently overloaded.
+
+Continued work on TorFlow, a tool for scanning the public Tor network and detecting misconfigured, overloaded, and evil nodes.
+
+**Translations**  
+ Count and languages updated:  
+ 20 Japanese website  
+ 16 Portugese website  
+ 3 Polish website  
+ 3 Chinese website  
+ 7 French website  
+ 14 Italian website  
+ 31 Norwegian website  
+ 1 Danish website  
+ 1 Vietnamese torbutton  
+ 1 Turkish torbutton  
+ 1 Greek torbutton  
+ 1 Arabic torbutton  
+ 1 Ukranian torcheck  
+ 1 Netherland torcheck  
+ 1 Thai torcheck  
+ 1 Burmese torcheck  
+ 1 German website  
+ 2 Russian website  
+ 1 Hindi torcheck  
+ 1 Greek torcheck

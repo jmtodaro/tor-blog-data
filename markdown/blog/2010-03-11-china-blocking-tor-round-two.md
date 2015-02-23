@@ -15,4 +15,33 @@ However, it appears China is getting better at blocking Tor. Here's a graph of r
 
 [![](https://blog.torproject.org/files/china-direct-180d.png)](http://metrics.torproject.org/graphs/direct-users/china-direct-180d.png)
 
-However, most Tor users in China switched to non-public relays, called bridges, over the past few months. Interestingly, the GFW has also started blocking some of the more popular bridges: [**read more »**](https://blog.torproject.org/blog/china-blocking-tor-round-two)
+However, most Tor users in China switched to non-public relays, called bridges, over the past few months. Interestingly, the GFW has also started blocking some of the more popular bridges:
+
+<!-- more -->
+
+[![](https://blog.torproject.org/files/china-bridges-180d.png)](http://metrics.torproject.org/graphs/bridge-users/china-bridges-180d.png)
+
+All of this data, and more, are available at [http://metrics.torproject.org/](http://metrics.torproject.org/ "http://metrics.torproject.org/").
+
+Run a [bridge](https://www.torproject.org/bridges), help someone else get to their favorite websites and forums.
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">Attachment</th>
+<th align="left">Size</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><a href="https://blog.torproject.org/files/china-bridges-180d.png">china-bridges-180d.png</a></td>
+<td align="left">13.6 KB</td>
+</tr>
+<tr class="even">
+<td align="left"><a href="https://blog.torproject.org/files/china-direct-180d.png">china-direct-180d.png</a></td>
+<td align="left">14.8 KB</td>
+</tr>
+</tbody>
+</table>
+
+

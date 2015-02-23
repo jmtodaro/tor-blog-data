@@ -17,4 +17,16 @@ The real goal behind this upswelling of support for banning anonymity is to pass
 
 Defamation is already a crime in South Korea. The irony is that the person who possibly first defamed Choi Jin-sil has been found, a person only known by their last name, Paik. According to the article,  
 
-> "Paik was questioned by investigators soon after Choi's suicide and ultimately indicted for defamation." [**read more »**](https://blog.torproject.org/blog/online-anonymity-debate-south-korea)
+> "Paik was questioned by investigators soon after Choi's suicide and ultimately indicted for defamation."
+
+<!-- more -->
+
+Normally, the articles on how online anonymity is bad for the world end here. In this case, the article closes with how online anonymity is what probably helped bring South Korea into the democracy it has today.
+
+A great quote from Park Jun-chul,  
+
+> "If there is no anonymity, not so many people will risk saying what is really happening at work places, schools, or in the society."
+
+This ties right into what we've already seen happen online with activists, [https://www.torproject.org/torusers.html.en\#activists](https://www.torproject.org/torusers.html.en#activists "https://www.torproject.org/torusers.html.en#activists")
+
+[The Guardian](http://www.guardian.co.uk/technology/2008/oct/09/news.internet) has a better overview covering both the positive and negative uses of online anonymity in South Korea.

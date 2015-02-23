@@ -18,4 +18,8 @@ You can read the pdf here:
 
 Andrew has also put together a real live [press release](https://www.torproject.org/press/2009-03-12-performance-roadmap-press-release) to go with it.
 
-Now all that remains is to do everything. So if you want to help, or especially if you know any organizations that can help with funding, please help us make this happen! [**read more »**](https://blog.torproject.org/blog/why-tor-is-slow)
+Now all that remains is to do everything. So if you want to help, or especially if you know any organizations that can help with funding, please help us make this happen!
+
+<!-- more -->
+
+[Edit, 19 August 2009: you can [watch the HAR2009 video explaining our key performance plans](https://blog.torproject.org/har2009-video-tor-performance), if you aren't a fan of 25-page pdfs.]

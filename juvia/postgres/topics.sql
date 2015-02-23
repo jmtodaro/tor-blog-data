@@ -76,7 +76,7 @@ ALTER TABLE ONLY topics ALTER COLUMN id SET DEFAULT nextval('topics_id_seq'::reg
 COPY topics (id, site_id, key, title, url, created_at, last_posted_at) FROM stdin;
 1	1	/welcome	Welcome	http://tor.jmtodaro.com/welcome/	2007-12-05	2010-06-06
 2	1	/vidalia-bundle,-osx-and-qt-bugs	Vidalia bundle, OSX and Qt bugs	http://tor.jmtodaro.com/vidalia-bundle,-osx-and-qt-bugs/	2008-01-20	2008-10-31
-3	1	/media-coverage-"covert-channel-vulnerabilities-anonymity-systems"	Media coverage of \"Covert channel vulnerabilities in anonymity systems\"	http://tor.jmtodaro.com/media-coverage-"covert-channel-vulnerabilities-anonymity-systems"/	2008-02-03	2008-03-06
+3	1	/media-coverage-covert-channel-vulnerabilities-anonymity-systems	Media coverage of \"Covert channel vulnerabilities in anonymity systems\"	http://tor.jmtodaro.com/media-coverage-covert-channel-vulnerabilities-anonymity-systems/	2008-02-03	2008-03-06
 4	1	/january-2008-progress-report	January 2008 Progress Report	http://tor.jmtodaro.com/january-2008-progress-report/	2008-02-18	2008-09-05
 5	1	/isaac-mao-elected-one-our-new-directors	Isaac Mao elected as one of our new directors	http://tor.jmtodaro.com/isaac-mao-elected-one-our-new-directors/	2008-02-21	2009-06-12
 6	1	/february-2008-progress-report	February 2008 Progress Report	http://tor.jmtodaro.com/february-2008-progress-report/	2008-03-11	2008-04-11
@@ -619,11 +619,11 @@ COPY topics (id, site_id, key, title, url, created_at, last_posted_at) FROM stdi
 543	1	/tor-talk-31c3	The Tor talk at 31c3	http://tor.jmtodaro.com/tor-talk-31c3/	2014-12-30	2015-01-09
 544	1	/tor-0262-alpha-released	Tor 0.2.6.2-alpha is released	http://tor.jmtodaro.com/tor-0262-alpha-released/	2014-12-31	2015-01-13
 545	1	/tor-browser-403-released	Tor Browser 4.0.3 is released	http://tor.jmtodaro.com/tor-browser-403-released/	2015-01-13	2015-02-19
-546	1	/tor-browser-45a3-released	Tor Browser 4.5a3 is released	http://tor.jmtodaro.com/tor-browser-45a3-released/	2015-01-16	2015-02-19
+546	1	/tor-browser-45a3-released	Tor Browser 4.5a3 is released	http://tor.jmtodaro.com/tor-browser-45a3-released/	2015-01-16	2015-02-22
 547	1	/tor-design-proposals-how-we-make-changes-our-protocol	Tor design proposals: how we make changes to our protocol	http://tor.jmtodaro.com/tor-design-proposals-how-we-make-changes-our-protocol/	2015-02-08	2015-02-18
-548	1	/guest-post-library-freedom-project-bringing-privacy-and-anonymity-libraries	Guest Post: The Library Freedom Project: Bringing privacy and anonymity to libraries	http://tor.jmtodaro.com/guest-post-library-freedom-project-bringing-privacy-and-anonymity-libraries/	2015-02-08	2015-02-17
+548	1	/guest-post-library-freedom-project-bringing-privacy-and-anonymity-libraries	Guest Post: The Library Freedom Project: Bringing privacy and anonymity to libraries	http://tor.jmtodaro.com/guest-post-library-freedom-project-bringing-privacy-and-anonymity-libraries/	2015-02-08	2015-02-21
 549	1	/ux-sprint-2015-wrapup	UX Sprint 2015 wrapup	http://tor.jmtodaro.com/ux-sprint-2015-wrapup/	2015-02-09	2015-02-16
-550	1	/tor-0263-alpha-released	Tor 0.2.6.3-alpha is released	http://tor.jmtodaro.com/tor-0263-alpha-released/	2015-02-19	2015-02-20
+550	1	/tor-0263-alpha-released	Tor 0.2.6.3-alpha is released	http://tor.jmtodaro.com/tor-0263-alpha-released/	2015-02-19	2015-02-21
 \.
 
 

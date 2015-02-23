@@ -27,7 +27,18 @@ Changes in version 0.2.1.21 - 2009-12-21
      circuit gets torn down at the same time, or if the flip side  
      happens on the exit relay. Bugfix on 0.2.0.1-alpha; fixes bug 1150.
 
-**Minor bugfixes:** [**read more »**](https://blog.torproject.org/blog/new-stable-released-tor-02121)
+**Minor bugfixes:**
 
-Do not refuse to learn about authority certs and v2 networkstatus  
+<!-- more -->
 
+-   Do not refuse to learn about authority certs and v2 networkstatus  
+     documents that are older than the latest consensus. This bug might  
+     have degraded client bootstrapping. Bugfix on 0.2.0.10-alpha.  
+     Spotted and fixed by xmux.
+-   Fix a couple of very-hard-to-trigger memory leaks, and one hard-to-  
+     trigger platform-specific option misparsing case found by Coverity  
+     Scan.
+-   Fix a compilation warning on Fedora 12 by removing an impossible-to-  
+     trigger assert. Fixes bug 1173.
+
+The original announcement can be found at [http://archives.seul.org/or/announce/Dec-2009/msg00000.html](http://archives.seul.org/or/announce/Dec-2009/msg00000.html "http://archives.seul.org/or/announce/Dec-2009/msg00000.html")

@@ -29,4 +29,10 @@ Maybe fix a time conversion bug that could result in Vidalia
  displaying the wrong uptime for a relay in the network map.
 
 Stop trying to enforce proper quoting and escaping of arguments to be  
- given to the proxy executable (e.g., Polipo). Now the user is on their [**read more »**](https://blog.torproject.org/blog/vidalia-025-released)
+ given to the proxy executable (e.g., Polipo). Now the user is on their
+
+<!-- more -->
+
+  
+ own for properly formatting the command line used to start the proxy  
+ executable. (Ticket \#523)

@@ -16,4 +16,16 @@ This release features a fix for the nasty pref dialog issue in 1.3.0 (bug \#2011
 
 However, the amount of changes involved in supporting Firefox 4 were substantial, and it is likely that these changes as well as the removal of old code has introduced new bugs. We've done our best to test out operation on Firefox 3.6 and 4.0, but we have not tested Firefox 3.0, and may have missed other issues as well. Please report any issues you notice on our bugtracker: [https://trac.torproject.org/projects/tor/report/14](https://trac.torproject.org/projects/tor/report/14 "https://trac.torproject.org/projects/tor/report/14")
 
-Here is the complete changelog: [**read more »**](https://blog.torproject.org/blog/torbutton-alpha-131-released-testing)
+Here is the complete changelog:
+
+<!-- more -->
+
+  
+ \* bugfix: bug 1894: Amnesia is now called TAILS (patch from intrigeri)  
+ \* bugfix: bug 2315: Remove reference to TorVM (patch from intrigeri)  
+ \* bugfix: bug 2011: Fix preference dialog issues (patch from chrisdoble)  
+ \* bugfix: Fix some incorrect log lines in RefSpoofer  
+ \* new: Support Firefox 4.0 (many changes)  
+ \* new: Place button in the nav-bar (FF4 killed the status-bar)  
+ \* misc: No longer reimplement the session store, use new APIs instead  
+ \* misc: Simplify crash detection and startup mode settings

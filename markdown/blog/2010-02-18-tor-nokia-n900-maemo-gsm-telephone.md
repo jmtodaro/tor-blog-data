@@ -15,4 +15,8 @@ Tor is configured as a client by default. The Tor status applet will also run pr
 
 Please note that this is an experimental configuration. The web browser on the N900 does not have the protections that [Torbutton](https://www.torproject.org/torbutton/) provides.
 
-For basic circumvention needs this configuration should be usable out of the box. At the moment, we're not seriously investigating Torbutton support for the N900 mobile web browser. If there is significant user demand for a mobile Torbutton this may change. [**read more »**](https://blog.torproject.org/blog/tor-nokia-n900-maemo-gsm-telephone)
+For basic circumvention needs this configuration should be usable out of the box. At the moment, we're not seriously investigating Torbutton support for the N900 mobile web browser. If there is significant user demand for a mobile Torbutton this may change.
+
+<!-- more -->
+
+Many thanks to the fine folks at [synthesize.us](https://synthesize.us/home) for their help in the production of the N900 documentation.

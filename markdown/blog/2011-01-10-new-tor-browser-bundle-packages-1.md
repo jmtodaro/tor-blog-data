@@ -23,4 +23,9 @@ The Tor Browser Bundles have all been updated with some important security fixes
 -   Update Firefox preferences to be more secure and disable geolocation to address \#2338
 
 **Windows bundles**  
- **1.3.16: Released 2011-01-09** [**read more »**](https://blog.torproject.org/blog/new-tor-browser-bundle-packages-1)
+ **1.3.16: Released 2011-01-09**
+
+<!-- more -->
+
+-   Update Firefox preferences to be more secure and disable geolocation to address \#2338
+

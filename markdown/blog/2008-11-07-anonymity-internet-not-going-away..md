@@ -21,4 +21,10 @@ The larger concern with the article is that it states:
 
 > But it's also what lets protesters protest and dissidents diss, so there are some genuinely valid reasons for wanting to preserve internet privacy
 
-and then ends with [**read more »**](https://blog.torproject.org/blog/anonymity-internet-not-going-away.)
+and then ends with
+
+<!-- more -->
+
+> Anonymous internets will always exist - the terrorists, the paedophiles and the tin-foil-hat brigade will make sure of that. But in 10 years time, the idea of the mainstream internet - the one that all of us use every day - being anonymous, will seem as quaint as a street without CCTV cameras.
+
+Anonymity is a defense against the tyranny of the majority. There are [many, many valid uses](https://www.torproject.org/torusers) of anonymity tools, such as Tor. The belief that anonymous tools exist only for the edges of societies is narrow-minded. The tools exist and are used by all. Much like the Internet, the tools can be used for good or bad. The negative uses of such tools typically generate huge headlines, but not the positive uses. Raising the profile of the positive uses of anonymity tools, such as Tor, is one of our challenges.

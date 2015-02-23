@@ -17,4 +17,9 @@ Here's a timely reminder of why anonymous publishing tools like Tor
 >
 > There were … legal and political reasons for the ubiquity of Anon. There were times when the state needed to know the author or printer of a work in order to know who to prosecute for heresy or sedition. In 1579, John Stubbs had his right hand cut off for writing a work opposing the marriage of Elizabeth I to a French nobleman. Elizabeth herself urged that the printers of the anti-Anglican Marprelate tracts should be subjected to torture. In 1663, a London printer who published a pamphlet which argued that the monarch should be accountable to his subjects, and justified the people’s right to rebellion, was sentenced to be hanged, drawn and quartered. He refused, even so, to reveal the name of the pamphlet’s author, though the disclosure might have saved his life. Between the 16th and the 18th century, printers were fined, imprisoned and pilloried for publishing supposedly treasonable works whose authors remained concealed. Being Jonathan Swift’s printer was not a job for the faint-hearted.
 >
-> Looking for modern parallels, can you imagine the head of an ISP risking execution to defend the anonymity of a person publishing something via their servers when a government or company takes exception to it? [**read more »**](https://blog.torproject.org/blog/anonymous-publishing-and-risking-execution)
+> Looking for modern parallels, can you imagine the head of an ISP risking execution to defend the anonymity of a person publishing something via their servers when a government or company takes exception to it?
+
+<!-- more -->
+
+I know, ISPs rightly try to avoid being classed as “publishers”, but they’re still the ones offended parties go to to halt online “publication” or reveal authorial identity. I guess a closer parallel would be the owner of a website risking execution to safeguard the identity of a writer whose work they’d knowingly published on their site. Actually, the closest modern day parallel is, duh, a book  
+ publisher, but that doesn’t seem much more likely a situation either.

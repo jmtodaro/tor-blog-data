@@ -15,6 +15,15 @@ If you want to help people in China get access to the uncensored Internet, run a
 
 Feel free to mirror this post, or the Tor website. We have a list of mirrors at [https://www.torproject.org/mirrors.html.en](https://www.torproject.org/mirrors.html.en "https://www.torproject.org/mirrors.html.en") or search for tor mirrors via Google, Yahoo, Baidu, etc.
 
-Links to other helpful sites (not run by us): [**read more »**](https://blog.torproject.org/blog/tor-partially-blocked-china)
+Links to other helpful sites (not run by us):
 
-[http://www.reddit.com/r/technology/comments/9ofr7/we\_need\_more\_tor\_bridg...](http://www.reddit.com/r/technology/comments/9ofr7/we_need_more_tor_bridges_china_is_blocking_most/ "http://www.reddit.com/r/technology/comments/9ofr7/we_need_more_tor_bridges_china_is_blocking_most/")
+<!-- more -->
+
+-   [http://www.reddit.com/r/technology/comments/9ofr7/we\_need\_more\_tor\_bridg...](http://www.reddit.com/r/technology/comments/9ofr7/we_need_more_tor_bridges_china_is_blocking_most/ "http://www.reddit.com/r/technology/comments/9ofr7/we_need_more_tor_bridges_china_is_blocking_most/")
+-   [http://anonygreen.wordpress.com/2009/06/18/how-to-setup-a-tor-relay-or-t...](http://anonygreen.wordpress.com/2009/06/18/how-to-setup-a-tor-relay-or-tor-bridge/#bridge "http://anonygreen.wordpress.com/2009/06/18/how-to-setup-a-tor-relay-or-tor-bridge/#bridge")
+-   [http://twitter.com/\#search?q=china%20censorship](http://twitter.com/#search?q=china%20censorship "http://twitter.com/#search?q=china%20censorship")
+-   [http://identi.ca/torproject](http://identi.ca/torproject "http://identi.ca/torproject")
+-   [http://twitter.com/\#search?q=gfw](http://twitter.com/#search?q=gfw "http://twitter.com/#search?q=gfw")
+-   [http://iran.whyweprotest.net/](http://iran.whyweprotest.net/ "http://iran.whyweprotest.net/")
+
+We knew this day would come, [https://blog.torproject.org/blog/torproject.org-blocked-gfw-china%3A-soo...](https://blog.torproject.org/blog/torproject.org-blocked-gfw-china%3A-sooner-or-later%3F "https://blog.torproject.org/blog/torproject.org-blocked-gfw-china%3A-sooner-or-later%3F").

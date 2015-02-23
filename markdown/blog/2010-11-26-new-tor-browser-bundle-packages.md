@@ -25,4 +25,18 @@ There are new browser bundles out with the updated Tor versions (0.2.2.19-alpha 
 -   remove NoScript and BetterPrivacy from stable bundle until they receive more  
      testing
 
-**OS X and Linux bundles** [**read more »**](https://blog.torproject.org/blog/new-tor-browser-bundle-packages)
+**OS X and Linux bundles**
+
+<!-- more -->
+
+**OS X**  
+ **1.0.6: Released 2020-11-24**
+
+Update Tor to 0.2.2.19-alpha
+
+**Linux**  
+ **1.0.17: Released 2010-11-24**
+
+-   Update Tor to 0.2.2.19-alpha
+
+Please report bugs on [our bug tracker](https://trac.torproject.org/).

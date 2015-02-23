@@ -13,4 +13,10 @@ A company in China has produced its own distribution of linux, called [Red Flag 
 
 If you happen to run this Red Flag distribution, we have some test rpms based on tor 0.2.1.15-rc for you.
 
-The [binary itself](https://www.torproject.org/dist/rpm-redflag/tor-0.2.1.15.rc-tor.0.redflag6_0.i386.rpm) along with [signature](https://www.torproject.org/dist/rpm-redflag/tor-0.2.1.15.rc-tor.0.redflag6_0.i386.rpm.asc) and [sha-1 hash](https://www.torproject.org/dist/rpm-redflag/tor-0.2.1.15.rc-tor.0.redflag6_0.i386.rpm.sha1). [**read more »**](https://blog.torproject.org/blog/testing-red-flag-linux-rpms)
+The [binary itself](https://www.torproject.org/dist/rpm-redflag/tor-0.2.1.15.rc-tor.0.redflag6_0.i386.rpm) along with [signature](https://www.torproject.org/dist/rpm-redflag/tor-0.2.1.15.rc-tor.0.redflag6_0.i386.rpm.asc) and [sha-1 hash](https://www.torproject.org/dist/rpm-redflag/tor-0.2.1.15.rc-tor.0.redflag6_0.i386.rpm.sha1).
+
+<!-- more -->
+
+The [source rpm](https://www.torproject.org/dist/rpm-redflag/tor-0.2.1.15.rc-tor.0.redflag6_0.src.rpm) along with [signature](https://www.torproject.org/dist/rpm-redflag/tor-0.2.1.15.rc-tor.0.redflag6_0.src.rpm.asc) and [sha-1 hash](https://www.torproject.org/dist/rpm-redflag/tor-0.2.1.15.rc-tor.0.redflag6_0.src.rpm.sha1).
+
+I welcome feedback.
