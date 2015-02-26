@@ -3,8 +3,8 @@ layout: event
 title: "Runa @ ITWeb Security Summit, Johannesburg, South Africa"
 permalink: runa-itweb-security-summit-johannesburg-south-africa
 date: 2013-05-02 08:54:47
-startdate: 2013-05-07 03:00:00
-enddate: 2013-05-08 03:59:00
+startdate: 2013-05-07 03:00
+enddate: 2013-05-08 03:59
 author: kelley
 category: event
 ---

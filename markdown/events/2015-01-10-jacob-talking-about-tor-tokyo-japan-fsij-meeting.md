@@ -3,8 +3,8 @@ layout: event
 title: "Jacob talking about Tor in Tokyo, Japan at FSIJ meeting"
 permalink: jacob-talking-about-tor-tokyo-japan-fsij-meeting
 date: 2015-01-10 07:40:46
-startdate: 2015-01-22 17:30:00
-enddate: 2015-01-22 19:00:00
+startdate: 2015-01-22 17:30
+enddate: 2015-01-22 19:00
 author: ioerror
 category: event
 ---

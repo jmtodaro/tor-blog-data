@@ -3,8 +3,8 @@ layout: event
 title: "Tor at Internet and Democratic Change"
 permalink: tor-internet-and-democratic-change
 date: 2011-10-25 10:37:18
-startdate: 2011-10-26 01:00:00
-enddate: 2011-10-26 23:59:00
+startdate: 2011-10-26 01:00
+enddate: 2011-10-26 23:59
 author: phobos
 category: event
 ---

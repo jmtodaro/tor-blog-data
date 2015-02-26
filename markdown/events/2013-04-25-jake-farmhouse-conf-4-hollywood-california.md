@@ -3,8 +3,8 @@ layout: event
 title: "Jake @ Farmhouse Conf 4, Hollywood California"
 permalink: jake-farmhouse-conf-4-hollywood-california
 date: 2013-04-25 17:42:35
-startdate: 2013-05-04 12:00:00
-enddate: 2013-05-04 12:59:00
+startdate: 2013-05-04 12:00
+enddate: 2013-05-04 12:59
 author: kelley
 category: event
 ---

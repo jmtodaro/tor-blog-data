@@ -3,8 +3,8 @@ layout: event
 title: "Andrew at Wesleyan University"
 permalink: andrew-wesleyan-university
 date: 2010-06-07 20:48:38
-startdate: 2010-06-08 09:00:00
-enddate: 2010-06-08 09:59:00
+startdate: 2010-06-08 09:00
+enddate: 2010-06-08 09:59
 author: phobos
 category: event
 ---

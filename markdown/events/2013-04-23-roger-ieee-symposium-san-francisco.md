@@ -3,8 +3,8 @@ layout: event
 title: "Roger @ IEEE Symposium, San Francisco"
 permalink: roger-ieee-symposium-san-francisco
 date: 2013-04-23 16:35:11
-startdate: 2013-05-20 11:00:00
-enddate: 2013-05-22 11:59:00
+startdate: 2013-05-20 11:00
+enddate: 2013-05-22 11:59
 author: kelley
 category: event
 ---

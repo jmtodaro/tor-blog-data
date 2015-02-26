@@ -3,8 +3,8 @@ layout: event
 title: "Roger, others at WPES and ACM CCS, Chicago"
 permalink: roger-others-wpes-and-acm-ccs-chicago
 date: 2010-07-14 11:19:47
-startdate: 2010-10-03 00:19:00
-enddate: 2010-10-08 12:19:00
+startdate: 2010-10-03 00:19
+enddate: 2010-10-08 12:19
 author: arma
 category: event
 ---

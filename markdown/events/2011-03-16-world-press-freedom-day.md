@@ -3,8 +3,8 @@ layout: event
 title: "World Press Freedom Day"
 permalink: world-press-freedom-day
 date: 2011-03-16 15:27:34
-startdate: 2011-05-02 16:00:00
-enddate: 2011-05-02 17:30:00
+startdate: 2011-05-02 16:00
+enddate: 2011-05-02 17:30
 author: phobos
 category: event
 ---

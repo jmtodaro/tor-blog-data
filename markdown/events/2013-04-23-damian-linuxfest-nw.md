@@ -3,8 +3,8 @@ layout: event
 title: "Damian @ LinuxFest NW"
 permalink: damian-linuxfest-nw
 date: 2013-04-23 10:52:07
-startdate: 2013-04-27 05:00:00
-enddate: 2013-04-28 05:59:00
+startdate: 2013-04-27 05:00
+enddate: 2013-04-28 05:59
 author: kelley
 category: event
 ---

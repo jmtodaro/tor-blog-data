@@ -3,8 +3,8 @@ layout: event
 title: "Karen and Kelley @ Investigative Reporters & Editors Conference, San Antonio, TX"
 permalink: karen-and-kelley-investigative-reporters-editors-conference-san-antonio-tx
 date: 2013-05-25 11:14:15
-startdate: 2013-06-20 06:00:00
-enddate: 2013-06-23 06:59:00
+startdate: 2013-06-20 06:00
+enddate: 2013-06-23 06:59
 author: kelley
 category: event
 ---

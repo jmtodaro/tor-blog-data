@@ -3,8 +3,8 @@ layout: event
 title: "Tor Meeting up San Francisco"
 permalink: tor-meeting-san-francisco
 date: 2008-01-25 02:02:03
-startdate: 2008-01-24 19:00:00
-enddate: 2008-01-24 21:00:00
+startdate: 2008-01-24 19:00
+enddate: 2008-01-24 21:00
 author: root
 category: event
 ---

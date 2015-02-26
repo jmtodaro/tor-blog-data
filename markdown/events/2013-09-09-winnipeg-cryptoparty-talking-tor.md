@@ -3,8 +3,8 @@ layout: event
 title: "Winnipeg CryptoParty Talking Tor"
 permalink: winnipeg-cryptoparty-talking-tor
 date: 2013-09-09 08:07:59
-startdate: 2013-09-28 20:00:00
-enddate: 2013-09-28 22:00:00
+startdate: 2013-09-28 20:00
+enddate: 2013-09-28 22:00
 author: kelley
 category: event
 ---

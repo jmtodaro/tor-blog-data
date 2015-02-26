@@ -3,8 +3,8 @@ layout: event
 title: "Andrew at Soul of a New Machine Conference"
 permalink: andrew-soul-new-machine-conference
 date: 2009-03-26 16:44:06
-startdate: 2009-05-04 05:00:00
-enddate: 2009-05-05 05:59:00
+startdate: 2009-05-04 05:00
+enddate: 2009-05-05 05:59
 author: phobos
 category: event
 ---

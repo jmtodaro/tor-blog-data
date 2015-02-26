@@ -3,8 +3,8 @@ layout: event
 title: "Roger, Jacob, Steven in Berlin"
 permalink: roger-jacob-steven-berlin
 date: 2008-10-16 21:40:42
-startdate: 2008-12-26 10:39:00
-enddate: 2008-12-31 10:39:00
+startdate: 2008-12-26 10:39
+enddate: 2008-12-31 10:39
 author: arma
 category: event
 ---

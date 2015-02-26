@@ -3,8 +3,8 @@ layout: event
 title: "Tor's New Cambridge Offices - OPEN HOUSE"
 permalink: tors-new-cambridge-offices-open-house
 date: 2013-11-06 18:10:32
-startdate: 2013-11-20 16:00:00
-enddate: 2013-11-20 18:00:00
+startdate: 2013-11-20 16:00
+enddate: 2013-11-20 18:00
 author: kelley
 category: event
 ---

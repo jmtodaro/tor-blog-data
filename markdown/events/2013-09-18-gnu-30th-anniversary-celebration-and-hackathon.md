@@ -3,8 +3,8 @@ layout: event
 title: "GNU 30th anniversary celebration and hackathon"
 permalink: gnu-30th-anniversary-celebration-and-hackathon
 date: 2013-09-18 11:09:34
-startdate: 2013-09-28 06:00:00
-enddate: 2013-09-29 06:59:00
+startdate: 2013-09-28 06:00
+enddate: 2013-09-29 06:59
 author: phobos
 category: event
 ---

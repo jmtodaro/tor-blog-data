@@ -3,8 +3,8 @@ layout: event
 title: "Royal Military College of Canada"
 permalink: royal-military-college-canada
 date: 2011-03-29 10:09:01
-startdate: 2011-03-29 23:00:00
-enddate: 2011-03-30 23:59:00
+startdate: 2011-03-29 23:00
+enddate: 2011-03-30 23:59
 author: phobos
 category: event
 ---

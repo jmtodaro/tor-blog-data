@@ -3,8 +3,8 @@ layout: event
 title: "Sebastian @ CryptoParty in Frankfurt, Germany"
 permalink: sebastian-cryptoparty-frankfurt-germany
 date: 2013-05-15 21:20:33
-startdate: 2013-05-19 18:30:00
-enddate: 2013-05-19 21:30:00
+startdate: 2013-05-19 18:30
+enddate: 2013-05-19 21:30
 author: kelley
 category: event
 ---

@@ -3,8 +3,8 @@ layout: event
 title: "Andrew at WebInno22"
 permalink: andrew-webinno22
 date: 2009-07-06 22:44:47
-startdate: 2009-07-15 19:00:00
-enddate: 2009-07-15 22:00:00
+startdate: 2009-07-15 19:00
+enddate: 2009-07-15 22:00
 author: phobos
 category: event
 ---

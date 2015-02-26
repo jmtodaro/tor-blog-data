@@ -3,8 +3,8 @@ layout: event
 title: "Lunar @ 14th LSM Conference, Brussels"
 permalink: lunar-14th-lsm-conference-brussels
 date: 2013-06-30 19:45:22
-startdate: 2013-07-06 14:00:00
-enddate: 2013-07-11 14:59:00
+startdate: 2013-07-06 14:00
+enddate: 2013-07-11 14:59
 author: kelley
 category: event
 ---

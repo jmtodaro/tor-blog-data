@@ -3,8 +3,8 @@ layout: event
 title: "Roger @ FOCI '13, Washington, DC"
 permalink: roger-foci-13-washington-dc
 date: 2013-04-23 16:50:56
-startdate: 2013-08-13 11:00:00
-enddate: 2013-08-13 11:59:00
+startdate: 2013-08-13 11:00
+enddate: 2013-08-13 11:59
 author: kelley
 category: event
 ---

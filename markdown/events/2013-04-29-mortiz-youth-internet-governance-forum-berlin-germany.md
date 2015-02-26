@@ -3,8 +3,8 @@ layout: event
 title: "Mortiz @ Youth Internet Governance Forum, Berlin, Germany"
 permalink: mortiz-youth-internet-governance-forum-berlin-germany
 date: 2013-04-29 10:24:25
-startdate: 2013-06-01 05:00:00
-enddate: 2013-06-01 05:59:00
+startdate: 2013-06-01 05:00
+enddate: 2013-06-01 05:59
 author: kelley
 category: event
 ---

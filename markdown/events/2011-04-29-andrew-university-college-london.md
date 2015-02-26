@@ -3,8 +3,8 @@ layout: event
 title: "Andrew at University College of London"
 permalink: andrew-university-college-london
 date: 2011-04-29 09:21:33
-startdate: 2011-05-16 22:00:00
-enddate: 2011-05-16 22:59:00
+startdate: 2011-05-16 22:00
+enddate: 2011-05-16 22:59
 author: phobos
 category: event
 ---

@@ -3,8 +3,8 @@ layout: event
 title: "Steven, Paul, Ian, others at Oakland"
 permalink: steven-paul-ian-others-oakland
 date: 2008-05-12 10:44:39
-startdate: 2008-05-18 23:40:00
-enddate: 2008-05-22 23:40:00
+startdate: 2008-05-18 23:40
+enddate: 2008-05-22 23:40
 author: arma
 category: event
 ---

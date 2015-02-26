@@ -3,8 +3,8 @@ layout: event
 title: "Runa @ Digital Security Event, New York City, NY"
 permalink: runa-digital-security-event-new-york-city-ny
 date: 2013-10-24 06:56:36
-startdate: 2013-10-28 08:00:00
-enddate: 2013-10-28 09:30:00
+startdate: 2013-10-28 08:00
+enddate: 2013-10-28 09:30
 author: kelley
 category: event
 ---

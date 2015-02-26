@@ -3,8 +3,8 @@ layout: event
 title: "Runa @ SummerCon, New York City"
 permalink: runa-summercon-new-york-city
 date: 2013-05-27 15:58:50
-startdate: 2013-06-07 11:00:00
-enddate: 2013-06-07 11:00:00
+startdate: 2013-06-07 11:00
+enddate: 
 author: kelley
 category: event
 ---

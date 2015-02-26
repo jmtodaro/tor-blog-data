@@ -3,8 +3,8 @@ layout: event
 title: "Tor Annual Dev Meeting"
 permalink: tor-annual-dev-meeting
 date: 2013-04-23 10:13:30
-startdate: 2013-07-22 05:00:00
-enddate: 2013-07-22 05:00:00
+startdate: 2013-07-22 05:00
+enddate: 
 author: phobos
 category: event
 ---

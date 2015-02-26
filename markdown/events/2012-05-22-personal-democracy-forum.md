@@ -3,8 +3,8 @@ layout: event
 title: "Personal Democracy Forum"
 permalink: personal-democracy-forum
 date: 2012-05-22 10:59:49
-startdate: 2012-06-11 05:00:00
-enddate: 2012-06-12 05:59:00
+startdate: 2012-06-11 05:00
+enddate: 2012-06-12 05:59
 author: phobos
 category: event
 ---

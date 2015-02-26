@@ -3,8 +3,8 @@ layout: event
 title: "Karen and Kelley @ The Virtual Economy: Potential, Perplexities, and Promises, Washington DC"
 permalink: karen-and-kelley-virtual-economy-potential-perplexities-and-promises-washington-dc
 date: 2013-05-25 09:56:43
-startdate: 2013-06-13 04:00:00
-enddate: 2013-06-13 04:59:00
+startdate: 2013-06-13 04:00
+enddate: 2013-06-13 04:59
 author: kelley
 category: event
 ---

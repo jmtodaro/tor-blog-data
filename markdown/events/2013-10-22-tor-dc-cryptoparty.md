@@ -3,8 +3,8 @@ layout: event
 title: "Tor @ DC CryptoParty"
 permalink: tor-dc-cryptoparty
 date: 2013-10-22 05:25:09
-startdate: 2013-10-25 16:30:00
-enddate: 2013-10-25 16:30:00
+startdate: 2013-10-25 16:30
+enddate: 
 author: kelley
 category: event
 ---

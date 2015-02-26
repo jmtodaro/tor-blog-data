@@ -3,8 +3,8 @@ layout: event
 title: "Jake @ Consilience 2013 Conference, Bangalore, India"
 permalink: jake-consilience-2013-conference-bangalore-india
 date: 2013-05-15 21:28:05
-startdate: 2013-05-25 16:00:00
-enddate: 2013-05-26 16:59:00
+startdate: 2013-05-25 16:00
+enddate: 2013-05-26 16:59
 author: kelley
 category: event
 ---

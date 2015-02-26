@@ -3,8 +3,8 @@ layout: event
 title: "Roger in Budapest for Global Voices Summit"
 permalink: roger-budapest-global-voices-summit
 date: 2008-04-11 01:07:20
-startdate: 2008-06-25 14:00:00
-enddate: 2008-06-28 14:00:00
+startdate: 2008-06-25 14:00
+enddate: 2008-06-28 14:00
 author: arma
 category: event
 ---

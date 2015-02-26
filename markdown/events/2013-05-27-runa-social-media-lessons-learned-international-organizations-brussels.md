@@ -3,8 +3,8 @@ layout: event
 title: "Runa @ Social Media Lessons Learned from International Organizations, Brussels"
 permalink: runa-social-media-lessons-learned-international-organizations-brussels
 date: 2013-05-27 15:53:00
-startdate: 2013-05-30 10:00:00
-enddate: 2013-05-30 10:59:00
+startdate: 2013-05-30 10:00
+enddate: 2013-05-30 10:59
 author: kelley
 category: event
 ---

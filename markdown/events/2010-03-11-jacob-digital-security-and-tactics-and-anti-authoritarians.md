@@ -3,8 +3,8 @@ layout: event
 title: "Jacob at Digital Security and Tactics For (and By) Anti Authoritarians"
 permalink: jacob-digital-security-and-tactics-and-anti-authoritarians
 date: 2010-03-11 01:08:08
-startdate: 2010-03-12 18:00:00
-enddate: 2010-03-12 18:00:00
+startdate: 2010-03-12 18:00
+enddate: 
 author: ioerror
 category: event
 ---

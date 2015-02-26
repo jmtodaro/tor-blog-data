@@ -3,8 +3,8 @@ layout: event
 title: "Roger at UC Berkeley School of Information"
 permalink: roger-uc-berkeley-school-information
 date: 2011-04-13 08:26:05
-startdate: 2011-04-18 16:00:00
-enddate: 2011-04-18 17:30:00
+startdate: 2011-04-18 16:00
+enddate: 2011-04-18 17:30
 author: phobos
 category: event
 ---

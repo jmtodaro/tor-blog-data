@@ -3,8 +3,8 @@ layout: event
 title: "Democracy, Dissent, and Digital Media in the Arab World"
 permalink: democracy-dissent-and-digital-media-arab-world
 date: 2011-02-25 00:27:20
-startdate: 2011-03-01 08:30:00
-enddate: 2011-03-01 11:30:00
+startdate: 2011-03-01 08:30
+enddate: 2011-03-01 11:30
 author: phobos
 category: event
 ---

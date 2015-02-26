@@ -3,8 +3,8 @@ layout: event
 title: "Tor at SourceBarcelona"
 permalink: tor-sourcebarcelona
 date: 2010-08-11 22:42:27
-startdate: 2010-09-21 11:00:00
-enddate: 2010-09-22 11:59:00
+startdate: 2010-09-21 11:00
+enddate: 2010-09-22 11:59
 author: phobos
 category: event
 ---
