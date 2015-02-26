@@ -14,10 +14,6 @@ I was there (and on the first panel) because of Tor's work on [gathering Tor net
 
 <!-- more -->
 
-On Friday (Aug 27), I attended the "Workshop on Cyber Security Data for Experimentation" organized by the National Science Foundation (NSF). The premise of the [workshop](http://www.gtisc.gatech.edu/nsf_workshop10_agenda.html) was that many academics need real-world data sets to solve problems, whereas industry is the place with the real-world data sets and they don't have any real reason to share. By getting the academics and the industry people talking, with government funders nearby, they hoped to better understand the problems and maybe move things forward.
-
-I was there (and on the first panel) because of Tor's work on [gathering Tor network snapshots, performance data, and user statistics](https://metrics.torproject.org/). Tor's approach represents one way out of the trap where researchers never quite get the data they want, or if they do it isn't open enough (which hinders whether anybody else can reproduce their results).
-
 They also asked me to do the wrapup for the workshop. Here are the eight insights that I presented there (with a little bit of commentary from me) -- each of them is a topic that came up during the workshop that I thought warranted more attention.
 
 1) Researchers already have data, it's just not the data they think they want. Either they need to clean / understand / better analyze what they already have, or they need to figure out where they can gather the data themselves (universities sure have lots of users), or they can turn to organizations like PREDICT (or Tor) that are aggregating data sets for the purpose of making them available for researchers.

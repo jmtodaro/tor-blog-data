@@ -13,8 +13,6 @@ tags: ["new packages", "new releases", "progress report", "scalability"]
 
 <!-- more -->
 
-**New Releases**
-
 -   On December 14, we released updated Tor Browser Bundles for Windows, OSX, and  
      Linux, [https://blog.torproject.org/blog/new-tor-browser-bundle-packages-0](https://blog.torproject.org/blog/new-tor-browser-bundle-packages-0 "https://blog.torproject.org/blog/new-tor-browser-bundle-packages-0")
 -   On December 17th, we released an updated -stable version of Tor, 0.2.1.28.  

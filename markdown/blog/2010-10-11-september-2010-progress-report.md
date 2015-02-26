@@ -18,13 +18,6 @@ tags: ["new hires", "progress report", "releases", "translation"]
 
 <!-- more -->
 
-**New Hires**
-
--   Tom Heydt-Benjamin is contracted full-time to work on NSF-related research through December 2010.
--   Erinn Clark is contracted full-time to work on improving packaging, secure updater, tor browser bundles, and continuous integration systems through December 2010. Previously, Erinn was part-time.
-
-**New Releases**
-
 -   Tor Browser Bundle for Mac OS X is now available for the i386 architecture in 11 languages. This is an alpha release to let the community test functionality. Read more at [https://blog.torproject.org/blog/tor-browser-bundle-mac-os-x](https://blog.torproject.org/blog/tor-browser-bundle-mac-os-x "https://blog.torproject.org/blog/tor-browser-bundle-mac-os-x")
 -   Orbot, Tor for Android, was released into the Android Market. Android users can now officially download and install Orbot on their devices. [https://guardianproject.info/apps/orbot/](https://guardianproject.info/apps/orbot/ "https://guardianproject.info/apps/orbot/")
 -   Version 0.2.10 of the graphical controller for tor, Vidalia, is now available. The main change is the use of Tor's native geoip database to map relay IP addresses to country. This removes the remote geoip resolution that occurred over Tor in previous versions of Vidalia. Read more at [https://blog.torproject.org/blog/vidalia-0210-released](https://blog.torproject.org/blog/vidalia-0210-released "https://blog.torproject.org/blog/vidalia-0210-released")

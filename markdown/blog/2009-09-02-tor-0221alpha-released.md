@@ -21,16 +21,6 @@ We've been improving our packages and bundles:
 
 <!-- more -->
 
-Tor 0.2.2.1-alpha disables ".exit" address notation by default, allows  
- Tor clients to bootstrap on networks where only port 80 is reachable,  
- makes it more straightforward to support hardware crypto accelerators,  
- and starts the groundwork for gathering stats safely at relays.
-
-[https://www.torproject.org/download](https://www.torproject.org/download "https://www.torproject.org/download")
-
-We've been improving our packages and bundles:  
- **Packaging changes:**
-
 -   Upgrade Vidalia from 0.1.15 to 0.2.3 in the Windows and OS X  
      installer bundles. See  
      [https://trac.vidalia-project.net/browser/vidalia/tags/vidalia-0.2.3/CHAN...](https://trac.vidalia-project.net/browser/vidalia/tags/vidalia-0.2.3/CHANGELOG "https://trac.vidalia-project.net/browser/vidalia/tags/vidalia-0.2.3/CHANGELOG")  

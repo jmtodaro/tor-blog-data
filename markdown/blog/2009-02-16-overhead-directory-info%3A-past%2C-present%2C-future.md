@@ -15,10 +15,6 @@ First, what do I mean by "directory info"? Part of the Tor design is the \_disco
 
 <!-- more -->
 
-A growing number of people want to use Tor in low-bandwidth contexts (e.g. modems or shared Internet cafes in the Middle East) and mobile contexts (start up a Tor client, use it for a short time, and then stop it again). Currently Tor is nearly unusable in these situations, because it spends too many bytes fetching directory info. This post summarizes the steps we've taken so far to reduce directory overhead, and explains the steps that are coming next.
-
-First, what do I mean by "directory info"? Part of the Tor design is the \_discovery\_ component: how clients learn about the available Tor relays, along with their keys, locations, exit policies, and so on. Tor's solution so far uses a few trusted directory authorities that sign and distribute official lists of the relays that make up the Tor network.
-
 **History of v1, v2, v3 dir protocols**
 
 Over the years we've had several different "directory protocols", each more bandwidth-friendly than the last, and often providing stronger security properties as well. In Tor's [first directory design](https://gitweb.torproject.org/torspec.git/blob/HEAD:/attic/dir-spec-v1.txt) (Sept 2002), each authority created its own list of every relay descriptor, as one flat text file. A short summary of relay status at the top of the file told clients which relays were reachable. Every Tor client fetched a copy from an authority every 10 minutes.

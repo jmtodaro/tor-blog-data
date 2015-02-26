@@ -19,14 +19,6 @@ Below is an overview over the GSoC 2008 projects and a summary of their results.
 
 <!-- more -->
 
-As we started preparing to apply for the Google Summer of Code 2009, we realized that we haven't reported how last year's Summer of Code went for us.
-
-Tor's 2008 Google Summer of Code was a victim of Tor's increasing growth! We've got a lot more people involved now, and we have a lot more projects we want to tackle. But that also means we need to work harder at coordinating everything, and that's not as smooth as we'd hoped.
-
-Tor had the luxury to receive seven slots for students. GSoC 2008 overall, was a success; as the students and projects contributed a lot to the Tor project. Also, here I am, a former GSoC student writing a blog post for the project.
-
-Below is an overview over the GSoC 2008 projects and a summary of their results.
-
 *Domenik Bork: Configuration of Hidden Services with User Authorization in Vidalia*  
  Support for creating hidden services using a GUI was lacking from [Vidalia](http://vidalia-project.net), making it very hard for Vidalia users to correctly set up their own. It was necessary to change Tor's configuration file manually, and many users are overwhelmed by the task of even locating that file. Domenik created a new tab in the Vidalia settings to allow the creation and configuration of hidden services, and worked on the necessary UI changes to allow the creation of the new hidden services with user authorization (currently available only in alpha versions of Tor). As soon as the next stable Tor version lands, users will be able to set up their hidden services with user authorization with more convenience.
 

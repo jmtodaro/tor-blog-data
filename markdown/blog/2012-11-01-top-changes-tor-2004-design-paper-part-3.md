@@ -12,8 +12,6 @@ In this third and final installment of Nick Mathewson and Steven Murdoch's blog 
 
 <!-- more -->
 
-In this third and final installment of Nick Mathewson and Steven Murdoch's blog series (previously [part 1](https://blog.torproject.org/blog/top-changes-tor-2004-design-paper-part-1) and [part 2](https://blog.torproject.org/blog/top-changes-tor-2004-design-paper-part-2)) we discuss how Tor has made its traffic harder to fingerprint, as well as usability and security improvements to how users interact with Tor.
-
 9. Link protocol TLS, renegotiation
 -----------------------------------
 

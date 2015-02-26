@@ -19,14 +19,6 @@ The answer is,
 
 <!-- more -->
 
-I had a conversation with a private donor from Europe yesterday. During the discussion, I asked,  
-
-> Is there more we can do in the EU to help protect privacy and anonymity online?
-
-The answer is,  
-
-> You are already doing it as far as I am concerned: I started using TOR due to the recent coming into force of the legal requirement that UK ISPs must keep all web-browsing and e-mail connections for a year (?), and the fact that practically everyone and his cat (in government, of course) can ask to see those records without judicial review. Maybe you should stop talking about China and Tibet as places where anonymity are needed by journalists, and talk about the EU were anonymity is needed by all.
-
 We continued to discuss the surveillance society that is the UK, and how the UK government is happy to export it to the rest of Europe. Governments are also large and complex. Many times one part of the government proposes and starts to roll out some policy or law, only to have another branch work to stop it. An unrelated, but classic example of this is,
 
 > Anyway, you are right about your characterization of governmental organizations; just look at this link and try not to laugh too loudly:

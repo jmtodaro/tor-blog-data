@@ -13,8 +13,6 @@ The Tor network has grown to more than one thousand relays and millions of casua
 
 <!-- more -->
 
-The Tor network has grown to more than one thousand relays and millions of casual users over the past few years. We are proud of our network's popularity, but with growth has come increasing [performance problems](https://blog.torproject.org/blog/why-tor-is-slow) and attempts by some countries to block access to the Tor network. In order to address these problems, we need to learn more about the Tor network. In this post, I describe the current state of network measurements in Tor and some proposed additions to help us understand the network better.
-
 Right now, relays, [bridges](https://www.torproject.org/bridges), and directories gather the following data for statistical purposes:
 
 -   Relays and bridges count the number of bytes that they have pushed in 15-minute intervals over the past 24 hours. They include these data in extra-info documents that they send to the directory authorities whenever they publish their server descriptor. See Figure 3 in the [analysis of directory archives](http://git.torproject.org/checkout/metrics/master/report/dirarch/dirarch-2009-03-31.pdf) that shows that roughly half of the available bandwidth capacity is utilized.

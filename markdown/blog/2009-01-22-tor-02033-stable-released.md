@@ -34,53 +34,36 @@ When a stream at an exit relay is in state "resolving" or
 
 <!-- more -->
 
-Tor 0.2.0.33 fixes a variety of bugs that were making relays less useful  
- to users. It also finally fixes a bug where a relay or client that's  
- been off for many days would take a long time to bootstrap.
+  
+ closes the TCP connection. Bug introduced in Tor 0.1.2.1-alpha;  
+ reported by "wood".
 
-This update also fixes an important security-related bug reported by  
- Ilja van Sprundel. You should upgrade. (We'll send out more details  
- about the bug once people have had some time to upgrade.)
+When sending CREATED cells back for a given circuit, use a 64-bit  
+ connection ID to find the right connection, rather than an addr:port  
+ combination. Now that we can have multiple OR connections between  
+ the same ORs, it is no longer possible to use addr:port to uniquely  
+ identify a connection.
 
-[https://www.torproject.org/download.html](https://www.torproject.org/download.html "https://www.torproject.org/download.html")
+Bridge relays that had DirPort set to 0 would stop fetching  
+ descriptors shortly after startup, and then briefly resume  
+ after a new bandwidth test and/or after publishing a new bridge  
+ descriptor. Bridge users that try to bootstrap from them would  
+ get a recent networkstatus but would get descriptors from up to  
+ 18 hours earlier, meaning most of the descriptors were obsolete  
+ already. Reported by Tas; bugfix on 0.2.0.13-alpha.
 
-Changes in version 0.2.0.33 - 2009-01-21  
- **Security fixes:**
+Prevent bridge relays from serving their 'extrainfo' document  
+ to anybody who asks, now that extrainfo docs include potentially  
+ sensitive aggregated client geoip summaries. Bugfix on  
+ 0.2.0.13-alpha.
 
--   Fix a heap-corruption bug that may be remotely triggerable on  
-     some platforms. Reported by Ilja van Sprundel.
-
-**Major bugfixes:**
-
--   When a stream at an exit relay is in state "resolving" or  
-     "connecting" and it receives an "end" relay cell, the exit relay  
-     would silently ignore the end cell and not close the stream. If  
-     the client never closes the circuit, then the exit relay never  
-     closes the TCP connection. Bug introduced in Tor 0.1.2.1-alpha;  
-     reported by "wood".
--   When sending CREATED cells back for a given circuit, use a 64-bit  
-     connection ID to find the right connection, rather than an addr:port  
-     combination. Now that we can have multiple OR connections between  
-     the same ORs, it is no longer possible to use addr:port to uniquely  
-     identify a connection.
--   Bridge relays that had DirPort set to 0 would stop fetching  
-     descriptors shortly after startup, and then briefly resume  
-     after a new bandwidth test and/or after publishing a new bridge  
-     descriptor. Bridge users that try to bootstrap from them would  
-     get a recent networkstatus but would get descriptors from up to  
-     18 hours earlier, meaning most of the descriptors were obsolete  
-     already. Reported by Tas; bugfix on 0.2.0.13-alpha.
--   Prevent bridge relays from serving their 'extrainfo' document  
-     to anybody who asks, now that extrainfo docs include potentially  
-     sensitive aggregated client geoip summaries. Bugfix on  
-     0.2.0.13-alpha.
--   If the cached networkstatus consensus is more than five days old,  
-     discard it rather than trying to use it. In theory it could be  
-     useful because it lists alternate directory mirrors, but in practice  
-     it just means we spend many minutes trying directory mirrors that  
-     are long gone from the network. Also discard router descriptors as  
-     we load them if they are more than five days old, since the onion  
-     key is probably wrong by now. Bugfix on 0.2.0.x. Fixes bug 887.
+If the cached networkstatus consensus is more than five days old,  
+ discard it rather than trying to use it. In theory it could be  
+ useful because it lists alternate directory mirrors, but in practice  
+ it just means we spend many minutes trying directory mirrors that  
+ are long gone from the network. Also discard router descriptors as  
+ we load them if they are more than five days old, since the onion  
+ key is probably wrong by now. Bugfix on 0.2.0.x. Fixes bug 887.
 
 **Minor bugfixes:**
 

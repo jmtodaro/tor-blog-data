@@ -16,10 +16,7 @@ On October 10, we released Tor version 0.2.2.4-alpha. The release notes can be r
 
 <!-- more -->
 
-**New releases, new hires, new funding**  
- Christian Fromme joins Tor to work on development and maintenance of the growing number of tools we’ve created over the past year. Christian is a great python hacker with a strong security mindset. He’s going to enhance and maintain the tools such as tor weather, get-tor, bridge database, tor control, tor flow, check.torproject.org, etc. Christian has been a volunteer developer for the past year helping to enhance get-tor, tor weather, and generally helping out with our python coding needs.
-
-On October 10, we released Tor version 0.2.2.4-alpha. The release notes can be read at [https://blog.torproject.org/blog/tor-0224-alpha-released](https://blog.torproject.org/blog/tor-0224-alpha-released "https://blog.torproject.org/blog/tor-0224-alpha-released") or below:  
+  
  **Major bugfixes:**
 
 -   Fix several more asserts in the circuit build times code, for example one that causes Tor to fail to start once we have accumulated 5000 build times in the state file. Bugfixes on 0.2.2.2-alpha; fixes bug 1108.

@@ -13,8 +13,6 @@ In the past few days the Tor network is seeing a lot of new users [coming from I
 
 <!-- more -->
 
-In the past few days the Tor network is seeing a lot of new users [coming from Iran](https://blog.torproject.org/blog/measuring-tor-and-iran). At the same time we have heard from many people who want to support the Tor network by setting up more relays and [bridges](https://www.torproject.org/bridges). Now we wanted to know, are these just promises, or did the network really grow? Here are the results:
-
 The number of relays has grown by 359 or 24% to now 1827 relays within only one week to the highest [number of relays](https://git.torproject.org/checkout/metrics/master/report/dirarch/dirarch-2009-06-22.pdf) the network has ever seen. Likewise, the [number of bridges](https://git.torproject.org/checkout/metrics/master/report/bridges/bridges-2009-06-22.pdf) has increased by an incredible 69 % from 255 to 432 within one week. Awesome!
 
 ![](https://blog.torproject.org/files/relays-2009-06-21.png)

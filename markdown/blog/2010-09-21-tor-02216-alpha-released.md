@@ -30,24 +30,7 @@ Changes in version 0.2.2.16-alpha - 2010-09-17
 
 <!-- more -->
 
-Tor 0.2.2.16-alpha fixes a variety of old stream fairness bugs (most  
- evident at exit relays), and also continues to resolve all the little  
- bugs that have been filling up the bug tracker lately.
-
-[https://www.torproject.org/download.html.en](https://www.torproject.org/download.html.en "https://www.torproject.org/download.html.en")
-
-Packages will be appearing over the next few days or weeks (except  
- on Windows, which apparently doesn't build -- stay tuned for an  
- 0.2.2.17-alpha in that case).
-
-Changes in version 0.2.2.16-alpha - 2010-09-17  
- o Major bugfixes (stream-level fairness):  
- - When receiving a circuit-level SENDME for a blocked circuit, try  
- to package cells fairly from all the streams that had previously  
- been blocked on that circuit. Previously, we had started with the  
- oldest stream, and allowed each stream to potentially exhaust  
- the circuit's package window. This gave older streams on any  
- given circuit priority over newer ones. Fixes bug 1937. Detected  
+  
  originally by Camilo Viecco. This bug was introduced before the  
  first Tor release, in svn commit r152: it is the new winner of  
  the longest-lived bug prize.  

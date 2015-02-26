@@ -17,12 +17,6 @@ The changes are:
 
 <!-- more -->
 
-Vidalia 0.2.2 is released. It addresses an issue with openssl which causes the geoip lookups to fail on various versions of Windows. It also switches from the Nullsoft Installer to the Microsoft System Installer for better compatibility with Microsoft Windows.
-
-There are now separate Apple OS X builds, one for PowerPC architectures and one for i386 architectures. No more Universal binary bloat to download.
-
-The changes are:
-
 -   When the user clicks "Browse" in the Advanced settings page to locate  
      a new torrc, set the initial directory shown in the file dialog to the  
      current location of the user's torrc. (Ticket \#505)

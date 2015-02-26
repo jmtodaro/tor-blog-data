@@ -21,16 +21,6 @@ This release marks end-of-life for Tor 0.1.2.x. Those Tor versions have many kno
 
 <!-- more -->
 
-**New releases, new hires, new funding**  
- On February 8, we released versions 0.2.0.34-stable and 0.2.1.12-alpha.
-
-Tor 0.2.0.34 features several more security-related fixes. You should upgrade, especially if you run an exit relay (remote crash) or a directory authority (remote infinite loop), or you're on an older (pre-XP) or not-recently-patched Windows (remote exploit).
-
-This release marks end-of-life for Tor 0.1.2.x. Those Tor versions have many known flaws, and nobody should be using them. You should upgrade. If you're using a Linux or BSD and its packages are obsolete, stop using those packages and upgrade anyway.
-
-**Enhancements**  
- In Tor 0.2.1.12-alpha, if we're using bridges and our network goes away, be more willing to forgive our bridges and try again when we get an application request. Bugfix on 0.2.0.x.
-
 Continued to develop research and coding items for improving Tor's performance using a number of techniques. We're focusing on six main reasons for slow performance: congestion control, tcp backoff, wrong window sizes at start, lack of priority for circuit control cells, and user load from peer to peer bulk data transfers.
 
 We've implemented KDE Marble as an alternate visualization of the world into Vidalia. The first phase is to get a better 3-D globe for clients. The next phase is to enable “click to exit” so users can choose their country of preference for exit nodes. More on this coming in a future blog post.

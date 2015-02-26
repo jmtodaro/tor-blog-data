@@ -17,12 +17,6 @@ Today, a team of security researchers and cryptographers gave a talk at the [25t
 
 <!-- more -->
 
-Today, a team of security researchers and cryptographers gave a talk at the [25th Chaos Communication Congress (25C3)](http://events.ccc.de/congress/2008/), about a [nifty attack against X.509 certificates generated using the MD5 digest algorithm](http://www.win.tue.nl/hashclash/rogue-ca/). We figured that people will ask us about how this attack affects Tor, so I'm writing an answer in advance.
-
-**The short version:** This attack doesn't affect Tor.
-
-**The medium version:** This attack doesn't affect Tor, since Tor doesn't ever use MD5 certificates, and since Tor doesn't care what certificate authorities say. On the other hand, this attack probably *does* affect your browser. Check your browser vendor for updates over the next few days and weeks, and make sure you install them.
-
 **The long version:** To understand the attack, first you've got to understand certificates. When your browser makes a connection to a "secure" website, it uses a protocol called [SSL (or sometimes TLS)](http://en.wikipedia.org/wiki/Transport_layer_security) to see who it's talking to and encrypt the connection with them. In SSL, parties are identified using [X.509 certificates](http://en.wikipedia.org/wiki/X.509), which are issued to them by certificate authorities, or "CA"s. Your browser comes with [a big list of certificate authorities](http://www.mozilla.org/projects/security/certs/included/). When your browser sees a certificate that was signed by a certificate authority it recognizes, it knows it's talking to the right website.
 
 Certificates, like nearly anything of interest, are too big to sign as-is, so the CA uses a [cryptographic "digest" algorithm](http://en.wikipedia.org/wiki/Cryptographic_hash_function) to derive a short "hash" of the certificate that it can sign. The digest algorithm is supposed to be "collision resistant", so that nobody can find two different certificates that produce the same hash. Such a collision would be bad, since somebody who could produce two such certificates could get a CA to sign one of them, and then use that signature on the other one. Since the hash values would be the same, nobody would be able to tell that the CA had not really signed the second certificate.

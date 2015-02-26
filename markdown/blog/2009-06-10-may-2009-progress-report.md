@@ -16,11 +16,6 @@ tags: ["anonymity advocacy", "metrics", "progress report", "proposals", "transla
 
 <!-- more -->
 
-**New releases**  
- On May 25, we released Tor 0.2.1.15-rc.  
- On May 17, we released Tor VM 0.0.2.  
- On May 25, we released Vidalia 0.1.13 containing
-
 -   Remove an old warning on the relay settings page that running a bridge  
      relay requires Tor 0.2.0.8-alpha or newer.
 -   Add a workaround for a bug that prevented Vidalia's tray icon from  

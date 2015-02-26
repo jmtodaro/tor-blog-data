@@ -625,7 +625,7 @@ COPY topics (id, site_id, key, title, url, created_at, last_posted_at) FROM stdi
 549	1	/ux-sprint-2015-wrapup	UX Sprint 2015 wrapup	http://tor.jmtodaro.com/ux-sprint-2015-wrapup/	2015-02-09	2015-02-23
 550	1	/tor-0263-alpha-released	Tor 0.2.6.3-alpha is released	http://tor.jmtodaro.com/tor-0263-alpha-released/	2015-02-19	2015-02-24
 551	1	/tor-browser-45a4-released	Tor Browser 4.5a4 is released	http://tor.jmtodaro.com/tor-browser-45a4-released/	2015-02-25	2015-02-26
-552	1	/tor-browser-404-released	Tor Browser 4.0.4 is released	http://tor.jmtodaro.com/tor-browser-404-released/	2015-02-25	2015-02-25
+552	1	/tor-browser-404-released	Tor Browser 4.0.4 is released	http://tor.jmtodaro.com/tor-browser-404-released/	2015-02-25	2015-02-26
 \.
 
 

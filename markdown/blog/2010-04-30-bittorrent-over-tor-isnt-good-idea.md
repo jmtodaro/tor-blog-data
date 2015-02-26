@@ -15,10 +15,6 @@ There are three pieces to the attack (or three separate attacks that build on ea
 
 <!-- more -->
 
-An increasing number of people are asking us about the [recent paper](http://hal.inria.fr/docs/00/47/15/56/PDF/TorBT.pdf) coming out of Inria in France around Bittorrent and privacy attacks. This post tries to explain the attacks and what they imply.
-
-There are three pieces to the attack (or three separate attacks that build on each other, if you prefer).
-
 The first attack is on people who configure their Bittorrent application to proxy their tracker traffic through Tor. These people are hoping to keep their IP address secret from somebody looking over the list of peers at the tracker. The problem is that several popular Bittorrent clients (the authors call out uTorrent in particular, and I think Vuze does it too) just ignore their socks proxy setting in this case. Choosing to ignore the proxy setting is understandable, since modern tracker designs use the UDP protocol for communication, and socks proxies such as Tor only support the TCP protocol -- so the developers of these applications had a choice between "make it work even when the user sets a proxy that can't be used" and "make it mysteriously fail and frustrate the user". The result is that the Bittorrent applications made a different security decision than some of their users expected, and now it's biting the users.
 
 The attack is actually worse than that: apparently in some cases uTorrent, BitSpirit, and libTorrent simply write your IP address directly into the information they send to the tracker and/or to other peers. Tor is doing its job: Tor is \_anonymously\_ sending your IP address to the tracker or peer. Nobody knows where you're sending your IP address from. But that probably isn't what you wanted your Bittorrent client to send.

@@ -13,8 +13,6 @@ tags: ["advocacy", "measures of the tor network", "monthly status", "outreach", 
 
 <!-- more -->
 
-**New releases**
-
 -   On June 1, we released the latest Tor Browser Bundle for Linux, version 1.0.7. This is a compatibility release to allow the bundle to work on a wider variety of Linux distributions.
 -   On June 2, updated the Vidalia bundle for OS X PowerPC to include Vidalia 0.2.9.
 -   On June 14, we released orbot 0.0.8. This is a maintenance release to ﬁx issues discovered with Android 2.2.

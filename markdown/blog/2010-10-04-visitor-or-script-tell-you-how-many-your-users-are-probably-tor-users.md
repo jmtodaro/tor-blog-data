@@ -23,18 +23,6 @@ There's a lot of sensitive data involved here, which is why we give out
 
 <!-- more -->
 
-We have heard from web server operators who are wondering how many of  
- their visitors are using Tor to do so.
-
-We can now answer this question. We have an exit list archive back to  
- February 2010 and a tool to compare an Apache HTTP server log to these  
- lists. We can further guess how many of the requests come from Torbutton  
- users by looking at the user-agent string.
-
-There's a lot of sensitive data involved here, which is why we give out  
- the archived exit lists and our tool so that web server operators can  
- run the comparison themselves.
-
 You'll find the exit list archive and the VisiTor tool here:
 
 -   [https://metrics.torproject.org/data.html\#exitlist](https://metrics.torproject.org/data.html#exitlist "https://metrics.torproject.org/data.html#exitlist")

@@ -15,9 +15,7 @@ tags: ["advocacy", "bug fixes", "enhancements", "feature removals", "progress re
 
 <!-- more -->
 
-**New releases, new hires, new funding**  
- On January 19, 2010 we released the latest in the -stable series, Tor 0.2.1.22-stable.  
- Tor 0.2.1.22 fixes a critical privacy problem in bridge directory authorities -- it would tell you its whole history of bridge descriptors if you make the right directory request. This stable update also rotates two of the seven v3 directory authority keys and locations.  
+  
  **Directory authority changes**:
 
 -   Rotate keys (both v3 identity and relay identity) for moria1 and gabelmoo.

@@ -25,19 +25,7 @@ o Major features (performance):
 
 <!-- more -->
 
-**New Releases**  
- On March 7th, we released the latest in the -alpha series, Tor 0.2.2.10-alpha. Tor 0.2.2.10-alpha fixes a regression introduced in 0.2.2.9-alpha that could prevent relays from guessing their IP address correctly. It also starts the groundwork for another client-side performance boost, since currently we're not making efficient use of relays that have both the Guard flag and the Exit flag.
-
-o Major bugfixes:  
- - Fix a regression from our patch for bug 1244 that caused relays  
- to guess their IP address incorrectly if they didn't set Address  
- in their torrc and/or their address fails to resolve. Bugfix on  
- 0.2.2.9-alpha; fixes bug 1269.
-
-o Major features (performance):  
- - Directory authorities now compute consensus weightings that instruct  
- clients how to weight relays flagged as Guard, Exit, Guard+Exit,  
- and no flag. Clients that use these weightings will distribute  
+  
  network load more evenly across these different relay types. The  
  weightings are in the consensus so we can change them globally in  
  the future. Extra thanks to "outofwords" for finding some nasty  
