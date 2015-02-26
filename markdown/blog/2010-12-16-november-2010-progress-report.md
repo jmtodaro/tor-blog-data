@@ -13,6 +13,8 @@ tags: ["enhancements", "fixes", "progress report", "translations"]
 
 <!-- more -->
 
+**New Releases**
+
 -   On November 16 we released the latest in the Tor -alpha series. Tor 0.2.2.18-alpha fixes several crash bugs that have been nagging us lately, makes unpublished bridge relays able to detect their IP address, and fixes a wide variety of other bugs to get us much closer to a stable release. [https://blog.torproject.org/blog/tor-02218-alpha-available](https://blog.torproject.org/blog/tor-02218-alpha-available "https://blog.torproject.org/blog/tor-02218-alpha-available")
 -   On November 23, we released the latest in the Tor -stable series. Tor 0.2.1.27 makes relays work with OpenSSL 0.9.8p and 1.0.0.b --yet another OpenSSL security patch broke its compatibility with Tor. We also took this opportunity to fix several crash bugs, integrate a new directory authority, and update the bundled GeoIP database. [https://blog.torproject.org/blog/tor-02127-released](https://blog.torproject.org/blog/tor-02127-released "https://blog.torproject.org/blog/tor-02127-released")
 -   On November 21, we released the latest in the Tor -alpha series. Yet another OpenSSL security patch broke its compatibility with Tor: Tor 0.2.2.19-alpha makes relays work with OpenSSL 0.9.8p and 1.0.0.b. [https://blog.torproject.org/blog/tor-02219-alpha-out](https://blog.torproject.org/blog/tor-02219-alpha-out "https://blog.torproject.org/blog/tor-02219-alpha-out")

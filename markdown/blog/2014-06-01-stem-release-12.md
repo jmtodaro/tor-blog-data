@@ -41,7 +41,18 @@ New connect() Function
 
 This release of Stem provides a new, even easier method for establishing controllers. Connecting to Tor can now be as easy as...
 
-     import sys  from stem.connection import connect  if __name__ == '__main__':   controller = connect()    if not controller:     sys.exit(1)  # unable to get a connection    print 'Tor is running version %s' % controller.get_version()   controller.close() 
+    import sys
+
+    from stem.connection import connect
+
+    if __name__ == '__main__':
+      controller = connect()
+
+      if not controller:
+        sys.exit(1)  # unable to get a connection
+
+      print 'Tor is running version %s' % controller.get_version()
+      controller.close()
 
   
 

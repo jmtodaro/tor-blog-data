@@ -16,6 +16,11 @@ The TorBEL codebase as released today contains several important
 
 <!-- more -->
 
+We have finally crossed the point of no return: 16 August 2010, 1900 UTC. Google Summer of Code 2010 is over; it's been a lot of fun and a lot of hard work participating in GSoC this year, and I hope that I have accomplished my goal. I took up the task of redesigning [TorDNSEL](https://exitlist.torproject.org), a DNSBL-style interface for querying information about Tor exit nodes, to be more thorough, more usable, and more maintainable. Out of this effort came TorBEL, a set of specifications and Python tools that try to address this problem.
+
+The TorBEL codebase as released today contains several important  
+ pieces:
+
 -   A more thorough [specification](http://git.spanning-tree.org/index.cgi/torbel/tree/doc/test-spec.txt?id=torbel-0.1-gsoc) for active testing of the Tor network to determine fine-grained reachability through exit relays
 -   A [specification](http://git.spanning-tree.org/index.cgi/torbel/tree/doc/data-spec.txt?id=torbel-0.1-gsoc) for the export of this data in bulk to consumers, in CSV and JSON formats and via the DNSEL blocklist interface.
 -   A high-throughput implementation of the active testing scheme using the [Twisted](http://twistedmatrix.com/trac/) framework (torbel)

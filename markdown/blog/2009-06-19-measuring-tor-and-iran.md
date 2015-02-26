@@ -13,6 +13,8 @@ I've been fielding some calls from the press about Tor and Iran. Someone quoted 
 
 <!-- more -->
 
+I've been fielding some calls from the press about Tor and Iran. Someone quoted me as saying "double the clients from Iran over the past few days". We wondered, what are the real numbers? What does our network see from Iran? Is port 443 or https:// really blocked? Here's what we've discovered in the past day of working with the [new metrics](https://blog.torproject.org/blog/performance-measurements-and-blockingresistance-analysis-tor-network) we've developed to be safe to collect without compromising anyone's anonymity.
+
 This first dataset is from one of the Directory Authorities. We have six authorities, so a plausible scaling factor is 6, assuming all authorities are seeing equal requests (it could be more or less than 6, too). We don't know if the authorities are seeing equal requests, as they listen on different TCP ports, are located in different parts of the world, and clients will chose one randomly. This graph roughly shows the number of requests from new Tor clients coming from IP addresses that our geoip database reports as Iran.  
 
 ![](https://blog.torproject.org/files/new_tor_clients_from_iranian_ip_space.png)

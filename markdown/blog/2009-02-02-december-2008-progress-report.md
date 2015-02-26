@@ -24,7 +24,18 @@ Tor 0.2.1.9-alpha (released December 25) fixes many more bugs, some of them secu
 
 <!-- more -->
 
-  
+**Releases**  
+ Tor 0.2.1.8-alpha (released December 8) fixes some crash bugs in earlier alpha releases, builds better on unusual platforms like Solaris and old OS X, and fixes a variety of other issues.  
+ [http://archives.seul.org/or/talk/Dec-2008/msg00129.html](http://archives.seul.org/or/talk/Dec-2008/msg00129.html "http://archives.seul.org/or/talk/Dec-2008/msg00129.html")
+
+Tor Browser Bundle 1.1.6 (released December 2) and 1.1.7 (released December 12) update Tor to 0.2.1.8-alpha, include a new version of Firefox, and attempt to wrestle with the "AllowMultipleInstances=false" design that could allow us to run Tor Browser Bundle alongside a normal Firefox.  
+ [https://svn.torproject.org/svn/torbrowser/trunk/README](https://svn.torproject.org/svn/torbrowser/trunk/README "https://svn.torproject.org/svn/torbrowser/trunk/README")
+
+Tor 0.2.1.9-alpha (released December 25) fixes many more bugs, some of them security-related.  
+ [http://archives.seul.org/or/talk/Jan-2009/msg00029.html](http://archives.seul.org/or/talk/Jan-2009/msg00029.html "http://archives.seul.org/or/talk/Jan-2009/msg00029.html")
+
+**Bug fixes**  
+ Security fixes in the Tor 0.2.1.8-alpha release:  
  - When the client is choosing entry guards, now it selects at most one guard from a given relay family. Otherwise we could end up with all of our entry points into the network run by the same operator. Suggested by Camilo Viecco. Fix on 0.1.1.11-alpha.  
  - The "ClientDNSRejectInternalAddresses" config option wasn't being consistently obeyed: if an exit relay refuses a stream because its exit policy doesn't allow it, we would remember what IP address the relay said the destination address resolves to, even if it's an internal IP address. Bugfix on 0.2.0.7-alpha; patch by rovv.  
  - The "User" and "Group" config options did not clear the supplementary group entries for the Tor process. The "User" option is now more robust, and we now set the groups to the specified user's primary group. The "Group" option is now ignored. For more detailed logging on credential switching, set CREDENTIAL\_LOG\_LEVEL in common/compat.c to LOG\_NOTICE or higher. Patch by Jacob Appelbaum and Steven Murdoch. Bugfix on 0.0.2pre14. Fixes bug 848.

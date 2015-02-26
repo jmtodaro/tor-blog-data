@@ -19,6 +19,14 @@ Jacky talked on his [Chinese blog](http://jcvenue.com/blog/gfw-2.html):
 
 <!-- more -->
 
+We didn't expect Tor wouldn't be blocked in China for a long time before it became true days ago.  We've got a lot of users' reports on that from different regions in China about torproject.org was blocked by [Great Firewall](http://en.wikipedia.org/wiki/Internet_censorship_in_the_People%27s_Republic_of_China) system in China.    
+ [McFred's Blog](http://mcfreds.blogspot.com/2008/06/torprojectorg-blocked-in-china.html) said:
+
+> torproject.org is the official Tor(The Onion Router) web site, found recently been blocked by China's national firewall, also known as Great Firewall.  
+>  Trace route from Beijing, China shows the destination is unreachable, seems they changed the route table on the router at IP 202.97.66.37, refuse connection to Tor web site.
+
+Jacky talked on his [Chinese blog](http://jcvenue.com/blog/gfw-2.html):
+
 > Just there's an online survey on Tor usage in China, I found Tor official site has been "harmonized" when I was curious about how it said about any news...
 
 Fons said on his "[China Herald](http://www.chinaherald.net/2008/06/internet-censor-starts-blocking-proxies.html)" blog:

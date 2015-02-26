@@ -17,6 +17,12 @@ It also includes Tor's geoip database. This will enable people to set ExitNodes 
 
 <!-- more -->
 
+This is an open call for testing of the soon to be released Tor Browser Bundle 1.2.0.
+
+The major changes in this version are that you can now run multiple instances of Firefox. This means each Firefox browser is independent of the others. They won't leak urls, scripts, etc between instances.
+
+It also includes Tor's geoip database. This will enable people to set ExitNodes by country code. You still have to manually edit the torrc file. We'd love it if someone wrote a way to do this into Vidalia (such as right click on a country in the network map and choose "exit here").
+
 -   Switch to launching Firefox directly from Vidalia to allow multiple instances of Firefox
 -   Update Firefox to 3.0.10
 -   Update to Qt 4.5.1

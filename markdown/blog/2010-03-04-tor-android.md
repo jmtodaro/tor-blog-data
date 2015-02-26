@@ -15,6 +15,10 @@ We've codenamed the Tor on Android project Orbot; Orbot is a single Android pack
 
 <!-- more -->
 
+The Tor Project has been working very closely with [Nathan Freitas](http://openideals.com/) and [The Guardian Project](http://openideals.com/guardian/) to create an Android release. This is an early beta release and is not yet suitable for high security needs. The Android web browser is not protected by Torbutton and we have not yet developed an anonymous browser on the Android platform. Please be cautious with this release, it's probably pretty fragile and it's certainly not ready for serious use.
+
+We've codenamed the Tor on Android project Orbot; Orbot is a single Android package that provides a new Tor controller, Privoxy as our trusty little HTTP proxy, libevent, and Tor itself. This Android package is using the C reference implementation of Tor. Orbot should be orders of magnitude safer than other Tor implementations on Android and it's our official release. Everything you'll need for using Tor is in the package. :-)
+
 We now have [an Android webpage](https://www.torproject.org/docs/android.html) that discusses the Orbot Android package in some detail.
 
 Orbot has some commonly used features such as support for bridges. It also has advanced features such as per application Torification on modified devices (commonly called 'rooted' phones). It has been tested on Android 1.5, 1.6, 2.0, 2.1 and on non-standard customized builds of Android. We think we've ironed out most of the kinks but we're looking for some community feedback from devices in the wild. We'd especially like to hear about the UI and what applications you commonly use with Tor.

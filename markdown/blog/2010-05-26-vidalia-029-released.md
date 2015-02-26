@@ -17,6 +17,12 @@ The full changelog is:
 
 <!-- more -->
 
+On May 20, we released Vidalia 0.2.9. Fixes include Qt 4.6.2 compatibility, new cert, and some new translations.
+
+You can download it at [https://www.torproject.org/vidalia/](https://www.torproject.org/vidalia/ "https://www.torproject.org/vidalia/"). Packages are slowly being updated to include this version of Vidalia.
+
+The full changelog is:
+
 -   Remove the GoDaddy CA certificate bundle since we changed the certificate used to authenticate connections to geoips.vidalia-project.net for downloading GeoIP information from a commercial GoDaddy certificate to a free CACert certificate.
 -   Define -D\_WIN32\_WINNT=0x0501 on Windows builds so that MiniUPnPc will build with the latest versions of MinGW.
 -   Modify miniupnpc.c from MiniUPnPc's source so that it will build on Mac OS X 10.4.

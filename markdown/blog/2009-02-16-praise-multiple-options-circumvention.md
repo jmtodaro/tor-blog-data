@@ -15,6 +15,10 @@ Expanding on that notion, the various anonymity, privacy, and circumvention tool
 
 <!-- more -->
 
+I was asked the other day why we don't advocate for just Tor as the one tool to rule them all. My glib answer is "of course we do, however the larger the toolbox, the better off the world."
+
+Expanding on that notion, the various anonymity, privacy, and circumvention tools target different people and use cases. Tor advocates for [Anonymity first, circumvention second](https://blog.torproject.org/blog/circumvention-and-anonymity). It would be very naive of us to think that we can solve all use cases. In fact, it would be silly of us to try to dictate the needs of any user. The larger the ecosystem of privacy and anonymity tools, the more options for users, and the better off we are as a whole.
+
 At the core, Tor is a protocol and a set of specifications. Others can take our documentation and build upon it for their own tool. The EU PRIME project did this and created a fully Java implementation of Tor with a GUI. The result was called OnionCoffee. It's woefully out of date now, but the proof of concept stands; it can be done. The purpose of specifying a protocol is to leave interpretation and implementation as open as possible. Imagine if the creators of the Internet Protocol restricted implementations to exactly as they had envisioned 40-something years ago. As for Tor, there is much more protocol work to be done, research completed, and our reference implementation polished before we can consider online anonymity solved, or even close to solved.
 
 We are often asked, "I use tool X, what do you think about it? Should I switch to Tor?"

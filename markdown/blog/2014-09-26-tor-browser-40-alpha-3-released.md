@@ -13,7 +13,8 @@ The third alpha release of the 4.0 series is available from the [extended downlo
 
 The individual bundles of this release are signed by Georg Koppen. You can find his key fingerprint on the [Signing Keys](https://www.torproject.org/docs/signing-keys.html.en) page. It is:
 
-      pub   4096R/4B7C3223 2013-07-30  Fingerprint = 35CD74C24A9B15A19E1A81A194373AA94B7C3223 
+     pub   4096R/4B7C3223 2013-07-30
+     Fingerprint = 35CD74C24A9B15A19E1A81A194373AA94B7C3223
 
   
   

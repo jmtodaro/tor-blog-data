@@ -17,6 +17,12 @@ Here's the longer version, in case you're more curious. This is going to assume 
 
 <!-- more -->
 
+By this point, some people have started to ask me about the Rizzo and Duong's new [CRIME](http://www.ekoparty.org//2012/juliano-rizzo.php) attack on TLS.
+
+The short version is the same as with [BEAST](https://blog.torproject.org/blog/tor-and-beast-ssl-attack) last year: Tor is not affected. TorBrowser is not affected. Other applications may be affected; please consult your app vendor.
+
+Here's the longer version, in case you're more curious. This is going to assume a little technical background, but not too much.
+
 **The attack**: CRIME exploits TLS compression to learn secret cookies. (Approximate description follows.) The attacker uses JavaScript (or some other means) to cause a client to make an encrypted, compressed request to a webserver. Part of that request (for example, the URL) is under the attacker's control. Part of that request (for example, the cookie) is secret. TLS does not hide the length of what it's transmitting[\*], so the attacker can learn the length of the compressed request. The length of the compressed request will depend on how much redundancy there is between the attacker-controlled data and the rest of the request (including the secret). By learning how much redundancy there was, the attacker can learn how many bytes of attacker-controlled information were shared with the secret, and thereby how many bytes.
 
 You can imagine it as something like a sophisticated game of [Mastermind](http://en.wikipedia.org/wiki/Mastermind_(board_game)): the attacker gets to guess a cookie, and they learn something how much of the cookie they guessed right. With enough guesses, they can learn the cookie, which lets them impersonate the client to the server.

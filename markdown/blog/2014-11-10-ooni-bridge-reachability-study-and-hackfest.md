@@ -35,7 +35,7 @@ The first visualisation we produced is that of the reachability of bridges categ
 You can visit the actual page by clicking on the picture above.  
  Please note that because the tests are new and experimental you might find inaccuracies or bugs, so don't seriously rely on it for research just yet.
 
-We also developed a [data pipeline](https://github.com/TheTorProject/ooni-pipeline/blob/master/Readme.md#ooni-pipeline<br%20/>%20) that places all of the collected OONI reports into a database. This makes it much easier to search/aggregate and visualise the data of the reports.
+We also developed a [data pipeline](https://github.com/TheTorProject/ooni-pipeline/blob/master/Readme.md#ooni-pipeline<br%20/>) that places all of the collected OONI reports into a database. This makes it much easier to search/aggregate and visualise the data of the reports.
 
 To read more about this project check out the [ooni-dev mailing list thread](https://lists.torproject.org/pipermail/ooni-dev/2014-November/000187.html) on this topic.
 

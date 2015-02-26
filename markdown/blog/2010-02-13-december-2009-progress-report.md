@@ -15,7 +15,9 @@ tags: ["bug fixes", "enhancements", "metrics", "progress report", "releases", "t
 
 <!-- more -->
 
-  
+**New releases, new hires, new funding**  
+ Erinn Clark joins Tor to develop, enhance, and upgrade our package build system. Her initial goals are to configure, maintain, and automate builds of tor and vidalia for Windows, OS X, ubuntu, debian, centos, fedora, and opensuse systems. Secondary goals are to develop a builtbot system that includes as many disparate operating systems as possible, including Apple OS X and Microsoft  
+ Windows flavors.  
  On December 2, 2009, we released torbutton 1.2.3. This is the first release that addresses the  
  Firefox 3.5.x codebase. It contains the following changes:
 

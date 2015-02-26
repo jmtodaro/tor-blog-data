@@ -101,14 +101,19 @@ Because the download integrity for all of these packages is abysmal, here is a [
 
 Once you have all of those packages, boot your tablet into fastboot mode by holding the Power button and the Volume Down button during a cold boot. Then, attach it to your desktop/laptop machine with a USB cable and run the following commands from a Linux/UNIX shell:
 
-      apt-get install android-tools-adb android-tools-fastboot  fastboot devices  fastboot oem unlock  fastboot flash recovery openrecovery-twrp-2.7.0.0-flo.img 
+     apt-get install android-tools-adb android-tools-fastboot
+     fastboot devices
+     fastboot oem unlock
+     fastboot flash recovery openrecovery-twrp-2.7.0.0-flo.img
 
   
 After the recovery firmware is flashed successfully, use the volume keys to select *Recovery* and hit the power button to reboot the device (or power it off, and then boot holding Power and Volume Up).
 
 Once Team Win boots, go into *Wipe* and select *Advanced Wipe*. Select all checkboxes except for USB-OTG, and slide to wipe. Once the wipe is done, click *Format Data*. After the format completes, issue these commands from your Linux shell:
 
-      adb server start  adb push cm-11-20140504-SNAPSHOT-M6-flo.zip /sdcard/  adb push gapps-kk-20140105-signed.zip /sdcard/ # Optional 
+     adb server start
+     adb push cm-11-20140504-SNAPSHOT-M6-flo.zip /sdcard/
+     adb push gapps-kk-20140105-signed.zip /sdcard/ # Optional
 
   
 After this push process completes, go to the *Install* menu, and select the Cyanogen zip, and optionally the gapps zip for installation. Then click Reboot, and select System.
@@ -119,7 +124,9 @@ Then, go into *Settings -\> About Tablet* and scroll to the bottom and click the
 
 After that, run the following commands from your Linux shell:
 
-      adb install FDroid.apk  adb install org.torproject.android_86.apk  adb install com.googlecode.droidwall_157.apk 
+     adb install FDroid.apk
+     adb install org.torproject.android_86.apk
+     adb install com.googlecode.droidwall_157.apk
 
   
 You will need to approve the ADB connection for the first package, and then they should install normally.
@@ -212,7 +219,8 @@ We will also do this from the shell, in order to set a different password than y
 
 To do this, open the Terminal app, and type the following commands:
 
-     su vdc cryptfs enablecrypto inplace NewMoreSecurePassword 
+    su
+    vdc cryptfs enablecrypto inplace NewMoreSecurePassword
 
   
 Watch for typos! That command does not ask you to re-type that password for confirmation.
@@ -246,7 +254,7 @@ Installation and Setup: Tor and Firewall configuration
 
 Ok, now let's install the firewall and tor support scripts. Go back into *Settings -\> Developer Options* and enable *USB Debugging* and change *Root Access* to *Apps and ADB*. Then, unzip the [android-firewall.zip](https://people.torproject.org/~mikeperry/android-hardening/android-firewall.zip) on your laptop, and run the [installation script](https://people.torproject.org/~mikeperry/android-hardening/android-firewall/install-firewall.sh):
 
-     ./install-firewall.sh 
+    ./install-firewall.sh
 
   
 That firewall installation provides several key scripts that provide functionality that is currently impossible to achieve with any app (including Orbot):
@@ -273,7 +281,10 @@ We use Droidwall instead of Orbot or AFWall+ for five reasons:
   
 To make use of the firewall scripts, open up Droidwall and hit the config button (the vertical three dots), go to *More -\> Set Custom Script*. Enter the following:
 
-     . /data/local/firewall-torify-all.sh #. /data/local/firewall-allow-adb.sh #. /data/local/firewall-allow-linphone-udp.sh #. /data/local/firewall-allow-nontor-browser.sh 
+    . /data/local/firewall-torify-all.sh
+    #. /data/local/firewall-allow-adb.sh
+    #. /data/local/firewall-allow-linphone-udp.sh
+    #. /data/local/firewall-allow-nontor-browser.sh
 
   
 **NOTE:** You must not make any typos in the above. If you mistype any of those files, things may break. Because the userinit.sh script blocks all network at boot, if you make a typo in the torify script, you will be unable to use the Internet at all!
@@ -434,7 +445,8 @@ To use this script over the network without a usb cable, enable both USB Debuggi
 
 Prior to using network adb, you must edit your Droidwall custom scripts to allow it (by removing the '\#' in the **\#. /data/local/firewall-allow-adb.sh** line you entered earlier), and then run the following commands from a non-root Linux shell on your desktop/laptop (the *ADB Over Network* setting will tell you the IP and port):
 
-     killall adb adb connect ip:5555 
+    killall adb
+    adb connect ip:5555
 
 **VERY IMPORTANT**: Don't forget to disable *USB Debugging*, as well as the Droidwall adb exemption when you are done with the backup!
 
@@ -468,19 +480,21 @@ Even so, since we lack public schematics for the Nexus 7 to verify that cell com
 
 To do this, open the Terminal app, and run:
 
-     su cd /dev/block/platform/msm_sdcc.1/by-name dd if=/dev/zero of=./radio 
+    su
+    cd /dev/block/platform/msm_sdcc.1/by-name
+    dd if=/dev/zero of=./radio
 
   
 I have wiped that partition while the device was running without any issue, or any additional errors from ADB logs.
 
 Note that an anonymous commenter also suggested it is [possible to disable the baseband](https://blog.torproject.org/blog/mission-impossible-hardening-android-security-and-privacy#comment-55280) of a cell-enabled device using a series of Android service disable commands, and by wiping that radio block device. I have not tested this on a device other than the WiFI-only Nexus 7, though, so proceed with caution. If you try those steps on a cell-enabled device, you should archive a copy of your radio firmware first by doing something like the following from that dev directory that contains the radio firmware block device.
 
-     dd if=./radio of=/sdcard/radio.img 
+    dd if=./radio of=/sdcard/radio.img
 
   
 If anything goes wrong, you can restore that image with:
 
-     dd if=/sdcard/radio.img of=./radio 
+    dd if=/sdcard/radio.img of=./radio
 
   
 

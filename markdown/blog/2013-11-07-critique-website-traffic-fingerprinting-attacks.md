@@ -79,11 +79,17 @@ If instead of trying to enumerate specific visitors, the adversary is trying to 
 
 Using Bayes Theorem, it is possible to convert from the true and false positive rates of **P(Classified|Censored)** and **P(Classified|\~Censored)** to the Bayesian Detection Rate of **P(Censored|Classified)** like so:
 
-     P(Censored|Classified) =  P(Classified|Censored)*P(Censored) /   (P(Censored)*P(Classified|Censored) +     P(~Censored)*P(Classified|~Censored)) 
+    P(Censored|Classified) =
+     P(Classified|Censored)*P(Censored) /
+      (P(Censored)*P(Classified|Censored) + 
+       P(~Censored)*P(Classified|~Censored))
 
 Under conditions of low censorship (0.1% -- such as when the Tor traffic successfully blends in with a large volume of innocuous Internet traffic, or when Tor is used for both censorship circumvention and general privacy), with a true positive rate of 0.6 and a false positive rate of 0.005, we have:
 
-     P(Censored|Classified) = 0.6*.001/(.001*0.6+.999*.005) P(Censored|Classified) = 0.10 P(~Censored|Classified) = 1 - P(Censored|Classified) P(~Censored|Classified) = 0.90 
+    P(Censored|Classified) = 0.6*.001/(.001*0.6+.999*.005)
+    P(Censored|Classified) = 0.10
+    P(~Censored|Classified) = 1 - P(Censored|Classified)
+    P(~Censored|Classified) = 0.90
 
 This means that when a traffic pattern is classified as a censored/target page, there is a 90% chance that the classifier is actually telling the adversary to interfere with an unrelated traffic stream, and only a 10% chance that the classifier was actually correct.
 

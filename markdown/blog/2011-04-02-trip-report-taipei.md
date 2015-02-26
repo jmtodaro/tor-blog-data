@@ -6,7 +6,6 @@ date: 2011-04-02 03:00:01
 author: arma
 category: blog
 comments: disabled
-tags: [""]
 ---
 
 I visited Taipei for several days at the end of March to do some Tor talks and generally spread the Tor gospel to another near-China country. I ended up doing five Tor talks in three days.

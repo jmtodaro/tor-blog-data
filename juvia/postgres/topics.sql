@@ -618,12 +618,14 @@ COPY topics (id, site_id, key, title, url, created_at, last_posted_at) FROM stdi
 542	1	/some-thoughts-hidden-services	Some thoughts on Hidden Services	http://tor.jmtodaro.com/some-thoughts-hidden-services/	2014-12-30	2015-01-19
 543	1	/tor-talk-31c3	The Tor talk at 31c3	http://tor.jmtodaro.com/tor-talk-31c3/	2014-12-30	2015-01-09
 544	1	/tor-0262-alpha-released	Tor 0.2.6.2-alpha is released	http://tor.jmtodaro.com/tor-0262-alpha-released/	2014-12-31	2015-01-13
-545	1	/tor-browser-403-released	Tor Browser 4.0.3 is released	http://tor.jmtodaro.com/tor-browser-403-released/	2015-01-13	2015-02-19
-546	1	/tor-browser-45a3-released	Tor Browser 4.5a3 is released	http://tor.jmtodaro.com/tor-browser-45a3-released/	2015-01-16	2015-02-22
-547	1	/tor-design-proposals-how-we-make-changes-our-protocol	Tor design proposals: how we make changes to our protocol	http://tor.jmtodaro.com/tor-design-proposals-how-we-make-changes-our-protocol/	2015-02-08	2015-02-18
-548	1	/guest-post-library-freedom-project-bringing-privacy-and-anonymity-libraries	Guest Post: The Library Freedom Project: Bringing privacy and anonymity to libraries	http://tor.jmtodaro.com/guest-post-library-freedom-project-bringing-privacy-and-anonymity-libraries/	2015-02-08	2015-02-21
-549	1	/ux-sprint-2015-wrapup	UX Sprint 2015 wrapup	http://tor.jmtodaro.com/ux-sprint-2015-wrapup/	2015-02-09	2015-02-16
-550	1	/tor-0263-alpha-released	Tor 0.2.6.3-alpha is released	http://tor.jmtodaro.com/tor-0263-alpha-released/	2015-02-19	2015-02-21
+545	1	/tor-browser-403-released	Tor Browser 4.0.3 is released	http://tor.jmtodaro.com/tor-browser-403-released/	2015-01-13	2015-02-23
+546	1	/tor-browser-45a3-released	Tor Browser 4.5a3 is released	http://tor.jmtodaro.com/tor-browser-45a3-released/	2015-01-16	2015-02-24
+547	1	/tor-design-proposals-how-we-make-changes-our-protocol	Tor design proposals: how we make changes to our protocol	http://tor.jmtodaro.com/tor-design-proposals-how-we-make-changes-our-protocol/	2015-02-08	2015-02-23
+548	1	/guest-post-library-freedom-project-bringing-privacy-and-anonymity-libraries	Guest Post: The Library Freedom Project: Bringing privacy and anonymity to libraries	http://tor.jmtodaro.com/guest-post-library-freedom-project-bringing-privacy-and-anonymity-libraries/	2015-02-08	2015-02-24
+549	1	/ux-sprint-2015-wrapup	UX Sprint 2015 wrapup	http://tor.jmtodaro.com/ux-sprint-2015-wrapup/	2015-02-09	2015-02-23
+550	1	/tor-0263-alpha-released	Tor 0.2.6.3-alpha is released	http://tor.jmtodaro.com/tor-0263-alpha-released/	2015-02-19	2015-02-24
+551	1	/tor-browser-45a4-released	Tor Browser 4.5a4 is released	http://tor.jmtodaro.com/tor-browser-45a4-released/	2015-02-25	2015-02-26
+552	1	/tor-browser-404-released	Tor Browser 4.0.4 is released	http://tor.jmtodaro.com/tor-browser-404-released/	2015-02-25	2015-02-25
 \.
 
 
@@ -631,7 +633,7 @@ COPY topics (id, site_id, key, title, url, created_at, last_posted_at) FROM stdi
 -- Name: topics_id_seq; Type: SEQUENCE SET; Schema: public; Owner: jmt
 --
 
-SELECT pg_catalog.setval('topics_id_seq', 550, true);
+SELECT pg_catalog.setval('topics_id_seq', 552, true);
 
 
 --

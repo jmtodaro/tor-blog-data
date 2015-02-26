@@ -6,7 +6,6 @@ date: 2013-09-05 07:23:40
 author: arma
 category: blog
 comments: closed
-tags: [""]
 ---
 
 [**tl;dr**: if you want your Tor to be more stable, upgrade to a Tor Browser Bundle with Tor 0.2.4.x in it, and then wait for enough relays to upgrade to today's 0.2.4.17-rc release.]

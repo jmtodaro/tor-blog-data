@@ -17,6 +17,12 @@ Changelog:
 
 <!-- more -->
 
+Vidalia 0.2.1 is now available. This is a test release of the 0.2.x branch, which we hope to soon make the mainline version; replacing the 0.1.x branch.
+
+Vidalia can be downloaded at [https://www.torproject.org/vidalia/](https://www.torproject.org/vidalia/ "https://www.torproject.org/vidalia/").
+
+Changelog:
+
 -   Add a "Find Bridges Now" button that will attempt to automatically  
      download a set of bridge addresses and add them to the list of bridges  
      in the Network settings page.

@@ -6,7 +6,6 @@ date: 2009-09-08 19:15:58
 author: arma
 category: blog
 comments: closed
-tags: [""]
 ---
 
 Thanks to a friend who's a professor at [KAIST](http://www.kaist.edu/edu.html) in Korea, several teams of students there are working for their "freshman design class" on designing new bridge (aka bridge relay) distribution strategies. Here's some early brainstorming on what the actual problems are and what needs doing.

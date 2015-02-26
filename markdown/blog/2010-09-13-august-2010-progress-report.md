@@ -26,17 +26,28 @@ Released two new versions of Orbot, Tor for Android.
 
 <!-- more -->
 
-  
- - found and fixed major bug in per-app trans proxying; list of apps was being cached and iptables rules were not properly updated as the user changed the selection in the list
+**Releases**
 
-On August 6, we released Libevent 2.0.6-rc, the first release  
- candidate of the new Libevent 2.0 series. The main new feature that  
- we want from Libevent 2.0 is its support for buffer-based (rather than  
- socket-based) network abstractions, which will let us support Windows the  
- way it wants to be supported. The new Libevent includes a wide variety of  
- other features that will make our lives easier too, ranging from making  
- it easier to support multi-threaded crypto operations to making it easier  
- to modularly change Tor's transport from TLS-over-TCP to other options. See [http://levent.git.sourceforge.net/git/gitweb.cgi?p=levent/levent;a=blob;...](http://levent.git.sourceforge.net/git/gitweb.cgi?p=levent/levent;a=blob;f=ChangeLog;hb=fe008ed656766266b93cdf2083f5b8bc50e6aad3 "http://levent.git.sourceforge.net/git/gitweb.cgi?p=levent/levent;a=blob;f=ChangeLog;hb=fe008ed656766266b93cdf2083f5b8bc50e6aad3")
+-   On August 21st we released Tor Browser Bundle 1.0.10 for GNU/Linux. See [https://blog.torproject.org/blog/tor-browser-bundle-1010-gnulinux-releas...](https://blog.torproject.org/blog/tor-browser-bundle-1010-gnulinux-released "https://blog.torproject.org/blog/tor-browser-bundle-1010-gnulinux-released")
+-   On August 18, we released Tor 0.2.2.15-alpha. It fixes a big bug in hidden service availability, fixes a variety of other bugs that were preventing performance experiments from moving forward, fixes several bothersome memory leaks, and generally closes a lot of smaller bugs that have been filling up trac lately. See [https://blog.torproject.org/blog/tor-02215-alpha-released](https://blog.torproject.org/blog/tor-02215-alpha-released "https://blog.torproject.org/blog/tor-02215-alpha-released")
+-   Released two new versions of Orbot, Tor for Android.  
+
+    > Version 1.0.2  
+    >  - added "check" yes/no dialog prompt  
+    >  - debugged iptables/transprox settings on Android 1.6 and 2.2  
+    >  - added proxy settings help screen and fixed processSettings() NPE
+    >
+    > Version 1.0.1  
+    >  - found and fixed major bug in per-app trans proxying; list of apps was being cached and iptables rules were not properly updated as the user changed the selection in the list
+
+-   On August 6, we released Libevent 2.0.6-rc, the first release  
+     candidate of the new Libevent 2.0 series. The main new feature that  
+     we want from Libevent 2.0 is its support for buffer-based (rather than  
+     socket-based) network abstractions, which will let us support Windows the  
+     way it wants to be supported. The new Libevent includes a wide variety of  
+     other features that will make our lives easier too, ranging from making  
+     it easier to support multi-threaded crypto operations to making it easier  
+     to modularly change Tor's transport from TLS-over-TCP to other options. See [http://levent.git.sourceforge.net/git/gitweb.cgi?p=levent/levent;a=blob;...](http://levent.git.sourceforge.net/git/gitweb.cgi?p=levent/levent;a=blob;f=ChangeLog;hb=fe008ed656766266b93cdf2083f5b8bc50e6aad3 "http://levent.git.sourceforge.net/git/gitweb.cgi?p=levent/levent;a=blob;f=ChangeLog;hb=fe008ed656766266b93cdf2083f5b8bc50e6aad3")
 
 **Funding**  
  We finished the first year of our NSF grant, and wrote up the annual  

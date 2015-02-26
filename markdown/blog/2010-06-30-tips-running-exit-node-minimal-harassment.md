@@ -13,7 +13,9 @@ tags: ["anonymity advocacy", "distributed trust", "education", "performance"]
 
 **Updated 08/30/2010**: Update exit policy with svn, git, hg, Kerberos, remote admin panels, IRC, others
 
-**Updated 01/12/2011**: Suggest creation of LLC for large exit nodes, provide links to ARIN forms and process.  
+**Updated 01/12/2011**: Suggest creation of LLC for large exit nodes, provide links to ARIN forms and process.
+
+**Updated 02/25/2015**: Torservers.net abuse templates URL has changed.  
    
 
 I have noticed that a lot of new exit nodes have recently appeared on the network. This is great news, since exit nodes are typically on the scarce side. Exits usually occupy 30-33% of network by capacity, but are currently at a whopping 38.5% (156 MBytes/sec out of 404 total).
@@ -21,6 +23,19 @@ I have noticed that a lot of new exit nodes have recently appeared on the networ
 However, I want to make sure that these nodes stay up and don't end up being shut down due to easily preventable abuse complaints. I've run a number of exit nodes on a few different ISPs and not only have I lived to tell about it, I've have not had one shut down yet. Moreover, I've only received about 4 abuse complaints in as many years of running exit nodes. This is in stark contrast to other node operators following a [more reactive strategy](https://blog.torproject.org/blog/five-years-exit-node-operator). I'm convinced this is largely because I observe the following pro-active guidelines. This guide is primarily US centric. Operators in other countries may have slightly different best practices (such as registering with RIPE and not ARIN).
 
 <!-- more -->
+
+**Updated 06/30/2010**: Mention Reduced Exit Policy, ISP Shopping Tips, and Abuse Response Templates
+
+**Updated 08/30/2010**: Update exit policy with svn, git, hg, Kerberos, remote admin panels, IRC, others
+
+**Updated 01/12/2011**: Suggest creation of LLC for large exit nodes, provide links to ARIN forms and process.
+
+**Updated 02/25/2015**: Torservers.net abuse templates URL has changed.  
+   
+
+I have noticed that a lot of new exit nodes have recently appeared on the network. This is great news, since exit nodes are typically on the scarce side. Exits usually occupy 30-33% of network by capacity, but are currently at a whopping 38.5% (156 MBytes/sec out of 404 total).
+
+However, I want to make sure that these nodes stay up and don't end up being shut down due to easily preventable abuse complaints. I've run a number of exit nodes on a few different ISPs and not only have I lived to tell about it, I've have not had one shut down yet. Moreover, I've only received about 4 abuse complaints in as many years of running exit nodes. This is in stark contrast to other node operators following a [more reactive strategy](https://blog.torproject.org/blog/five-years-exit-node-operator). I'm convinced this is largely because I observe the following pro-active guidelines. This guide is primarily US centric. Operators in other countries may have slightly different best practices (such as registering with RIPE and not ARIN).
 
 **1. Inform your potential ISP(s)**  
  In general, running an exit node from your home Internet connection is not recommended, unless you are prepared for increased attention to your home. In the USA, there have been no equipment seizures due to Tor exits, but there have been phone calls and visits. In other countries, people have had all their home computing equipment seized for running an exit from their home internet connection. So you will need to [find a good colo](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs) and save your home connection for bridge or middle node use. Plus, bandwidth will be much cheaper in a colo center anyway.
@@ -54,7 +69,7 @@ Templates at ARIN change periodically, so some ISPs may be reluctant to do the p
 
 However, your ISP may see things differently. If the abuse complaints are arriving in their staff's inbox, they may just want them to stop coming so they do not have to spend resources dealing with them, regardless of their merit. If they still won't provide SWIP registration, you can try a reduced exit policy. Other operators have had great success with [using a reduced exit policy](https://trac.torproject.org/projects/tor/wiki/doc/ReducedExitPolicy) consisting of ports 20-23, 43, 53, 79-81, 88, 110, 143, 194, 220, 443, 464-465, 543-544, 563, 587, 706, 749, 873, 902-904, 981, 989-995, 1194, 1220, 1293, 1500, 1723, 1863, 2082-2083, 2086-2087, 2095-2096, 3128, 3389, 3690, 4321, 4643, 5190, 5050, 5222-5223, 5900, 6666-6667, 6679, 6697, 8000, 8008, 8080, 8087-8088, 8443, 8888, 9418, 9999, 10000, and 19638. In fact, the operator of 4 of our fastest exit nodes [has reported](http://archives.seul.org/or/talk/Jun-2010/msg00149.html) that after switching to this policy from the default, the bittorrent DMCA complaints ceased immediately.
 
-With that list, the only abuse complaints you should see will come from occasional comment spam (ports 80 and 443), email spam to misconfigured email servers (port 465 and 587 are supposed to be for authenticated SMTP only), and misconfigured NNTP servers (port 563 is authenticated NNTPS). You may want to review [Moritz Bartl's abuse complaint template set](http://www.wiredwings.com/wiki/Torservers.net_Main_Page#Abuse), as well as the [Tor Abuse Template set](https://trac.torproject.org/projects/tor/wiki/doc/TorAbuseTemplates), and the [Tor Abuse FAQ](https://www.torproject.org/faq-abuse.html.en#TypicalAbuses) for information on how to handle these rare cases, when they do come up.
+With that list, the only abuse complaints you should see will come from occasional comment spam (ports 80 and 443), email spam to misconfigured email servers (port 465 and 587 are supposed to be for authenticated SMTP only), and misconfigured NNTP servers (port 563 is authenticated NNTPS). You may want to review [Moritz Bartl's abuse complaint template set](https://www.torservers.net/wiki/abuse/templates), as well as the [Tor Abuse Template set](https://trac.torproject.org/projects/tor/wiki/doc/TorAbuseTemplates), and the [Tor Abuse FAQ](https://www.torproject.org/faq-abuse.html.en#TypicalAbuses) for information on how to handle these rare cases, when they do come up.
 
 **7. Rate limit and optionally QoS your node**  
  I've recently conducted [some measurements](https://blog.torproject.org/blog/torflow-node-capacity-integrity-and-reliability-measurements-hotpets) that showed that nodes that used Tor's BandwidthRate config option to set a limit slightly below their actual capacity were much more reliable than those that did not. Along these lines, it may also be useful to use this [Linux-based QoS script](https://gitweb.torproject.org/tor.git/blob_plain/HEAD:/contrib/linux-tor-prio.sh) to prioritize your Tor IP traffic below other traffic on your machine. Similar QoS can also be achieved via [DDWRT](http://www.dd-wrt.com/), [openwrt](http://openwrt.org/) and of course via commercial routers. If you do use QoS other than that script, you should ensure that you provide Tor with a reasonable minimum bandwidth so that it does not starve when you do other things. Somewhere between 33 and 50% of your connection is a reasonable minimum value.

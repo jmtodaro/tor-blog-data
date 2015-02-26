@@ -15,6 +15,10 @@ Because of how EFF's testing tool functions, it has created some confusion and c
 
 <!-- more -->
 
+The EFF has recently released a [browser fingerprinting test suite](http://panopticlick.eff.org/) that they call [Panopticlick](http://panopticlick.eff.org/about.php). The idea is that in normal operation, your browser leaks a lot of information about its configuration which [can be used to uniquely fingerprint you](https://www.eff.org/deeplinks/2010/01/tracking-by-user-agent) independent of your cookies.
+
+Because of how EFF's testing tool functions, it has created some confusion and concern among Tor users, so I wanted to make a few comments to try to clear things up.
+
 First off, Torbutton has defended against [these and other types of attacks](https://www.torproject.org/torbutton/design/#attacks) since the 1.2.0 series began. We make the User Agent of all Torbutton users uniform, we block all plugins both to prevent proxy bypass conditions and to block subtler forms of plugin tracking, we round screen resolution down to 50 pixel multiples, we set the timezone to GMT, and we clear and disable DOM Storage.
 
 In fact, based on [my display resolution calculations](https://www.torproject.org/torbutton/design/#id2530601), we should only be presenting just over 7 bits of information to fingerprint Tor users, and this is only in the form of window size, which for most users either changes from day to day, or is set to a common maximized display size.

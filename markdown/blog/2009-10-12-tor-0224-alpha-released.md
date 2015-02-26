@@ -29,6 +29,24 @@ It contains the following:
 
 <!-- more -->
 
+On October 10, we released Tor version 0.2.2.4-alpha.
+
+This release can be found at [https://www.torproject.org/download/](https://www.torproject.org/download/ "https://www.torproject.org/download/")
+
+It contains the following:  
+ **Major bugfixes:**
+
+-   Fix several more asserts in the circuit\_build\_times code, for  
+     example one that causes Tor to fail to start once we have  
+     accumulated 5000 build times in the state file. Bugfixes on  
+     0.2.2.2-alpha; fixes bug 1108.
+
+**New directory authorities:**
+
+-   Move moria1 and Tonga to alternate IP addresses.
+
+**Minor features:**
+
 -   Log SSL state transitions at debug level during handshake, and  
      include SSL states in error messages. This may help debug future  
      SSL handshake issues.

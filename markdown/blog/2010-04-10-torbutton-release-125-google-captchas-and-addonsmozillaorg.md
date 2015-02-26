@@ -15,6 +15,10 @@ In addition to the numerous bug fixes mentioned in the [changelog](https://gitwe
 
 <!-- more -->
 
+Torbutton 1.2.5 has been released. You can download it from [the torbutton homepage](https://www.torproject.org/torbutton/). It has also been submitted to [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/2275/), though it may take a while for Mozilla to review the addon.
+
+In addition to the numerous bug fixes mentioned in the [changelog](https://gitweb.torproject.org//torbutton.git?a=blob;hb=HEAD;f=src/CHANGELOG), one of the new features of this release is to provide the ability to automatically redirect to an alternate search engine when Google presents you with a captcha. The current options are [IxQuick](https://www.ixquick.com), [Bing](http://www.bing.com), [Yahoo](http://search.yahoo.com), and [Scroogle](https://ssl.scroogle.org). Since it supports SSL, and appears to have a [progressive stance on user privacy](https://www.ixquick.com/eng/protect-privacy.html), IxQuick is the current default.
+
 For those unaware, Google's search engine has rate limiting features that cause it to [present captchas](http://googleonlinesecurity.blogspot.com/2007/07/reason-behind-were-sorry-message.html) and sometimes even outright ban IP addresses that issue large numbers of search queries, especially if some of these queries appear to be searching for software vulnerabilities or unprotected comment areas.
 
 The Tor Project has had multiple discussions with Google over the past 2 years about potential workarounds on either Torbutton or Google's side to reduce the number of captchas and ban pages presented to Tor users while issuing normal natural language queries.

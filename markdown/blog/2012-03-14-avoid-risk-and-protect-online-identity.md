@@ -6,7 +6,6 @@ date: 2012-03-14 14:27:52
 author: Runa
 category: blog
 comments: closed
-tags: [""]
 ---
 
 A number of good blog posts have been written about how you can avoid risk, protect your online identity, blog safely and so on. We decided to collect links to some of these posts so that you can easily find the information most relevant to you.

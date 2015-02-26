@@ -6,7 +6,6 @@ date: 2012-11-29 06:13:16
 author: sjmurdoch
 category: blog
 comments: closed
-tags: [""]
 ---
 
 The UK government has proposed a new bill which would allow UK law enforcement agencies to require that "telecommunication operators" (e.g. ISPs and website operators) intercept and record their users' traffic data (i.e. details of who is communicating with whom, when, from where, and how much, but not the content of communications). The [draft of this bill](http://www.official-documents.gov.uk/document/cm83/8359/8359.pdf), the Communications Data Bill (dubbed the "Snoopers' Charter" by some), has been published and has met widespread criticism for the unprecedented intrusion of privacy it would permit.

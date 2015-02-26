@@ -13,6 +13,8 @@ Last week, [Peter Eckersley](http://www.eff.org/about/staff/peter-eckersley) and
 
 <!-- more -->
 
+Last week, [Peter Eckersley](http://www.eff.org/about/staff/peter-eckersley) and I met with the Mozilla team in Mountain view to discuss web fingerprinting, privacy and Torbutton. I gave [an updated version of my Torbutton Design talk](https://www.torproject.org/torbutton/design/MozillaBrownBag.pdf), and Peter discussed [Panopticlick](http://panopticlick.eff.org/). Mozilla was primarily interested in hearing about these projects in the context of their [Private Browsing Mode](https://support.mozilla.com/en-us/kb/private+browsing), which they unveiled in Firefox 3.5.
+
 The [primary goal](https://wiki.mozilla.org/PrivateBrowsing) of their Private Browsing Mode is to protect against a local after-the-fact attacker - an attacker that has local access to a user's filesystem after browsing has taken place. They offer some limited protections against a network adversary, but this was not their initial goal, and is primarily a side effect of trying to protect against "helpful" web services, such as Google Search History, which record your activity somewhere other than your PC.
 
 This is a significantly weaker adversary model than [the one used in the Torbutton design.](https://www.torproject.org/torbutton/design/#adversary) As a result, from the point of view of Tor usage, Firefox Private Browsing mode suffers from a number of weaknesses that Torbutton does not.

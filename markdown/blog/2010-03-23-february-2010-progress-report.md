@@ -13,6 +13,8 @@ tags: ["advocacy", "performance enhancements", "progress report"]
 
 <!-- more -->
 
+**New releases**
+
 -   On February 13, we released a new stable version of Tor, 0.2.1.23. Tor 0.2.1.23 fixes a huge client-side performance bug, makes Tor work again on the latest OS X, and updates the location of a directory authority.
 -   On February 21st, we released an update Tor stable in 0.2.1.24. Tor 0.2.1.24 makes Tor work again on the latest OS X – this time for sure!
 -   On February 22, we released the latest in the -alpha series, 0.2.2.9-alpha.

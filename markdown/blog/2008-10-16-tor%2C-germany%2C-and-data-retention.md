@@ -6,7 +6,6 @@ date: 2008-10-16 22:09:57
 author: arma
 category: blog
 comments: closed
-tags: [""]
 ---
 
 With the "enforcement" phase of Germany's data retention law coming into effect on January 1 2009, it's time to start considering design modifications for Tor to make us more resistant. There are many different pieces to consider, including

@@ -23,11 +23,11 @@ To tell if your version of OpenSSL was built with 'no-ssl3': run:
 
 If it gives you output beginning with something like:
 
-> `CONNECTED(00000003) 140632971298688:error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure:s3_pkt.c:1257:SSL alert number 40 140632971298688:error:1409E0E5:SSL routines:SSL3_WRITE_BYTES:ssl handshake failure:s3_pkt.c:596: `
+> `CONNECTED(00000003) 140632971298688:error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure:s3_pkt.c:1257:SSL alert number 40 140632971298688:error:1409E0E5:SSL routines:SSL3_WRITE_BYTES:ssl handshake failure:s3_pkt.c:596:`
 
 then you're fine and you don't need to upgrade Tor on your relay. But if it says something that starts with:
 
-> `unknown option -ssl3 usage: s_client args `
+> `unknown option -ssl3 usage: s_client args`
 
 then you need to upgrade Tor.
 

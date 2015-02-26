@@ -15,6 +15,10 @@ The Changelog for this release is:
 
 <!-- more -->
 
+Vidalia 0.2.4 is released. The OS X -alpha bundles are updated to fix a bug in the default "bootstrap" vidalia.conf file that pointed to a non-existent Polipo configuration file, causing Polipo to fail on startup.
+
+The Changelog for this release is:
+
 -   Split the message log into "Basic" and "Advanced" views. The  
      "Advanced" view contains standard log messages from Tor, while the new  
      experimental "Basic" view displays status events received from Tor.  

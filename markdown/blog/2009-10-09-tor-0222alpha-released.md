@@ -15,6 +15,10 @@ On September 21st, we released Tor version 0.2.2.2-alpha.
 
 <!-- more -->
 
+On September 21st, we released Tor version 0.2.2.2-alpha.
+
+**Major features:**
+
 -   Tor now tracks how long it takes to build client-side circuits  
      over time, and adapts its timeout to local network performance.  
      Since a circuit that takes a long time to build will also provide  

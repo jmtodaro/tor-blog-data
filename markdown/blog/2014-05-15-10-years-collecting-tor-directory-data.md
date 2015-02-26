@@ -15,7 +15,13 @@ As the [2004 Tor design paper](https://svn.torproject.org/svn/projects/design-pa
 
 In fact, we still have the original relay lists from back then. The [first archived Tor directory](https://people.torproject.org/~karsten/directory-2004-05-15-07-31-04) dates back to May 15, 2004. It starts with the following lines which are almost human-readable:
 
-     signed-directory published 2004-05-15 07:30:57 recommended-software 0.0.6.1,0.0.7pre1-cvs running-routers moria1 moria2 tor26 incognito jap dizum   cassandra metacolo poblano ned TheoryOrg Tonga   peertech hopey tequila triphop moria4 anize rot52   randomtrash 
+    signed-directory
+    published 2004-05-15 07:30:57
+    recommended-software 0.0.6.1,0.0.7pre1-cvs
+    running-routers moria1 moria2 tor26 incognito jap dizum
+      cassandra metacolo poblano ned TheoryOrg Tonga
+      peertech hopey tequila triphop moria4 anize rot52
+      randomtrash
 
   
 As of today, May 15, 2014, there are about 4,600 relays in the Tor network and another 3,300 bridges. In these 10 years, we have collected a total of 212 GiB of bz2-compressed tarballs containing Tor directory data. That's more than 600 GiB of uncompressed data. And of course, the full archive is publicly [available for download](https://metrics.torproject.org/data.html).

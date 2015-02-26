@@ -13,6 +13,8 @@ tags: ["alpha releases", "bug fixes", "development", "enhancements", "orbot", "p
 
 <!-- more -->
 
+**New releases**
+
 -   On July 4th, we released Tor Browser Bundle 1.3.7 for Microsoft Windows. This is a security update for Firefox and Pidgin. The changes are: update to Firefox 3.5.10 and Pidgin Instant Messenger 2.7.1r2 to fix some security issues.
 -   On July 6th, we released Tor Browser Bundle 1.0.8 for GNU/Linux distributions. This fixes a number of security issues with included software. The updates include:
     -   Update libpng to 1.4.3 (see CVE-2010-1205)

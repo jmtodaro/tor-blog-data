@@ -6,7 +6,6 @@ date: 2013-08-09 12:17:01
 author: erinn
 category: blog
 comments: closed
-tags: [""]
 ---
 
 All of the Tor Browser Bundles have been updated with Firefox 17.0.8esr which includes critical security fixes. All users are strongly encouraged to upgrade. To read more about which kinds of fixes are in this version of Firefox, please click [here](https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html#firefox17.0.8). This link is also included in the changelogs and we will continue to add it in the future versions of Tor Browser Bundle as well so that users can always be aware of major issues.

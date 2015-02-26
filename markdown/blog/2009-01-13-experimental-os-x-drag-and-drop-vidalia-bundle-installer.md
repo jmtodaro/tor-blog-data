@@ -13,6 +13,8 @@ I asked for community feedback in [this post](https://blog.torproject.org/blog/o
 
 <!-- more -->
 
+I asked for community feedback in [this post](https://blog.torproject.org/blog/os-x-vidalia-bundle-thoughts) about drag and drop installation of the Vidalia bundle for Apple's OS X. In working with the Vidalia team, we now have a drag and drop installer. This is **experimental**. It's designed for a clean install. It won't migrate your settings, nor will it configure anything for you. Upon installing, your milk may sour and your salt may run off with your pepper. Now that the disclaimers are over, here's what it contains and does do for you.
+
 It includes Universal binaries for:
 
 -   Vidalia version 0.2.0-svn r3425

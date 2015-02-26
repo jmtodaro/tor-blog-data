@@ -13,6 +13,8 @@ One of the most requested upgrades to [Vidalia](https://www.torproject.org/vidal
 
 <!-- more -->
 
+One of the most requested upgrades to [Vidalia](https://www.torproject.org/vidalia/) is a better map of the world. We looked into a few different technologies and decided on [KDE's Marble](http://edu.kde.org/marble/) interface. Marble enables an accurate mapping of nodes according to their geolocation, allows for future enhancements such as "click a country to start or end your Tor circuit", and plugins for extra data views. This also gives us the ability to use Qt's Webkit browser to display custom information about nodes, circuits, or anything else in a pop-up window. An anonymous funder covered the costs involved in developing this feature. We thank them for their support.
+
 I've attached some screenshots to this blog post. You can download the relevant packages from the [Vidalia website](https://www.torproject.org/vidalia/dist/). If you want marble-enabled Vidalia, look for -marble- in the file name. Please report bugs on [Vidalia's Bug Tracker](http://trac.vidalia-project.net/wiki/ReportingBugs).
 
 As of this release, there are now two branches of Vidalia, stable and alpha. The first release of the alpha branch is [Vidalia 0.2.0](https://www.torproject.org/vidalia/dist/). The stable branch is at [Vidalia 0.1.12](https://www.torproject.org/vidalia/dist/).
