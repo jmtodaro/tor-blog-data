@@ -26,7 +26,7 @@ Changes in version 0.2.2.14-alpha - 2010-07-12
  - Tor directory authorities no longer crash when started with a  
  cached-microdesc-consensus file in their data directory. Bugfix  
  on 0.2.2.6-alpha; fixes bug 1532.  
- - Treat an unset \$HOME like an empty \$HOME rather than triggering an  
+ - Treat an unset $HOME like an empty $HOME rather than triggering an  
  assert. Bugfix on 0.0.8pre1; fixes bug 1522.
 
 <!-- more -->

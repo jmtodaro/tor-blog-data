@@ -36,7 +36,7 @@ The OONI project has been “developing a test that allows probes in censored co
 
 Nick Mathewson [announced](https://lists.torproject.org/pipermail/tor-dev/2014-October/007580.html) the release of [Trunnel](https://gitweb.torproject.org/trunnel.git) 1.3. Trunnel is a code generator for binary encoders/decoders. Nick adds: “Some code that it has generated has been merged into the Tor master branch for the 0.2.6 release series, though that code is not yet in active use.“
 
-David Fifield sent a [summary](https://lists.torproject.org/pipermail/tor-dev/2014-October/007576.html) of the costs incurred by the [meek](https://trac.torproject.org/projects/tor/wiki/doc/meek) pluggable transport for the month of September 2014. More details are included in the email, but costs are currently very low: “\$3.85 for App Engine, \$4.59 for Amazon, \$0.00 for Azure”.
+David Fifield sent a [summary](https://lists.torproject.org/pipermail/tor-dev/2014-October/007576.html) of the costs incurred by the [meek](https://trac.torproject.org/projects/tor/wiki/doc/meek) pluggable transport for the month of September 2014. More details are included in the email, but costs are currently very low: “$3.85 for App Engine, $4.59 for Amazon, $0.00 for Azure”.
 
 Virgil Griffith [shared](https://lists.torproject.org/pipermail/tor-talk/2014-October/035076.html) a yet unpublished tech report on Tor growth. To pick just one finding, the Tor network’s bandwidth has been doubling every 13–14 months so far.
 

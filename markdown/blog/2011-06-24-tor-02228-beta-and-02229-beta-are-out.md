@@ -166,7 +166,7 @@ tags: ["alpha releases", "bug fixes", "tor"]
      so we have a better chance of hunting down instances of bug 1810.  
      Resolves ticket 3252.
 -   Revise most log messages that refer to nodes by nickname to  
-     instead use the "\$key=nickname at address" format. This should be  
+     instead use the "$key=nickname at address" format. This should be  
      more useful, especially since nicknames are less and less likely  
      to be unique. Resolves ticket 3045.
 -   Log (at info level) when purging pieces of hidden-service-client  

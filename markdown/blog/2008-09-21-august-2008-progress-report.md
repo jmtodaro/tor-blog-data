@@ -28,7 +28,7 @@ Tor Browser Bundle 1.1.2 (released August 9) updates Vidalia to version 0.1.6, u
 
 <!-- more -->
 
-Vidalia 0.1.8 (released August 17) makes the bandwidth graph window look better for languages like Farsi, includes ssleay32.dll in the Windows packages so Vidalia won't crash when it finds an incompatible version of ssleay32.dll in the user's \$PATH, makes "escape" and "return" shortcuts for the settings window, and fixes a variety of other bugs.  
+Vidalia 0.1.8 (released August 17) makes the bandwidth graph window look better for languages like Farsi, includes ssleay32.dll in the Windows packages so Vidalia won't crash when it finds an incompatible version of ssleay32.dll in the user's $PATH, makes "escape" and "return" shortcuts for the settings window, and fixes a variety of other bugs.  
  [http://trac.vidalia-project.net/browser/vidalia/tags/vidalia-0.1.8/CHANG...](http://trac.vidalia-project.net/browser/vidalia/tags/vidalia-0.1.8/CHANGELOG "http://trac.vidalia-project.net/browser/vidalia/tags/vidalia-0.1.8/CHANGELOG")
 
 Tor 0.2.0.30 (released July 15, announced August 21) switches to a more efficient directory distribution design, adds features to make connections to the Tor network harder to block, allows Tor to act as a DNS proxy, adds separate rate limiting for relayed traffic to make it easier for clients to become relays, fixes a variety of potential anonymity problems, and includes the usual huge pile of other features and bug fixes.  

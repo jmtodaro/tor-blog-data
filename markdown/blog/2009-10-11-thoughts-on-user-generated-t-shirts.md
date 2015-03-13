@@ -9,7 +9,7 @@ comments: closed
 tags: ["activists", "new designs", "t-shirts", "user generated"]
 ---
 
-Some activists in China came up with this design for tor t-shirts. Comment if you think we should make and sell these for \$20/ea.  
+Some activists in China came up with this design for tor t-shirts. Comment if you think we should make and sell these for $20/ea.  
    
   
 

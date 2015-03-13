@@ -117,9 +117,9 @@ o Minor bugfixes (on 0.2.2.x):
  old and broken version of libevent. Treat 1.4.14b-stable like  
  1.4.14-stable when parsing the version. Fixes bug 1731; bugfix  
  on 0.2.2.1-alpha.  
- - Don't use substitution references like \$(VAR:MOD) when  
- \$(asciidoc\_files) is empty -- make(1) on NetBSD transforms  
- '\$(:x)' to 'x' rather than the empty string. This bites us in  
+ - Don't use substitution references like $(VAR:MOD) when  
+ $(asciidoc\_files) is empty -- make(1) on NetBSD transforms  
+ '$(:x)' to 'x' rather than the empty string. This bites us in  
  doc/ when configured with --disable-asciidoc. Bugfix on  
  0.2.2.9-alpha; fixes bug 1773.  
  - Remove a spurious hidden service server-side log notice about  

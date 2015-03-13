@@ -494,7 +494,7 @@ o Minor features (other):
  negotiated a v1 connection for their next step. Initial steps for  
  proposal 110.  
  - When we have no consensus, check FallbackNetworkstatusFile (defaults  
- to \$PREFIX/share/tor/fallback-consensus) for a consensus. This way  
+ to $PREFIX/share/tor/fallback-consensus) for a consensus. This way  
  we can start out knowing some directory caches. We don't ship with  
  a fallback consensus by default though, because it was making  
  bootstrapping take too long while we tried many down relays.  

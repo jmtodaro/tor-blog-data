@@ -17,12 +17,12 @@ Setting up a Tor bridge on Amazon EC2 is simple and will only take you a couple 
 
 You should not have to do anything once the instance is up and running. Tor will start up as a bridge, confirm that it is reachable from the outside, and then tell the bridge authority that it exists. After that, the address for your bridge will be given out to users.
 
-To help new customers get started in the cloud, Amazon is introducing a free usage tier. The Tor Cloud images are all micro instances, and new customers will be able to run a free micro instance for a whole year. The Tor Cloud images have been configured with a bandwidth limit, so customers who don't qualify for the free usage tier should only have to pay an estimated \$30 a month.
+To help new customers get started in the cloud, Amazon is introducing a free usage tier. The Tor Cloud images are all micro instances, and new customers will be able to run a free micro instance for a whole year. The Tor Cloud images have been configured with a bandwidth limit, so customers who don't qualify for the free usage tier should only have to pay an estimated $30 a month.
 
 For more information, see the [Tor Cloud](https://cloud.torproject.org/) website.
 
 **UPDATE**: Some users have asked about the AWS free usage tier and pointed out that it only includes 15 GB of bandwidth out per month. I have updated the Tor Cloud website (changes should go live soon) with the following:  
  *  
- The Tor Cloud images have been configured to use no more than 40 GB of bandwidth out per month. We have estimated that customers who do not qualify for the free usage tier will pay up to \$30 a month. Customers who qualify for the free usage tier, but who run bridges that use more than 15 GB of bandwidth out per month, will pay up to \$3 per month.  
+ The Tor Cloud images have been configured to use no more than 40 GB of bandwidth out per month. We have estimated that customers who do not qualify for the free usage tier will pay up to $30 a month. Customers who qualify for the free usage tier, but who run bridges that use more than 15 GB of bandwidth out per month, will pay up to $3 per month.  
 *  
  I hope that this better clarifies the cost of running a bridge in the Amazon cloud, let me know if you have any questions.

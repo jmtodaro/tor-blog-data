@@ -85,7 +85,7 @@ Speaking of which, we also hacked in another feature in Torbutton 0.1.2rc2, to a
  [http://archives.seul.org/or/cvs/Jun-2008/msg00186.html](http://archives.seul.org/or/cvs/Jun-2008/msg00186.html "http://archives.seul.org/or/cvs/Jun-2008/msg00186.html")
 
 From the Tor 0.2.1.2-alpha ChangeLog:  
- "If you have more than one bridge but don't know their digests, you would only learn a request for the descriptor of the first one on your list. (Tor considered launching requests for the others, but found that it already had a connection on the way for \$0000...0000 so it didn't open another.) Bugfix on 0.2.0.x."  
+ "If you have more than one bridge but don't know their digests, you would only learn a request for the descriptor of the first one on your list. (Tor considered launching requests for the others, but found that it already had a connection on the way for $0000...0000 so it didn't open another.) Bugfix on 0.2.0.x."  
  "If you have more than one bridge but don't know their digests, and the connection to one of the bridges failed, you would cancel all pending bridge connections. (After all, they all have the same digest.) Bugfix on 0.2.0.x."  
  "If you're using bridges, generate "bootstrap problem" warnings as soon as you run out of working bridges, rather than waiting for ten failures -- which will never happen if you have less than ten bridges."
 

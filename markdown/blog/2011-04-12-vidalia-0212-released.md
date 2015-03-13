@@ -18,8 +18,8 @@ The new release of Vidalia 0.2.12 is out. We'd also like to congratulate Tomás 
 -   Vidalia's SVN repository has been migrated to Git. All branches but  
      master have been archived for later review, since SVN trunk had changed  
      significantly; they should be reviewed later to determine whether  
-     they can and should still be merged. All \\version \$Id\$ headers have been  
-     removed since Git does not support \$Id\$.
+     they can and should still be merged. All \\version $Id$ headers have been  
+     removed since Git does not support $Id$.
 -   As part of the move, Vidalia's Trac is now at:  
      [https://trac.torproject.org/](https://trac.torproject.org/ "https://trac.torproject.org/")  
      All Trac numbers in Vidalia 0.2.12 and beyond refer to the new Trac  

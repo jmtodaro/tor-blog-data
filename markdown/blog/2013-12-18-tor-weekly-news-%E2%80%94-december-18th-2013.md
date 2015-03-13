@@ -36,10 +36,10 @@ As this is the first release to feature a browser based on the Firefox 24 ESR se
 
 Nevertheless, it fixes [several important security issues](https://tails.boum.org/security/Numerous_security_holes_in_0.21/), so it is recommended that all users upgrade as soon as possible.
 
-Torservers.net awarded \$250,000 grant
+Torservers.net awarded $250,000 grant
 ======================================
 
-The Torservers.net team [announced](https://blog.torservers.net/20131213/torservers-awarded-250000-by-digital-defenders.html) that they have received a \$250,000 organizational grant, to be spread over two years, from the [Digital Defenders Partnership](http://digitaldefenders.org/), which in its own words was “established to provide rapid response to threats to internet freedom.”
+The Torservers.net team [announced](https://blog.torservers.net/20131213/torservers-awarded-250000-by-digital-defenders.html) that they have received a $250,000 organizational grant, to be spread over two years, from the [Digital Defenders Partnership](http://digitaldefenders.org/), which in its own words was “established to provide rapid response to threats to internet freedom.”
 
 With this grant, wrote Moritz Bartl, “participating Torservers organizations will be able to sustain at least 3 Gbit/s of exit traffic, and 2000 fast and up-to-date bridges.”
 

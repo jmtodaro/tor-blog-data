@@ -9,7 +9,7 @@ comments: closed
 tags: ["contest", "logo", "vidalia"]
 ---
 
-We are currently sponsoring a [design contest](http://www.worth1000.com/contest.asp?contest_id=20680) to create a new logo for [Vidalia](http://www.vidalia-project.net). The winner of the contest will receive a \$250 USD cash prize. The firm deadline for contest submissions is August 22, 2008.
+We are currently sponsoring a [design contest](http://www.worth1000.com/contest.asp?contest_id=20680) to create a new logo for [Vidalia](http://www.vidalia-project.net). The winner of the contest will receive a $250 USD cash prize. The firm deadline for contest submissions is August 22, 2008.
 
 The logo will be used in the Vidalia software and related installers, on the website, and on t-shirts. Designers are free to choose any fonts, color combinations, and symbol options you like (no onions, though, please). The logo must include a symbolic component that is recognizable by itself without the name "Vidalia" next to it. See the contest page for more details. If you have further questions, please email [contest@vidalia-project.net](mailto:contest@vidalia-project.net) or stop by \#vidalia on irc.oftc.net.
 

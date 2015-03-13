@@ -99,7 +99,7 @@ Changes in version 0.2.5.10 - 2014-10-24
     -   Add an --allow-missing-torrc commandline option that tells Tor to run even if the configuration file specified by -f is not available. Implements ticket 10060.
     -   Add support for the TPROXY transparent proxying facility on Linux. See documentation for the new TransProxyType option for more details. Implementation by "thomo". Closes ticket 10582.
 -   Minor features (config options):
-    -   Config (torrc) lines now handle fingerprints which are missing their initial '\$'. Resolves ticket 4341; improvement over 0.0.9pre5.
+    -   Config (torrc) lines now handle fingerprints which are missing their initial '$'. Resolves ticket 4341; improvement over 0.0.9pre5.
     -   Support a --dump-config option to print some or all of the configured options. Mainly useful for debugging the command-line option parsing code. Helps resolve ticket 4647.
     -   Raise awareness of safer logging: notify user of potentially unsafe config options, like logging more verbosely than severity "notice" or setting SafeLogging to 0. Resolves ticket 5584.
     -   Add a new configuration option TestingV3AuthVotingStartOffset that bootstraps a network faster by changing the timing for consensus votes. Addresses ticket 8532.

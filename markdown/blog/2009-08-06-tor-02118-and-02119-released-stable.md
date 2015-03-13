@@ -482,9 +482,9 @@ Changes in version 0.2.1.18 - 2009-07-24
      not try to re-fetch an expired certificate over and over and over.
 -   Do not say we're fetching a certificate when we'll in fact skip it  
      because of a pending download.
--   If we have correct permissions on \$datadir, we complain to stdout  
+-   If we have correct permissions on $datadir, we complain to stdout  
      and fail to start. But dangerous permissions on  
-     \$datadir/cached-status/ would cause us to open a log and complain  
+     $datadir/cached-status/ would cause us to open a log and complain  
      there. Now complain to stdout and fail to start in both cases. Fixes  
      bug 820, reported by seeess.
 

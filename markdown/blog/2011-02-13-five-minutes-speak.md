@@ -60,7 +60,7 @@ I was asked to give a five minute speech to open a panel in front of a number of
 >  and mouse with ip addresses and sometimes encryption; tor uses the  
 >  strategy of R&D and protecting ones anonymity and privacy first, the  
 >  secondary effects of this are well-suited to circumvention too. Tor,  
->  freegate, psiphon, and vpns sum up to roughly \$50m in funding from the US govt  
+>  freegate, psiphon, and vpns sum up to roughly $50m in funding from the US govt  
 >  of the past few years. Only a very small fraction of that total has made it to actual technology. Compare that to the billions spent on snakeoil  
 >  black box technology by the DoD and intelligence agencies preparing for  
 >  a cyberwar arms race, much like the nuclear arms race, to deter other  

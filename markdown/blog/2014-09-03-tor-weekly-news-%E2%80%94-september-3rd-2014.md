@@ -58,7 +58,7 @@ Mike Perry [posted](https://lists.torproject.org/pipermail/tor-dev/2014-August/0
 
 Lunar gave a [talk](http://meetings-archive.debian.net/pub/debian-meetings/2014/debconf14/webm/Reproducible_Builds_for_Debian_a_year_later.webm) at this year’s DebConf on the effort to build Debian packages deterministically, which is inspired in large part by [Tor Browser’s use of the same technology](https://blog.torproject.org/blog/deterministic-builds-part-one-cyberwar-and-global-compromise). [Major progress](http://lists.alioth.debian.org/pipermail/reproducible-builds/Week-of-Mon-20140901/000198.html) was achieved during the conference.
 
-David Fifield submitted a [breakdown](https://lists.torproject.org/pipermail/tor-dev/2014-August/007429.html) of the costs incurred by the infrastructure that supports the [meek](https://trac.torproject.org/projects/tor/wiki/doc/meek) pluggable transport since its introduction. The total to date from both the Google App Engine and Amazon AWS front domains? \$6.56.
+David Fifield submitted a [breakdown](https://lists.torproject.org/pipermail/tor-dev/2014-August/007429.html) of the costs incurred by the infrastructure that supports the [meek](https://trac.torproject.org/projects/tor/wiki/doc/meek) pluggable transport since its introduction. The total to date from both the Google App Engine and Amazon AWS front domains? $6.56.
 
 Thanks to [P D](https://lists.torproject.org/pipermail/tor-mirrors/2014-August/000653.html) and [Daniel Pajonzeck](https://lists.torproject.org/pipermail/tor-mirrors/2014-August/000673.html) for running mirrors of the Tor Project website and software!
 
